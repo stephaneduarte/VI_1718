@@ -1,0 +1,2684 @@
+[
+ {
+   "state": "Alabama",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 10,
+   "adult": 0,
+   "senior": 0
+ },
+ {
+   "state": "Alabama",
+   "year": 2014,
+   "child": 27,
+   "teenager": 86,
+   "earlyadult": 459,
+   "adult": 321,
+   "senior": 50
+ },
+ {
+   "state": "Alabama",
+   "year": 2015,
+   "child": 19,
+   "teenager": 74,
+   "earlyadult": 389,
+   "adult": 323,
+   "senior": 56
+ },
+ {
+   "state": "Alabama",
+   "year": 2016,
+   "child": 26,
+   "teenager": 71,
+   "earlyadult": 509,
+   "adult": 398,
+   "senior": 53
+ },
+ {
+   "state": "Alabama",
+   "year": 2017,
+   "child": 33,
+   "teenager": 111,
+   "earlyadult": 597,
+   "adult": 472,
+   "senior": 66
+ },
+ {
+   "state": "Alabama",
+   "year": 2018,
+   "child": 11,
+   "teenager": 29,
+   "earlyadult": 151,
+   "adult": 91,
+   "senior": 17
+ },
+ {
+   "state": "Alaska",
+   "year": 2014,
+   "child": 1,
+   "teenager": 10,
+   "earlyadult": 44,
+   "adult": 35,
+   "senior": 3
+ },
+ {
+   "state": "Alaska",
+   "year": 2015,
+   "child": 14,
+   "teenager": 18,
+   "earlyadult": 160,
+   "adult": 144,
+   "senior": 11
+ },
+ {
+   "state": "Alaska",
+   "year": 2016,
+   "child": 4,
+   "teenager": 23,
+   "earlyadult": 169,
+   "adult": 162,
+   "senior": 16
+ },
+ {
+   "state": "Alaska",
+   "year": 2017,
+   "child": 3,
+   "teenager": 8,
+   "earlyadult": 109,
+   "adult": 115,
+   "senior": 15
+ },
+ {
+   "state": "Alaska",
+   "year": 2018,
+   "child": 1,
+   "teenager": 0,
+   "earlyadult": 18,
+   "adult": 17,
+   "senior": 2
+ },
+ {
+   "state": "Arizona",
+   "year": 2013,
+   "child": 0,
+   "teenager": 5,
+   "earlyadult": 12,
+   "adult": 4,
+   "senior": 1
+ },
+ {
+   "state": "Arizona",
+   "year": 2014,
+   "child": 14,
+   "teenager": 21,
+   "earlyadult": 181,
+   "adult": 182,
+   "senior": 17
+ },
+ {
+   "state": "Arizona",
+   "year": 2015,
+   "child": 14,
+   "teenager": 14,
+   "earlyadult": 161,
+   "adult": 126,
+   "senior": 19
+ },
+ {
+   "state": "Arizona",
+   "year": 2016,
+   "child": 13,
+   "teenager": 43,
+   "earlyadult": 186,
+   "adult": 188,
+   "senior": 24
+ },
+ {
+   "state": "Arizona",
+   "year": 2017,
+   "child": 11,
+   "teenager": 45,
+   "earlyadult": 217,
+   "adult": 246,
+   "senior": 36
+ },
+ {
+   "state": "Arizona",
+   "year": 2018,
+   "child": 2,
+   "teenager": 16,
+   "earlyadult": 65,
+   "adult": 43,
+   "senior": 11
+ },
+ {
+   "state": "Arkansas",
+   "year": 2014,
+   "child": 14,
+   "teenager": 30,
+   "earlyadult": 259,
+   "adult": 198,
+   "senior": 45
+ },
+ {
+   "state": "Arkansas",
+   "year": 2015,
+   "child": 10,
+   "teenager": 30,
+   "earlyadult": 243,
+   "adult": 205,
+   "senior": 21
+ },
+ {
+   "state": "Arkansas",
+   "year": 2016,
+   "child": 11,
+   "teenager": 53,
+   "earlyadult": 274,
+   "adult": 235,
+   "senior": 32
+ },
+ {
+   "state": "Arkansas",
+   "year": 2017,
+   "child": 22,
+   "teenager": 60,
+   "earlyadult": 410,
+   "adult": 316,
+   "senior": 37
+ },
+ {
+   "state": "Arkansas",
+   "year": 2018,
+   "child": 4,
+   "teenager": 15,
+   "earlyadult": 80,
+   "adult": 67,
+   "senior": 6
+ },
+ {
+   "state": "California",
+   "year": 2013,
+   "child": 5,
+   "teenager": 12,
+   "earlyadult": 67,
+   "adult": 15,
+   "senior": 4
+ },
+ {
+   "state": "California",
+   "year": 2014,
+   "child": 40,
+   "teenager": 213,
+   "earlyadult": 1217,
+   "adult": 887,
+   "senior": 108
+ },
+ {
+   "state": "California",
+   "year": 2015,
+   "child": 45,
+   "teenager": 231,
+   "earlyadult": 1177,
+   "adult": 925,
+   "senior": 106
+ },
+ {
+   "state": "California",
+   "year": 2016,
+   "child": 36,
+   "teenager": 226,
+   "earlyadult": 1466,
+   "adult": 1091,
+   "senior": 98
+ },
+ {
+   "state": "California",
+   "year": 2017,
+   "child": 59,
+   "teenager": 291,
+   "earlyadult": 1858,
+   "adult": 1595,
+   "senior": 137
+ },
+ {
+   "state": "California",
+   "year": 2018,
+   "child": 15,
+   "teenager": 65,
+   "earlyadult": 448,
+   "adult": 393,
+   "senior": 51
+ },
+ {
+   "state": "Colorado",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 1,
+   "adult": 3,
+   "senior": 0
+ },
+ {
+   "state": "Colorado",
+   "year": 2014,
+   "child": 4,
+   "teenager": 29,
+   "earlyadult": 134,
+   "adult": 144,
+   "senior": 16
+ },
+ {
+   "state": "Colorado",
+   "year": 2015,
+   "child": 3,
+   "teenager": 30,
+   "earlyadult": 227,
+   "adult": 223,
+   "senior": 34
+ },
+ {
+   "state": "Colorado",
+   "year": 2016,
+   "child": 11,
+   "teenager": 36,
+   "earlyadult": 238,
+   "adult": 238,
+   "senior": 14
+ },
+ {
+   "state": "Colorado",
+   "year": 2017,
+   "child": 15,
+   "teenager": 43,
+   "earlyadult": 241,
+   "adult": 252,
+   "senior": 18
+ },
+ {
+   "state": "Colorado",
+   "year": 2018,
+   "child": 4,
+   "teenager": 5,
+   "earlyadult": 45,
+   "adult": 72,
+   "senior": 2
+ },
+ {
+   "state": "Connecticut",
+   "year": 2013,
+   "child": 0,
+   "teenager": 3,
+   "earlyadult": 15,
+   "adult": 1,
+   "senior": 0
+ },
+ {
+   "state": "Connecticut",
+   "year": 2014,
+   "child": 4,
+   "teenager": 40,
+   "earlyadult": 279,
+   "adult": 149,
+   "senior": 14
+ },
+ {
+   "state": "Connecticut",
+   "year": 2015,
+   "child": 9,
+   "teenager": 55,
+   "earlyadult": 430,
+   "adult": 277,
+   "senior": 13
+ },
+ {
+   "state": "Connecticut",
+   "year": 2016,
+   "child": 3,
+   "teenager": 39,
+   "earlyadult": 359,
+   "adult": 217,
+   "senior": 17
+ },
+ {
+   "state": "Connecticut",
+   "year": 2017,
+   "child": 5,
+   "teenager": 36,
+   "earlyadult": 320,
+   "adult": 245,
+   "senior": 8
+ },
+ {
+   "state": "Connecticut",
+   "year": 2018,
+   "child": 0,
+   "teenager": 9,
+   "earlyadult": 59,
+   "adult": 62,
+   "senior": 4
+ },
+ {
+   "state": "Delaware",
+   "year": 2013,
+   "child": 0,
+   "teenager": 2,
+   "earlyadult": 5,
+   "adult": 2,
+   "senior": 1
+ },
+ {
+   "state": "Delaware",
+   "year": 2014,
+   "child": 5,
+   "teenager": 43,
+   "earlyadult": 232,
+   "adult": 111,
+   "senior": 12
+ },
+ {
+   "state": "Delaware",
+   "year": 2015,
+   "child": 6,
+   "teenager": 34,
+   "earlyadult": 233,
+   "adult": 115,
+   "senior": 5
+ },
+ {
+   "state": "Delaware",
+   "year": 2016,
+   "child": 3,
+   "teenager": 56,
+   "earlyadult": 196,
+   "adult": 102,
+   "senior": 4
+ },
+ {
+   "state": "Delaware",
+   "year": 2017,
+   "child": 3,
+   "teenager": 34,
+   "earlyadult": 250,
+   "adult": 117,
+   "senior": 14
+ },
+ {
+   "state": "Delaware",
+   "year": 2018,
+   "child": 0,
+   "teenager": 7,
+   "earlyadult": 66,
+   "adult": 27,
+   "senior": 1
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2013,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 3,
+   "adult": 12,
+   "senior": 4
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2014,
+   "child": 6,
+   "teenager": 8,
+   "earlyadult": 85,
+   "adult": 39,
+   "senior": 2
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2015,
+   "child": 6,
+   "teenager": 12,
+   "earlyadult": 108,
+   "adult": 44,
+   "senior": 1
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2016,
+   "child": 9,
+   "teenager": 10,
+   "earlyadult": 87,
+   "adult": 49,
+   "senior": 4
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2017,
+   "child": 2,
+   "teenager": 28,
+   "earlyadult": 140,
+   "adult": 80,
+   "senior": 2
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2018,
+   "child": 0,
+   "teenager": 16,
+   "earlyadult": 26,
+   "adult": 10,
+   "senior": 0
+ },
+ {
+   "state": "Florida",
+   "year": 2013,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 11,
+   "adult": 9,
+   "senior": 7
+ },
+ {
+   "state": "Florida",
+   "year": 2014,
+   "child": 81,
+   "teenager": 228,
+   "earlyadult": 992,
+   "adult": 759,
+   "senior": 138
+ },
+ {
+   "state": "Florida",
+   "year": 2015,
+   "child": 56,
+   "teenager": 242,
+   "earlyadult": 954,
+   "adult": 655,
+   "senior": 119
+ },
+ {
+   "state": "Florida",
+   "year": 2016,
+   "child": 64,
+   "teenager": 417,
+   "earlyadult": 1721,
+   "adult": 1188,
+   "senior": 177
+ },
+ {
+   "state": "Florida",
+   "year": 2017,
+   "child": 62,
+   "teenager": 404,
+   "earlyadult": 1723,
+   "adult": 1216,
+   "senior": 197
+ },
+ {
+   "state": "Florida",
+   "year": 2018,
+   "child": 17,
+   "teenager": 82,
+   "earlyadult": 292,
+   "adult": 257,
+   "senior": 35
+ },
+ {
+   "state": "Georgia",
+   "year": 2013,
+   "child": 1,
+   "teenager": 0,
+   "earlyadult": 5,
+   "adult": 4,
+   "senior": 0
+ },
+ {
+   "state": "Georgia",
+   "year": 2014,
+   "child": 44,
+   "teenager": 166,
+   "earlyadult": 929,
+   "adult": 573,
+   "senior": 56
+ },
+ {
+   "state": "Georgia",
+   "year": 2015,
+   "child": 79,
+   "teenager": 248,
+   "earlyadult": 1359,
+   "adult": 899,
+   "senior": 103
+ },
+ {
+   "state": "Georgia",
+   "year": 2016,
+   "child": 41,
+   "teenager": 141,
+   "earlyadult": 700,
+   "adult": 473,
+   "senior": 48
+ },
+ {
+   "state": "Georgia",
+   "year": 2017,
+   "child": 46,
+   "teenager": 198,
+   "earlyadult": 859,
+   "adult": 605,
+   "senior": 68
+ },
+ {
+   "state": "Georgia",
+   "year": 2018,
+   "child": 13,
+   "teenager": 29,
+   "earlyadult": 153,
+   "adult": 129,
+   "senior": 17
+ },
+ {
+   "state": "Hawaii",
+   "year": 2014,
+   "child": 1,
+   "teenager": 1,
+   "earlyadult": 13,
+   "adult": 14,
+   "senior": 3
+ },
+ {
+   "state": "Hawaii",
+   "year": 2015,
+   "child": 0,
+   "teenager": 9,
+   "earlyadult": 33,
+   "adult": 56,
+   "senior": 3
+ },
+ {
+   "state": "Hawaii",
+   "year": 2016,
+   "child": 2,
+   "teenager": 4,
+   "earlyadult": 30,
+   "adult": 63,
+   "senior": 9
+ },
+ {
+   "state": "Hawaii",
+   "year": 2017,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 38,
+   "adult": 33,
+   "senior": 2
+ },
+ {
+   "state": "Hawaii",
+   "year": 2018,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 6,
+   "adult": 6,
+   "senior": 1
+ },
+ {
+   "state": "Idaho",
+   "year": 2014,
+   "child": 8,
+   "teenager": 3,
+   "earlyadult": 29,
+   "adult": 52,
+   "senior": 3
+ },
+ {
+   "state": "Idaho",
+   "year": 2015,
+   "child": 7,
+   "teenager": 14,
+   "earlyadult": 74,
+   "adult": 83,
+   "senior": 14
+ },
+ {
+   "state": "Idaho",
+   "year": 2016,
+   "child": 4,
+   "teenager": 10,
+   "earlyadult": 47,
+   "adult": 73,
+   "senior": 8
+ },
+ {
+   "state": "Idaho",
+   "year": 2017,
+   "child": 5,
+   "teenager": 13,
+   "earlyadult": 59,
+   "adult": 71,
+   "senior": 16
+ },
+ {
+   "state": "Idaho",
+   "year": 2018,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 17,
+   "adult": 15,
+   "senior": 5
+ },
+ {
+   "state": "Illinois",
+   "year": 2013,
+   "child": 3,
+   "teenager": 13,
+   "earlyadult": 53,
+   "adult": 25,
+   "senior": 1
+ },
+ {
+   "state": "Illinois",
+   "year": 2014,
+   "child": 30,
+   "teenager": 465,
+   "earlyadult": 1852,
+   "adult": 833,
+   "senior": 54
+ },
+ {
+   "state": "Illinois",
+   "year": 2015,
+   "child": 34,
+   "teenager": 457,
+   "earlyadult": 2281,
+   "adult": 978,
+   "senior": 66
+ },
+ {
+   "state": "Illinois",
+   "year": 2016,
+   "child": 41,
+   "teenager": 608,
+   "earlyadult": 3056,
+   "adult": 1402,
+   "senior": 77
+ },
+ {
+   "state": "Illinois",
+   "year": 2017,
+   "child": 48,
+   "teenager": 537,
+   "earlyadult": 2911,
+   "adult": 1466,
+   "senior": 92
+ },
+ {
+   "state": "Illinois",
+   "year": 2018,
+   "child": 9,
+   "teenager": 79,
+   "earlyadult": 403,
+   "adult": 221,
+   "senior": 17
+ },
+ {
+   "state": "Indiana",
+   "year": 2013,
+   "child": 0,
+   "teenager": 3,
+   "earlyadult": 8,
+   "adult": 6,
+   "senior": 0
+ },
+ {
+   "state": "Indiana",
+   "year": 2014,
+   "child": 29,
+   "teenager": 88,
+   "earlyadult": 494,
+   "adult": 291,
+   "senior": 42
+ },
+ {
+   "state": "Indiana",
+   "year": 2015,
+   "child": 28,
+   "teenager": 108,
+   "earlyadult": 531,
+   "adult": 361,
+   "senior": 40
+ },
+ {
+   "state": "Indiana",
+   "year": 2016,
+   "child": 23,
+   "teenager": 93,
+   "earlyadult": 577,
+   "adult": 439,
+   "senior": 46
+ },
+ {
+   "state": "Indiana",
+   "year": 2017,
+   "child": 17,
+   "teenager": 132,
+   "earlyadult": 668,
+   "adult": 533,
+   "senior": 57
+ },
+ {
+   "state": "Indiana",
+   "year": 2018,
+   "child": 3,
+   "teenager": 24,
+   "earlyadult": 119,
+   "adult": 147,
+   "senior": 9
+ },
+ {
+   "state": "Iowa",
+   "year": 2014,
+   "child": 10,
+   "teenager": 45,
+   "earlyadult": 238,
+   "adult": 136,
+   "senior": 17
+ },
+ {
+   "state": "Iowa",
+   "year": 2015,
+   "child": 9,
+   "teenager": 67,
+   "earlyadult": 262,
+   "adult": 140,
+   "senior": 16
+ },
+ {
+   "state": "Iowa",
+   "year": 2016,
+   "child": 5,
+   "teenager": 59,
+   "earlyadult": 306,
+   "adult": 146,
+   "senior": 15
+ },
+ {
+   "state": "Iowa",
+   "year": 2017,
+   "child": 5,
+   "teenager": 47,
+   "earlyadult": 298,
+   "adult": 179,
+   "senior": 11
+ },
+ {
+   "state": "Iowa",
+   "year": 2018,
+   "child": 0,
+   "teenager": 12,
+   "earlyadult": 43,
+   "adult": 27,
+   "senior": 2
+ },
+ {
+   "state": "Kansas",
+   "year": 2013,
+   "child": 0,
+   "teenager": 2,
+   "earlyadult": 11,
+   "adult": 7,
+   "senior": 0
+ },
+ {
+   "state": "Kansas",
+   "year": 2014,
+   "child": 13,
+   "teenager": 32,
+   "earlyadult": 159,
+   "adult": 131,
+   "senior": 21
+ },
+ {
+   "state": "Kansas",
+   "year": 2015,
+   "child": 9,
+   "teenager": 33,
+   "earlyadult": 229,
+   "adult": 162,
+   "senior": 13
+ },
+ {
+   "state": "Kansas",
+   "year": 2016,
+   "child": 5,
+   "teenager": 34,
+   "earlyadult": 218,
+   "adult": 161,
+   "senior": 9
+ },
+ {
+   "state": "Kansas",
+   "year": 2017,
+   "child": 10,
+   "teenager": 41,
+   "earlyadult": 209,
+   "adult": 207,
+   "senior": 22
+ },
+ {
+   "state": "Kansas",
+   "year": 2018,
+   "child": 2,
+   "teenager": 13,
+   "earlyadult": 70,
+   "adult": 47,
+   "senior": 2
+ },
+ {
+   "state": "Kentucky",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 6,
+   "adult": 3,
+   "senior": 0
+ },
+ {
+   "state": "Kentucky",
+   "year": 2014,
+   "child": 12,
+   "teenager": 37,
+   "earlyadult": 390,
+   "adult": 296,
+   "senior": 43
+ },
+ {
+   "state": "Kentucky",
+   "year": 2015,
+   "child": 15,
+   "teenager": 40,
+   "earlyadult": 391,
+   "adult": 304,
+   "senior": 49
+ },
+ {
+   "state": "Kentucky",
+   "year": 2016,
+   "child": 14,
+   "teenager": 72,
+   "earlyadult": 366,
+   "adult": 332,
+   "senior": 37
+ },
+ {
+   "state": "Kentucky",
+   "year": 2017,
+   "child": 20,
+   "teenager": 78,
+   "earlyadult": 385,
+   "adult": 375,
+   "senior": 39
+ },
+ {
+   "state": "Kentucky",
+   "year": 2018,
+   "child": 3,
+   "teenager": 16,
+   "earlyadult": 82,
+   "adult": 84,
+   "senior": 17
+ },
+ {
+   "state": "Louisiana",
+   "year": 2013,
+   "child": 5,
+   "teenager": 2,
+   "earlyadult": 24,
+   "adult": 4,
+   "senior": 6
+ },
+ {
+   "state": "Louisiana",
+   "year": 2014,
+   "child": 37,
+   "teenager": 182,
+   "earlyadult": 896,
+   "adult": 554,
+   "senior": 52
+ },
+ {
+   "state": "Louisiana",
+   "year": 2015,
+   "child": 44,
+   "teenager": 222,
+   "earlyadult": 916,
+   "adult": 638,
+   "senior": 55
+ },
+ {
+   "state": "Louisiana",
+   "year": 2016,
+   "child": 34,
+   "teenager": 178,
+   "earlyadult": 976,
+   "adult": 707,
+   "senior": 49
+ },
+ {
+   "state": "Louisiana",
+   "year": 2017,
+   "child": 31,
+   "teenager": 189,
+   "earlyadult": 955,
+   "adult": 606,
+   "senior": 75
+ },
+ {
+   "state": "Louisiana",
+   "year": 2018,
+   "child": 13,
+   "teenager": 52,
+   "earlyadult": 168,
+   "adult": 115,
+   "senior": 3
+ },
+ {
+   "state": "Maine",
+   "year": 2014,
+   "child": 4,
+   "teenager": 5,
+   "earlyadult": 68,
+   "adult": 90,
+   "senior": 9
+ },
+ {
+   "state": "Maine",
+   "year": 2015,
+   "child": 0,
+   "teenager": 7,
+   "earlyadult": 102,
+   "adult": 113,
+   "senior": 13
+ },
+ {
+   "state": "Maine",
+   "year": 2016,
+   "child": 1,
+   "teenager": 10,
+   "earlyadult": 89,
+   "adult": 100,
+   "senior": 8
+ },
+ {
+   "state": "Maine",
+   "year": 2017,
+   "child": 4,
+   "teenager": 4,
+   "earlyadult": 78,
+   "adult": 99,
+   "senior": 16
+ },
+ {
+   "state": "Maine",
+   "year": 2018,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 14,
+   "adult": 18,
+   "senior": 3
+ },
+ {
+   "state": "Maryland",
+   "year": 2013,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 6,
+   "adult": 1,
+   "senior": 0
+ },
+ {
+   "state": "Maryland",
+   "year": 2014,
+   "child": 7,
+   "teenager": 42,
+   "earlyadult": 323,
+   "adult": 226,
+   "senior": 27
+ },
+ {
+   "state": "Maryland",
+   "year": 2015,
+   "child": 14,
+   "teenager": 79,
+   "earlyadult": 562,
+   "adult": 375,
+   "senior": 22
+ },
+ {
+   "state": "Maryland",
+   "year": 2016,
+   "child": 14,
+   "teenager": 70,
+   "earlyadult": 773,
+   "adult": 419,
+   "senior": 29
+ },
+ {
+   "state": "Maryland",
+   "year": 2017,
+   "child": 8,
+   "teenager": 135,
+   "earlyadult": 984,
+   "adult": 629,
+   "senior": 27
+ },
+ {
+   "state": "Maryland",
+   "year": 2018,
+   "child": 1,
+   "teenager": 46,
+   "earlyadult": 187,
+   "adult": 141,
+   "senior": 5
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2014,
+   "child": 3,
+   "teenager": 50,
+   "earlyadult": 413,
+   "adult": 180,
+   "senior": 11
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2015,
+   "child": 10,
+   "teenager": 111,
+   "earlyadult": 900,
+   "adult": 367,
+   "senior": 23
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2016,
+   "child": 10,
+   "teenager": 106,
+   "earlyadult": 799,
+   "adult": 377,
+   "senior": 26
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2017,
+   "child": 5,
+   "teenager": 92,
+   "earlyadult": 899,
+   "adult": 421,
+   "senior": 21
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2018,
+   "child": 0,
+   "teenager": 18,
+   "earlyadult": 183,
+   "adult": 94,
+   "senior": 5
+ },
+ {
+   "state": "Michigan",
+   "year": 2013,
+   "child": 3,
+   "teenager": 9,
+   "earlyadult": 21,
+   "adult": 7,
+   "senior": 2
+ },
+ {
+   "state": "Michigan",
+   "year": 2014,
+   "child": 33,
+   "teenager": 144,
+   "earlyadult": 580,
+   "adult": 372,
+   "senior": 59
+ },
+ {
+   "state": "Michigan",
+   "year": 2015,
+   "child": 49,
+   "teenager": 113,
+   "earlyadult": 570,
+   "adult": 406,
+   "senior": 68
+ },
+ {
+   "state": "Michigan",
+   "year": 2016,
+   "child": 32,
+   "teenager": 142,
+   "earlyadult": 614,
+   "adult": 391,
+   "senior": 70
+ },
+ {
+   "state": "Michigan",
+   "year": 2017,
+   "child": 26,
+   "teenager": 134,
+   "earlyadult": 686,
+   "adult": 455,
+   "senior": 54
+ },
+ {
+   "state": "Michigan",
+   "year": 2018,
+   "child": 6,
+   "teenager": 24,
+   "earlyadult": 135,
+   "adult": 125,
+   "senior": 17
+ },
+ {
+   "state": "Minnesota",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 4,
+   "adult": 2,
+   "senior": 0
+ },
+ {
+   "state": "Minnesota",
+   "year": 2014,
+   "child": 6,
+   "teenager": 38,
+   "earlyadult": 172,
+   "adult": 117,
+   "senior": 19
+ },
+ {
+   "state": "Minnesota",
+   "year": 2015,
+   "child": 6,
+   "teenager": 59,
+   "earlyadult": 222,
+   "adult": 154,
+   "senior": 19
+ },
+ {
+   "state": "Minnesota",
+   "year": 2016,
+   "child": 5,
+   "teenager": 23,
+   "earlyadult": 198,
+   "adult": 154,
+   "senior": 13
+ },
+ {
+   "state": "Minnesota",
+   "year": 2017,
+   "child": 7,
+   "teenager": 43,
+   "earlyadult": 284,
+   "adult": 196,
+   "senior": 16
+ },
+ {
+   "state": "Minnesota",
+   "year": 2018,
+   "child": 1,
+   "teenager": 12,
+   "earlyadult": 48,
+   "adult": 47,
+   "senior": 0
+ },
+ {
+   "state": "Mississippi",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 4,
+   "adult": 1,
+   "senior": 0
+ },
+ {
+   "state": "Mississippi",
+   "year": 2014,
+   "child": 8,
+   "teenager": 37,
+   "earlyadult": 331,
+   "adult": 205,
+   "senior": 30
+ },
+ {
+   "state": "Mississippi",
+   "year": 2015,
+   "child": 16,
+   "teenager": 29,
+   "earlyadult": 248,
+   "adult": 195,
+   "senior": 30
+ },
+ {
+   "state": "Mississippi",
+   "year": 2016,
+   "child": 13,
+   "teenager": 58,
+   "earlyadult": 328,
+   "adult": 236,
+   "senior": 31
+ },
+ {
+   "state": "Mississippi",
+   "year": 2017,
+   "child": 37,
+   "teenager": 103,
+   "earlyadult": 407,
+   "adult": 340,
+   "senior": 47
+ },
+ {
+   "state": "Mississippi",
+   "year": 2018,
+   "child": 2,
+   "teenager": 25,
+   "earlyadult": 112,
+   "adult": 97,
+   "senior": 11
+ },
+ {
+   "state": "Missouri",
+   "year": 2013,
+   "child": 0,
+   "teenager": 7,
+   "earlyadult": 20,
+   "adult": 6,
+   "senior": 0
+ },
+ {
+   "state": "Missouri",
+   "year": 2014,
+   "child": 38,
+   "teenager": 85,
+   "earlyadult": 531,
+   "adult": 366,
+   "senior": 40
+ },
+ {
+   "state": "Missouri",
+   "year": 2015,
+   "child": 53,
+   "teenager": 114,
+   "earlyadult": 792,
+   "adult": 576,
+   "senior": 69
+ },
+ {
+   "state": "Missouri",
+   "year": 2016,
+   "child": 36,
+   "teenager": 90,
+   "earlyadult": 647,
+   "adult": 524,
+   "senior": 42
+ },
+ {
+   "state": "Missouri",
+   "year": 2017,
+   "child": 45,
+   "teenager": 120,
+   "earlyadult": 768,
+   "adult": 635,
+   "senior": 61
+ },
+ {
+   "state": "Missouri",
+   "year": 2018,
+   "child": 14,
+   "teenager": 18,
+   "earlyadult": 141,
+   "adult": 114,
+   "senior": 11
+ },
+ {
+   "state": "Montana",
+   "year": 2014,
+   "child": 4,
+   "teenager": 2,
+   "earlyadult": 36,
+   "adult": 49,
+   "senior": 6
+ },
+ {
+   "state": "Montana",
+   "year": 2015,
+   "child": 5,
+   "teenager": 6,
+   "earlyadult": 36,
+   "adult": 64,
+   "senior": 9
+ },
+ {
+   "state": "Montana",
+   "year": 2016,
+   "child": 5,
+   "teenager": 3,
+   "earlyadult": 40,
+   "adult": 75,
+   "senior": 14
+ },
+ {
+   "state": "Montana",
+   "year": 2017,
+   "child": 3,
+   "teenager": 3,
+   "earlyadult": 47,
+   "adult": 77,
+   "senior": 15
+ },
+ {
+   "state": "Montana",
+   "year": 2018,
+   "child": 0,
+   "teenager": 2,
+   "earlyadult": 12,
+   "adult": 19,
+   "senior": 3
+ },
+ {
+   "state": "Nebraska",
+   "year": 2013,
+   "child": 1,
+   "teenager": 2,
+   "earlyadult": 1,
+   "adult": 0,
+   "senior": 0
+ },
+ {
+   "state": "Nebraska",
+   "year": 2014,
+   "child": 6,
+   "teenager": 31,
+   "earlyadult": 168,
+   "adult": 80,
+   "senior": 9
+ },
+ {
+   "state": "Nebraska",
+   "year": 2015,
+   "child": 6,
+   "teenager": 26,
+   "earlyadult": 230,
+   "adult": 112,
+   "senior": 12
+ },
+ {
+   "state": "Nebraska",
+   "year": 2016,
+   "child": 4,
+   "teenager": 32,
+   "earlyadult": 193,
+   "adult": 146,
+   "senior": 13
+ },
+ {
+   "state": "Nebraska",
+   "year": 2017,
+   "child": 4,
+   "teenager": 50,
+   "earlyadult": 187,
+   "adult": 126,
+   "senior": 18
+ },
+ {
+   "state": "Nebraska",
+   "year": 2018,
+   "child": 1,
+   "teenager": 9,
+   "earlyadult": 27,
+   "adult": 28,
+   "senior": 1
+ },
+ {
+   "state": "Nevada",
+   "year": 2013,
+   "child": 1,
+   "teenager": 0,
+   "earlyadult": 0,
+   "adult": 0,
+   "senior": 0
+ },
+ {
+   "state": "Nevada",
+   "year": 2014,
+   "child": 4,
+   "teenager": 9,
+   "earlyadult": 94,
+   "adult": 87,
+   "senior": 18
+ },
+ {
+   "state": "Nevada",
+   "year": 2015,
+   "child": 12,
+   "teenager": 33,
+   "earlyadult": 126,
+   "adult": 163,
+   "senior": 29
+ },
+ {
+   "state": "Nevada",
+   "year": 2016,
+   "child": 7,
+   "teenager": 24,
+   "earlyadult": 143,
+   "adult": 138,
+   "senior": 7
+ },
+ {
+   "state": "Nevada",
+   "year": 2017,
+   "child": 6,
+   "teenager": 22,
+   "earlyadult": 159,
+   "adult": 157,
+   "senior": 18
+ },
+ {
+   "state": "Nevada",
+   "year": 2018,
+   "child": 1,
+   "teenager": 9,
+   "earlyadult": 38,
+   "adult": 39,
+   "senior": 5
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2014,
+   "child": 3,
+   "teenager": 9,
+   "earlyadult": 86,
+   "adult": 66,
+   "senior": 7
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2015,
+   "child": 6,
+   "teenager": 18,
+   "earlyadult": 102,
+   "adult": 82,
+   "senior": 11
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2016,
+   "child": 2,
+   "teenager": 5,
+   "earlyadult": 102,
+   "adult": 92,
+   "senior": 8
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2017,
+   "child": 1,
+   "teenager": 4,
+   "earlyadult": 66,
+   "adult": 89,
+   "senior": 7
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2018,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 20,
+   "adult": 19,
+   "senior": 0
+ },
+ {
+   "state": "New Jersey",
+   "year": 2013,
+   "child": 1,
+   "teenager": 5,
+   "earlyadult": 14,
+   "adult": 14,
+   "senior": 1
+ },
+ {
+   "state": "New Jersey",
+   "year": 2014,
+   "child": 19,
+   "teenager": 100,
+   "earlyadult": 856,
+   "adult": 414,
+   "senior": 32
+ },
+ {
+   "state": "New Jersey",
+   "year": 2015,
+   "child": 14,
+   "teenager": 94,
+   "earlyadult": 671,
+   "adult": 364,
+   "senior": 15
+ },
+ {
+   "state": "New Jersey",
+   "year": 2016,
+   "child": 14,
+   "teenager": 113,
+   "earlyadult": 805,
+   "adult": 405,
+   "senior": 19
+ },
+ {
+   "state": "New Jersey",
+   "year": 2017,
+   "child": 6,
+   "teenager": 145,
+   "earlyadult": 937,
+   "adult": 519,
+   "senior": 27
+ },
+ {
+   "state": "New Jersey",
+   "year": 2018,
+   "child": 2,
+   "teenager": 13,
+   "earlyadult": 128,
+   "adult": 77,
+   "senior": 4
+ },
+ {
+   "state": "New Mexico",
+   "year": 2013,
+   "child": 3,
+   "teenager": 1,
+   "earlyadult": 5,
+   "adult": 2,
+   "senior": 0
+ },
+ {
+   "state": "New Mexico",
+   "year": 2014,
+   "child": 8,
+   "teenager": 15,
+   "earlyadult": 104,
+   "adult": 93,
+   "senior": 22
+ },
+ {
+   "state": "New Mexico",
+   "year": 2015,
+   "child": 11,
+   "teenager": 38,
+   "earlyadult": 159,
+   "adult": 154,
+   "senior": 14
+ },
+ {
+   "state": "New Mexico",
+   "year": 2016,
+   "child": 10,
+   "teenager": 17,
+   "earlyadult": 149,
+   "adult": 155,
+   "senior": 20
+ },
+ {
+   "state": "New Mexico",
+   "year": 2017,
+   "child": 4,
+   "teenager": 21,
+   "earlyadult": 158,
+   "adult": 151,
+   "senior": 12
+ },
+ {
+   "state": "New Mexico",
+   "year": 2018,
+   "child": 0,
+   "teenager": 4,
+   "earlyadult": 26,
+   "adult": 25,
+   "senior": 3
+ },
+ {
+   "state": "New York",
+   "year": 2013,
+   "child": 1,
+   "teenager": 8,
+   "earlyadult": 26,
+   "adult": 8,
+   "senior": 7
+ },
+ {
+   "state": "New York",
+   "year": 2014,
+   "child": 21,
+   "teenager": 157,
+   "earlyadult": 1031,
+   "adult": 620,
+   "senior": 60
+ },
+ {
+   "state": "New York",
+   "year": 2015,
+   "child": 22,
+   "teenager": 315,
+   "earlyadult": 1922,
+   "adult": 1178,
+   "senior": 83
+ },
+ {
+   "state": "New York",
+   "year": 2016,
+   "child": 27,
+   "teenager": 222,
+   "earlyadult": 1497,
+   "adult": 1042,
+   "senior": 68
+ },
+ {
+   "state": "New York",
+   "year": 2017,
+   "child": 19,
+   "teenager": 181,
+   "earlyadult": 1112,
+   "adult": 790,
+   "senior": 69
+ },
+ {
+   "state": "New York",
+   "year": 2018,
+   "child": 3,
+   "teenager": 25,
+   "earlyadult": 153,
+   "adult": 135,
+   "senior": 7
+ },
+ {
+   "state": "North Carolina",
+   "year": 2013,
+   "child": 1,
+   "teenager": 4,
+   "earlyadult": 19,
+   "adult": 8,
+   "senior": 3
+ },
+ {
+   "state": "North Carolina",
+   "year": 2014,
+   "child": 69,
+   "teenager": 147,
+   "earlyadult": 1020,
+   "adult": 540,
+   "senior": 78
+ },
+ {
+   "state": "North Carolina",
+   "year": 2015,
+   "child": 32,
+   "teenager": 133,
+   "earlyadult": 896,
+   "adult": 560,
+   "senior": 56
+ },
+ {
+   "state": "North Carolina",
+   "year": 2016,
+   "child": 25,
+   "teenager": 165,
+   "earlyadult": 849,
+   "adult": 583,
+   "senior": 85
+ },
+ {
+   "state": "North Carolina",
+   "year": 2017,
+   "child": 27,
+   "teenager": 194,
+   "earlyadult": 1088,
+   "adult": 651,
+   "senior": 86
+ },
+ {
+   "state": "North Carolina",
+   "year": 2018,
+   "child": 6,
+   "teenager": 46,
+   "earlyadult": 212,
+   "adult": 142,
+   "senior": 22
+ },
+ {
+   "state": "North Dakota",
+   "year": 2014,
+   "child": 3,
+   "teenager": 6,
+   "earlyadult": 43,
+   "adult": 34,
+   "senior": 4
+ },
+ {
+   "state": "North Dakota",
+   "year": 2015,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 49,
+   "adult": 66,
+   "senior": 3
+ },
+ {
+   "state": "North Dakota",
+   "year": 2016,
+   "child": 3,
+   "teenager": 3,
+   "earlyadult": 64,
+   "adult": 51,
+   "senior": 1
+ },
+ {
+   "state": "North Dakota",
+   "year": 2017,
+   "child": 3,
+   "teenager": 3,
+   "earlyadult": 76,
+   "adult": 52,
+   "senior": 2
+ },
+ {
+   "state": "North Dakota",
+   "year": 2018,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 12,
+   "adult": 8,
+   "senior": 0
+ },
+ {
+   "state": "Ohio",
+   "year": 2013,
+   "child": 0,
+   "teenager": 3,
+   "earlyadult": 24,
+   "adult": 12,
+   "senior": 1
+ },
+ {
+   "state": "Ohio",
+   "year": 2014,
+   "child": 53,
+   "teenager": 201,
+   "earlyadult": 942,
+   "adult": 549,
+   "senior": 74
+ },
+ {
+   "state": "Ohio",
+   "year": 2015,
+   "child": 52,
+   "teenager": 188,
+   "earlyadult": 1021,
+   "adult": 623,
+   "senior": 65
+ },
+ {
+   "state": "Ohio",
+   "year": 2016,
+   "child": 40,
+   "teenager": 208,
+   "earlyadult": 1067,
+   "adult": 684,
+   "senior": 71
+ },
+ {
+   "state": "Ohio",
+   "year": 2017,
+   "child": 53,
+   "teenager": 224,
+   "earlyadult": 1288,
+   "adult": 902,
+   "senior": 92
+ },
+ {
+   "state": "Ohio",
+   "year": 2018,
+   "child": 10,
+   "teenager": 50,
+   "earlyadult": 222,
+   "adult": 185,
+   "senior": 16
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2013,
+   "child": 1,
+   "teenager": 1,
+   "earlyadult": 9,
+   "adult": 14,
+   "senior": 0
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2014,
+   "child": 24,
+   "teenager": 32,
+   "earlyadult": 199,
+   "adult": 148,
+   "senior": 16
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2015,
+   "child": 18,
+   "teenager": 41,
+   "earlyadult": 322,
+   "adult": 258,
+   "senior": 28
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2016,
+   "child": 6,
+   "teenager": 78,
+   "earlyadult": 286,
+   "adult": 260,
+   "senior": 31
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2017,
+   "child": 6,
+   "teenager": 60,
+   "earlyadult": 336,
+   "adult": 283,
+   "senior": 31
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2018,
+   "child": 1,
+   "teenager": 13,
+   "earlyadult": 51,
+   "adult": 56,
+   "senior": 6
+ },
+ {
+   "state": "Oregon",
+   "year": 2014,
+   "child": 4,
+   "teenager": 16,
+   "earlyadult": 137,
+   "adult": 118,
+   "senior": 20
+ },
+ {
+   "state": "Oregon",
+   "year": 2015,
+   "child": 10,
+   "teenager": 54,
+   "earlyadult": 320,
+   "adult": 305,
+   "senior": 43
+ },
+ {
+   "state": "Oregon",
+   "year": 2016,
+   "child": 9,
+   "teenager": 18,
+   "earlyadult": 233,
+   "adult": 231,
+   "senior": 32
+ },
+ {
+   "state": "Oregon",
+   "year": 2017,
+   "child": 9,
+   "teenager": 29,
+   "earlyadult": 179,
+   "adult": 224,
+   "senior": 22
+ },
+ {
+   "state": "Oregon",
+   "year": 2018,
+   "child": 0,
+   "teenager": 10,
+   "earlyadult": 52,
+   "adult": 49,
+   "senior": 6
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2013,
+   "child": 0,
+   "teenager": 6,
+   "earlyadult": 25,
+   "adult": 9,
+   "senior": 2
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2014,
+   "child": 28,
+   "teenager": 154,
+   "earlyadult": 963,
+   "adult": 624,
+   "senior": 65
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2015,
+   "child": 40,
+   "teenager": 136,
+   "earlyadult": 856,
+   "adult": 522,
+   "senior": 53
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2016,
+   "child": 31,
+   "teenager": 197,
+   "earlyadult": 1076,
+   "adult": 637,
+   "senior": 70
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2017,
+   "child": 39,
+   "teenager": 214,
+   "earlyadult": 1140,
+   "adult": 778,
+   "senior": 96
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2018,
+   "child": 4,
+   "teenager": 38,
+   "earlyadult": 218,
+   "adult": 179,
+   "senior": 23
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2013,
+   "child": 1,
+   "teenager": 1,
+   "earlyadult": 6,
+   "adult": 3,
+   "senior": 0
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2014,
+   "child": 0,
+   "teenager": 8,
+   "earlyadult": 118,
+   "adult": 30,
+   "senior": 1
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2015,
+   "child": 6,
+   "teenager": 10,
+   "earlyadult": 138,
+   "adult": 67,
+   "senior": 4
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2016,
+   "child": 0,
+   "teenager": 12,
+   "earlyadult": 141,
+   "adult": 58,
+   "senior": 5
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2017,
+   "child": 0,
+   "teenager": 8,
+   "earlyadult": 126,
+   "adult": 69,
+   "senior": 2
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2018,
+   "child": 0,
+   "teenager": 4,
+   "earlyadult": 40,
+   "adult": 13,
+   "senior": 0
+ },
+ {
+   "state": "South Carolina",
+   "year": 2013,
+   "child": 2,
+   "teenager": 5,
+   "earlyadult": 10,
+   "adult": 7,
+   "senior": 0
+ },
+ {
+   "state": "South Carolina",
+   "year": 2014,
+   "child": 37,
+   "teenager": 133,
+   "earlyadult": 822,
+   "adult": 467,
+   "senior": 70
+ },
+ {
+   "state": "South Carolina",
+   "year": 2015,
+   "child": 27,
+   "teenager": 125,
+   "earlyadult": 827,
+   "adult": 552,
+   "senior": 78
+ },
+ {
+   "state": "South Carolina",
+   "year": 2016,
+   "child": 19,
+   "teenager": 91,
+   "earlyadult": 567,
+   "adult": 373,
+   "senior": 60
+ },
+ {
+   "state": "South Carolina",
+   "year": 2017,
+   "child": 33,
+   "teenager": 130,
+   "earlyadult": 650,
+   "adult": 438,
+   "senior": 47
+ },
+ {
+   "state": "South Carolina",
+   "year": 2018,
+   "child": 4,
+   "teenager": 26,
+   "earlyadult": 155,
+   "adult": 79,
+   "senior": 8
+ },
+ {
+   "state": "South Dakota",
+   "year": 2014,
+   "child": 1,
+   "teenager": 9,
+   "earlyadult": 26,
+   "adult": 19,
+   "senior": 4
+ },
+ {
+   "state": "South Dakota",
+   "year": 2015,
+   "child": 3,
+   "teenager": 14,
+   "earlyadult": 62,
+   "adult": 36,
+   "senior": 2
+ },
+ {
+   "state": "South Dakota",
+   "year": 2016,
+   "child": 1,
+   "teenager": 11,
+   "earlyadult": 51,
+   "adult": 45,
+   "senior": 3
+ },
+ {
+   "state": "South Dakota",
+   "year": 2017,
+   "child": 2,
+   "teenager": 15,
+   "earlyadult": 55,
+   "adult": 52,
+   "senior": 7
+ },
+ {
+   "state": "South Dakota",
+   "year": 2018,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 15,
+   "adult": 12,
+   "senior": 1
+ },
+ {
+   "state": "Tennessee",
+   "year": 2013,
+   "child": 0,
+   "teenager": 8,
+   "earlyadult": 15,
+   "adult": 9,
+   "senior": 1
+ },
+ {
+   "state": "Tennessee",
+   "year": 2014,
+   "child": 42,
+   "teenager": 119,
+   "earlyadult": 611,
+   "adult": 335,
+   "senior": 50
+ },
+ {
+   "state": "Tennessee",
+   "year": 2015,
+   "child": 26,
+   "teenager": 137,
+   "earlyadult": 733,
+   "adult": 414,
+   "senior": 55
+ },
+ {
+   "state": "Tennessee",
+   "year": 2016,
+   "child": 29,
+   "teenager": 121,
+   "earlyadult": 702,
+   "adult": 459,
+   "senior": 45
+ },
+ {
+   "state": "Tennessee",
+   "year": 2017,
+   "child": 51,
+   "teenager": 217,
+   "earlyadult": 739,
+   "adult": 458,
+   "senior": 43
+ },
+ {
+   "state": "Tennessee",
+   "year": 2018,
+   "child": 8,
+   "teenager": 49,
+   "earlyadult": 177,
+   "adult": 91,
+   "senior": 8
+ },
+ {
+   "state": "Texas",
+   "year": 2013,
+   "child": 6,
+   "teenager": 11,
+   "earlyadult": 13,
+   "adult": 8,
+   "senior": 0
+ },
+ {
+   "state": "Texas",
+   "year": 2014,
+   "child": 81,
+   "teenager": 193,
+   "earlyadult": 1038,
+   "adult": 949,
+   "senior": 118
+ },
+ {
+   "state": "Texas",
+   "year": 2015,
+   "child": 70,
+   "teenager": 199,
+   "earlyadult": 1146,
+   "adult": 967,
+   "senior": 124
+ },
+ {
+   "state": "Texas",
+   "year": 2016,
+   "child": 71,
+   "teenager": 197,
+   "earlyadult": 1312,
+   "adult": 1049,
+   "senior": 104
+ },
+ {
+   "state": "Texas",
+   "year": 2017,
+   "child": 75,
+   "teenager": 256,
+   "earlyadult": 1108,
+   "adult": 988,
+   "senior": 131
+ },
+ {
+   "state": "Texas",
+   "year": 2018,
+   "child": 16,
+   "teenager": 82,
+   "earlyadult": 246,
+   "adult": 208,
+   "senior": 25
+ },
+ {
+   "state": "Utah",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 2,
+   "adult": 2,
+   "senior": 0
+ },
+ {
+   "state": "Utah",
+   "year": 2014,
+   "child": 9,
+   "teenager": 16,
+   "earlyadult": 69,
+   "adult": 78,
+   "senior": 9
+ },
+ {
+   "state": "Utah",
+   "year": 2015,
+   "child": 20,
+   "teenager": 32,
+   "earlyadult": 139,
+   "adult": 138,
+   "senior": 8
+ },
+ {
+   "state": "Utah",
+   "year": 2016,
+   "child": 4,
+   "teenager": 10,
+   "earlyadult": 112,
+   "adult": 96,
+   "senior": 8
+ },
+ {
+   "state": "Utah",
+   "year": 2017,
+   "child": 9,
+   "teenager": 36,
+   "earlyadult": 98,
+   "adult": 105,
+   "senior": 8
+ },
+ {
+   "state": "Utah",
+   "year": 2018,
+   "child": 1,
+   "teenager": 9,
+   "earlyadult": 12,
+   "adult": 13,
+   "senior": 1
+ },
+ {
+   "state": "Vermont",
+   "year": 2014,
+   "child": 1,
+   "teenager": 2,
+   "earlyadult": 55,
+   "adult": 64,
+   "senior": 9
+ },
+ {
+   "state": "Vermont",
+   "year": 2015,
+   "child": 2,
+   "teenager": 0,
+   "earlyadult": 47,
+   "adult": 44,
+   "senior": 7
+ },
+ {
+   "state": "Vermont",
+   "year": 2016,
+   "child": 2,
+   "teenager": 3,
+   "earlyadult": 25,
+   "adult": 43,
+   "senior": 8
+ },
+ {
+   "state": "Vermont",
+   "year": 2017,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 29,
+   "adult": 23,
+   "senior": 2
+ },
+ {
+   "state": "Vermont",
+   "year": 2018,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 9,
+   "adult": 10,
+   "senior": 1
+ },
+ {
+   "state": "Virginia",
+   "year": 2013,
+   "child": 0,
+   "teenager": 8,
+   "earlyadult": 7,
+   "adult": 1,
+   "senior": 0
+ },
+ {
+   "state": "Virginia",
+   "year": 2014,
+   "child": 28,
+   "teenager": 95,
+   "earlyadult": 484,
+   "adult": 302,
+   "senior": 44
+ },
+ {
+   "state": "Virginia",
+   "year": 2015,
+   "child": 16,
+   "teenager": 92,
+   "earlyadult": 657,
+   "adult": 354,
+   "senior": 32
+ },
+ {
+   "state": "Virginia",
+   "year": 2016,
+   "child": 21,
+   "teenager": 138,
+   "earlyadult": 582,
+   "adult": 353,
+   "senior": 35
+ },
+ {
+   "state": "Virginia",
+   "year": 2017,
+   "child": 33,
+   "teenager": 110,
+   "earlyadult": 658,
+   "adult": 416,
+   "senior": 51
+ },
+ {
+   "state": "Virginia",
+   "year": 2018,
+   "child": 1,
+   "teenager": 25,
+   "earlyadult": 143,
+   "adult": 85,
+   "senior": 6
+ },
+ {
+   "state": "Washington",
+   "year": 2013,
+   "child": 0,
+   "teenager": 3,
+   "earlyadult": 13,
+   "adult": 2,
+   "senior": 1
+ },
+ {
+   "state": "Washington",
+   "year": 2014,
+   "child": 10,
+   "teenager": 52,
+   "earlyadult": 200,
+   "adult": 189,
+   "senior": 31
+ },
+ {
+   "state": "Washington",
+   "year": 2015,
+   "child": 21,
+   "teenager": 123,
+   "earlyadult": 469,
+   "adult": 370,
+   "senior": 46
+ },
+ {
+   "state": "Washington",
+   "year": 2016,
+   "child": 8,
+   "teenager": 81,
+   "earlyadult": 303,
+   "adult": 269,
+   "senior": 47
+ },
+ {
+   "state": "Washington",
+   "year": 2017,
+   "child": 2,
+   "teenager": 104,
+   "earlyadult": 433,
+   "adult": 322,
+   "senior": 29
+ },
+ {
+   "state": "Washington",
+   "year": 2018,
+   "child": 3,
+   "teenager": 23,
+   "earlyadult": 83,
+   "adult": 88,
+   "senior": 9
+ },
+ {
+   "state": "West Virginia",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 8,
+   "adult": 3,
+   "senior": 1
+ },
+ {
+   "state": "West Virginia",
+   "year": 2014,
+   "child": 7,
+   "teenager": 15,
+   "earlyadult": 124,
+   "adult": 120,
+   "senior": 19
+ },
+ {
+   "state": "West Virginia",
+   "year": 2015,
+   "child": 3,
+   "teenager": 10,
+   "earlyadult": 155,
+   "adult": 136,
+   "senior": 13
+ },
+ {
+   "state": "West Virginia",
+   "year": 2016,
+   "child": 2,
+   "teenager": 14,
+   "earlyadult": 160,
+   "adult": 146,
+   "senior": 20
+ },
+ {
+   "state": "West Virginia",
+   "year": 2017,
+   "child": 5,
+   "teenager": 7,
+   "earlyadult": 144,
+   "adult": 147,
+   "senior": 24
+ },
+ {
+   "state": "West Virginia",
+   "year": 2018,
+   "child": 1,
+   "teenager": 2,
+   "earlyadult": 28,
+   "adult": 33,
+   "senior": 3
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2013,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 0,
+   "adult": 0,
+   "senior": 0
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2014,
+   "child": 25,
+   "teenager": 111,
+   "earlyadult": 559,
+   "adult": 304,
+   "senior": 25
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2015,
+   "child": 15,
+   "teenager": 142,
+   "earlyadult": 612,
+   "adult": 381,
+   "senior": 45
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2016,
+   "child": 14,
+   "teenager": 106,
+   "earlyadult": 438,
+   "adult": 314,
+   "senior": 23
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2017,
+   "child": 17,
+   "teenager": 96,
+   "earlyadult": 520,
+   "adult": 352,
+   "senior": 25
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2018,
+   "child": 5,
+   "teenager": 21,
+   "earlyadult": 109,
+   "adult": 102,
+   "senior": 9
+ },
+ {
+   "state": "Wyoming",
+   "year": 2014,
+   "child": 2,
+   "teenager": 2,
+   "earlyadult": 10,
+   "adult": 17,
+   "senior": 3
+ },
+ {
+   "state": "Wyoming",
+   "year": 2015,
+   "child": 2,
+   "teenager": 0,
+   "earlyadult": 27,
+   "adult": 27,
+   "senior": 3
+ },
+ {
+   "state": "Wyoming",
+   "year": 2016,
+   "child": 2,
+   "teenager": 1,
+   "earlyadult": 18,
+   "adult": 25,
+   "senior": 8
+ },
+ {
+   "state": "Wyoming",
+   "year": 2017,
+   "child": 0,
+   "teenager": 1,
+   "earlyadult": 25,
+   "adult": 35,
+   "senior": 6
+ },
+ {
+   "state": "Wyoming",
+   "year": 2018,
+   "child": 0,
+   "teenager": 0,
+   "earlyadult": 3,
+   "adult": 8,
+   "senior": 1
+ },
+ {
+   "state": "USA",
+   "year": 2013,
+   "child": 35,
+   "teenager": 127,
+   "earlyadult": 483,
+   "adult": 214,
+   "senior": 43
+ },
+ {
+   "state": "USA",
+   "year": 2014,
+   "child": 968,
+   "teenager": 3762,
+   "earlyadult": 21095,
+   "adult": 13557,
+   "senior": 1685
+ },
+ {
+   "state": "USA",
+   "year": 2015,
+   "child": 994,
+   "teenager": 4416,
+   "earlyadult": 25276,
+   "adult": 16781,
+   "senior": 1826
+ },
+ {
+   "state": "USA",
+   "year": 2016,
+   "child": 816,
+   "teenager": 4542,
+   "earlyadult": 25844,
+   "adult": 17594,
+   "senior": 1761
+ },
+ {
+   "state": "USA",
+   "year": 2017,
+   "child": 936,
+   "teenager": 5057,
+   "earlyadult": 27711,
+   "adult": 19708,
+   "senior": 2024
+ },
+ {
+   "state": "USA",
+   "year": 2018,
+   "child": 188,
+   "teenager": 1075,
+   "earlyadult": 5322,
+   "adult": 4169,
+   "senior": 422
+ }
+]

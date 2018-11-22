@@ -1,0 +1,4370 @@
+[
+ {
+   "state": "Alabama",
+   "month": 1,
+   "incidents": 563,
+   "deaths": 207,
+   "injuries": 293
+ },
+ {
+   "state": "Alabama",
+   "month": 2,
+   "incidents": 442,
+   "deaths": 154,
+   "injuries": 230
+ },
+ {
+   "state": "Alabama",
+   "month": 3,
+   "incidents": 530,
+   "deaths": 179,
+   "injuries": 282
+ },
+ {
+   "state": "Alabama",
+   "month": 4,
+   "incidents": 453,
+   "deaths": 133,
+   "injuries": 264
+ },
+ {
+   "state": "Alabama",
+   "month": 5,
+   "incidents": 438,
+   "deaths": 146,
+   "injuries": 238
+ },
+ {
+   "state": "Alabama",
+   "month": 6,
+   "incidents": 425,
+   "deaths": 141,
+   "injuries": 225
+ },
+ {
+   "state": "Alabama",
+   "month": 7,
+   "incidents": 475,
+   "deaths": 151,
+   "injuries": 254
+ },
+ {
+   "state": "Alabama",
+   "month": 8,
+   "incidents": 450,
+   "deaths": 130,
+   "injuries": 240
+ },
+ {
+   "state": "Alabama",
+   "month": 9,
+   "incidents": 409,
+   "deaths": 143,
+   "injuries": 227
+ },
+ {
+   "state": "Alabama",
+   "month": 10,
+   "incidents": 410,
+   "deaths": 134,
+   "injuries": 254
+ },
+ {
+   "state": "Alabama",
+   "month": 11,
+   "incidents": 394,
+   "deaths": 150,
+   "injuries": 215
+ },
+ {
+   "state": "Alabama",
+   "month": 12,
+   "incidents": 385,
+   "deaths": 153,
+   "injuries": 230
+ },
+ {
+   "state": "Alaska",
+   "month": 1,
+   "incidents": 112,
+   "deaths": 27,
+   "injuries": 35
+ },
+ {
+   "state": "Alaska",
+   "month": 2,
+   "incidents": 119,
+   "deaths": 22,
+   "injuries": 33
+ },
+ {
+   "state": "Alaska",
+   "month": 3,
+   "incidents": 127,
+   "deaths": 25,
+   "injuries": 30
+ },
+ {
+   "state": "Alaska",
+   "month": 4,
+   "incidents": 115,
+   "deaths": 17,
+   "injuries": 26
+ },
+ {
+   "state": "Alaska",
+   "month": 5,
+   "incidents": 142,
+   "deaths": 28,
+   "injuries": 20
+ },
+ {
+   "state": "Alaska",
+   "month": 6,
+   "incidents": 111,
+   "deaths": 17,
+   "injuries": 28
+ },
+ {
+   "state": "Alaska",
+   "month": 7,
+   "incidents": 109,
+   "deaths": 27,
+   "injuries": 18
+ },
+ {
+   "state": "Alaska",
+   "month": 8,
+   "incidents": 108,
+   "deaths": 14,
+   "injuries": 24
+ },
+ {
+   "state": "Alaska",
+   "month": 9,
+   "incidents": 98,
+   "deaths": 22,
+   "injuries": 26
+ },
+ {
+   "state": "Alaska",
+   "month": 10,
+   "incidents": 84,
+   "deaths": 12,
+   "injuries": 17
+ },
+ {
+   "state": "Alaska",
+   "month": 11,
+   "incidents": 74,
+   "deaths": 14,
+   "injuries": 20
+ },
+ {
+   "state": "Alaska",
+   "month": 12,
+   "incidents": 93,
+   "deaths": 25,
+   "injuries": 30
+ },
+ {
+   "state": "Arizona",
+   "month": 1,
+   "incidents": 220,
+   "deaths": 99,
+   "injuries": 111
+ },
+ {
+   "state": "Arizona",
+   "month": 2,
+   "incidents": 192,
+   "deaths": 94,
+   "injuries": 68
+ },
+ {
+   "state": "Arizona",
+   "month": 3,
+   "incidents": 216,
+   "deaths": 96,
+   "injuries": 103
+ },
+ {
+   "state": "Arizona",
+   "month": 4,
+   "incidents": 167,
+   "deaths": 86,
+   "injuries": 80
+ },
+ {
+   "state": "Arizona",
+   "month": 5,
+   "incidents": 191,
+   "deaths": 92,
+   "injuries": 95
+ },
+ {
+   "state": "Arizona",
+   "month": 6,
+   "incidents": 140,
+   "deaths": 81,
+   "injuries": 58
+ },
+ {
+   "state": "Arizona",
+   "month": 7,
+   "incidents": 225,
+   "deaths": 92,
+   "injuries": 108
+ },
+ {
+   "state": "Arizona",
+   "month": 8,
+   "incidents": 214,
+   "deaths": 94,
+   "injuries": 87
+ },
+ {
+   "state": "Arizona",
+   "month": 9,
+   "incidents": 204,
+   "deaths": 75,
+   "injuries": 93
+ },
+ {
+   "state": "Arizona",
+   "month": 10,
+   "incidents": 176,
+   "deaths": 96,
+   "injuries": 96
+ },
+ {
+   "state": "Arizona",
+   "month": 11,
+   "incidents": 144,
+   "deaths": 75,
+   "injuries": 65
+ },
+ {
+   "state": "Arizona",
+   "month": 12,
+   "incidents": 182,
+   "deaths": 83,
+   "injuries": 96
+ },
+ {
+   "state": "Arkansas",
+   "month": 1,
+   "incidents": 312,
+   "deaths": 76,
+   "injuries": 154
+ },
+ {
+   "state": "Arkansas",
+   "month": 2,
+   "incidents": 207,
+   "deaths": 65,
+   "injuries": 93
+ },
+ {
+   "state": "Arkansas",
+   "month": 3,
+   "incidents": 258,
+   "deaths": 59,
+   "injuries": 118
+ },
+ {
+   "state": "Arkansas",
+   "month": 4,
+   "incidents": 195,
+   "deaths": 54,
+   "injuries": 87
+ },
+ {
+   "state": "Arkansas",
+   "month": 5,
+   "incidents": 237,
+   "deaths": 72,
+   "injuries": 106
+ },
+ {
+   "state": "Arkansas",
+   "month": 6,
+   "incidents": 219,
+   "deaths": 52,
+   "injuries": 94
+ },
+ {
+   "state": "Arkansas",
+   "month": 7,
+   "incidents": 232,
+   "deaths": 75,
+   "injuries": 135
+ },
+ {
+   "state": "Arkansas",
+   "month": 8,
+   "incidents": 248,
+   "deaths": 64,
+   "injuries": 124
+ },
+ {
+   "state": "Arkansas",
+   "month": 9,
+   "incidents": 213,
+   "deaths": 51,
+   "injuries": 98
+ },
+ {
+   "state": "Arkansas",
+   "month": 10,
+   "incidents": 229,
+   "deaths": 62,
+   "injuries": 99
+ },
+ {
+   "state": "Arkansas",
+   "month": 11,
+   "incidents": 189,
+   "deaths": 46,
+   "injuries": 86
+ },
+ {
+   "state": "Arkansas",
+   "month": 12,
+   "incidents": 215,
+   "deaths": 59,
+   "injuries": 108
+ },
+ {
+   "state": "California",
+   "month": 1,
+   "incidents": 1564,
+   "deaths": 547,
+   "injuries": 749
+ },
+ {
+   "state": "California",
+   "month": 2,
+   "incidents": 1408,
+   "deaths": 473,
+   "injuries": 619
+ },
+ {
+   "state": "California",
+   "month": 3,
+   "incidents": 1568,
+   "deaths": 517,
+   "injuries": 738
+ },
+ {
+   "state": "California",
+   "month": 4,
+   "incidents": 1185,
+   "deaths": 414,
+   "injuries": 582
+ },
+ {
+   "state": "California",
+   "month": 5,
+   "incidents": 1164,
+   "deaths": 449,
+   "injuries": 554
+ },
+ {
+   "state": "California",
+   "month": 6,
+   "incidents": 1289,
+   "deaths": 440,
+   "injuries": 571
+ },
+ {
+   "state": "California",
+   "month": 7,
+   "incidents": 1424,
+   "deaths": 463,
+   "injuries": 723
+ },
+ {
+   "state": "California",
+   "month": 8,
+   "incidents": 1366,
+   "deaths": 455,
+   "injuries": 635
+ },
+ {
+   "state": "California",
+   "month": 9,
+   "incidents": 1324,
+   "deaths": 393,
+   "injuries": 552
+ },
+ {
+   "state": "California",
+   "month": 10,
+   "incidents": 1290,
+   "deaths": 394,
+   "injuries": 612
+ },
+ {
+   "state": "California",
+   "month": 11,
+   "incidents": 1225,
+   "deaths": 420,
+   "injuries": 627
+ },
+ {
+   "state": "California",
+   "month": 12,
+   "incidents": 1185,
+   "deaths": 432,
+   "injuries": 544
+ },
+ {
+   "state": "Colorado",
+   "month": 1,
+   "incidents": 339,
+   "deaths": 90,
+   "injuries": 120
+ },
+ {
+   "state": "Colorado",
+   "month": 2,
+   "incidents": 247,
+   "deaths": 63,
+   "injuries": 79
+ },
+ {
+   "state": "Colorado",
+   "month": 3,
+   "incidents": 260,
+   "deaths": 63,
+   "injuries": 102
+ },
+ {
+   "state": "Colorado",
+   "month": 4,
+   "incidents": 193,
+   "deaths": 55,
+   "injuries": 55
+ },
+ {
+   "state": "Colorado",
+   "month": 5,
+   "incidents": 283,
+   "deaths": 64,
+   "injuries": 118
+ },
+ {
+   "state": "Colorado",
+   "month": 6,
+   "incidents": 218,
+   "deaths": 55,
+   "injuries": 82
+ },
+ {
+   "state": "Colorado",
+   "month": 7,
+   "incidents": 269,
+   "deaths": 68,
+   "injuries": 98
+ },
+ {
+   "state": "Colorado",
+   "month": 8,
+   "incidents": 244,
+   "deaths": 45,
+   "injuries": 68
+ },
+ {
+   "state": "Colorado",
+   "month": 9,
+   "incidents": 259,
+   "deaths": 48,
+   "injuries": 85
+ },
+ {
+   "state": "Colorado",
+   "month": 10,
+   "incidents": 265,
+   "deaths": 65,
+   "injuries": 83
+ },
+ {
+   "state": "Colorado",
+   "month": 11,
+   "incidents": 261,
+   "deaths": 76,
+   "injuries": 108
+ },
+ {
+   "state": "Colorado",
+   "month": 12,
+   "incidents": 233,
+   "deaths": 50,
+   "injuries": 90
+ },
+ {
+   "state": "Connecticut",
+   "month": 1,
+   "incidents": 288,
+   "deaths": 28,
+   "injuries": 115
+ },
+ {
+   "state": "Connecticut",
+   "month": 2,
+   "incidents": 184,
+   "deaths": 17,
+   "injuries": 69
+ },
+ {
+   "state": "Connecticut",
+   "month": 3,
+   "incidents": 258,
+   "deaths": 29,
+   "injuries": 82
+ },
+ {
+   "state": "Connecticut",
+   "month": 4,
+   "incidents": 230,
+   "deaths": 25,
+   "injuries": 86
+ },
+ {
+   "state": "Connecticut",
+   "month": 5,
+   "incidents": 286,
+   "deaths": 29,
+   "injuries": 123
+ },
+ {
+   "state": "Connecticut",
+   "month": 6,
+   "incidents": 236,
+   "deaths": 30,
+   "injuries": 94
+ },
+ {
+   "state": "Connecticut",
+   "month": 7,
+   "incidents": 305,
+   "deaths": 41,
+   "injuries": 122
+ },
+ {
+   "state": "Connecticut",
+   "month": 8,
+   "incidents": 305,
+   "deaths": 37,
+   "injuries": 149
+ },
+ {
+   "state": "Connecticut",
+   "month": 9,
+   "incidents": 258,
+   "deaths": 25,
+   "injuries": 123
+ },
+ {
+   "state": "Connecticut",
+   "month": 10,
+   "incidents": 237,
+   "deaths": 21,
+   "injuries": 106
+ },
+ {
+   "state": "Connecticut",
+   "month": 11,
+   "incidents": 179,
+   "deaths": 14,
+   "injuries": 67
+ },
+ {
+   "state": "Connecticut",
+   "month": 12,
+   "incidents": 221,
+   "deaths": 30,
+   "injuries": 85
+ },
+ {
+   "state": "Delaware",
+   "month": 1,
+   "incidents": 168,
+   "deaths": 28,
+   "injuries": 62
+ },
+ {
+   "state": "Delaware",
+   "month": 2,
+   "incidents": 131,
+   "deaths": 23,
+   "injuries": 49
+ },
+ {
+   "state": "Delaware",
+   "month": 3,
+   "incidents": 126,
+   "deaths": 13,
+   "injuries": 56
+ },
+ {
+   "state": "Delaware",
+   "month": 4,
+   "incidents": 129,
+   "deaths": 22,
+   "injuries": 61
+ },
+ {
+   "state": "Delaware",
+   "month": 5,
+   "incidents": 151,
+   "deaths": 21,
+   "injuries": 80
+ },
+ {
+   "state": "Delaware",
+   "month": 6,
+   "incidents": 138,
+   "deaths": 19,
+   "injuries": 84
+ },
+ {
+   "state": "Delaware",
+   "month": 7,
+   "incidents": 159,
+   "deaths": 20,
+   "injuries": 85
+ },
+ {
+   "state": "Delaware",
+   "month": 8,
+   "incidents": 156,
+   "deaths": 13,
+   "injuries": 82
+ },
+ {
+   "state": "Delaware",
+   "month": 9,
+   "incidents": 125,
+   "deaths": 9,
+   "injuries": 75
+ },
+ {
+   "state": "Delaware",
+   "month": 10,
+   "incidents": 144,
+   "deaths": 10,
+   "injuries": 73
+ },
+ {
+   "state": "Delaware",
+   "month": 11,
+   "incidents": 115,
+   "deaths": 13,
+   "injuries": 76
+ },
+ {
+   "state": "Delaware",
+   "month": 12,
+   "incidents": 101,
+   "deaths": 18,
+   "injuries": 55
+ },
+ {
+   "state": "District of Columbia",
+   "month": 1,
+   "incidents": 266,
+   "deaths": 39,
+   "injuries": 101
+ },
+ {
+   "state": "District of Columbia",
+   "month": 2,
+   "incidents": 200,
+   "deaths": 34,
+   "injuries": 86
+ },
+ {
+   "state": "District of Columbia",
+   "month": 3,
+   "incidents": 190,
+   "deaths": 40,
+   "injuries": 84
+ },
+ {
+   "state": "District of Columbia",
+   "month": 4,
+   "incidents": 271,
+   "deaths": 25,
+   "injuries": 94
+ },
+ {
+   "state": "District of Columbia",
+   "month": 5,
+   "incidents": 270,
+   "deaths": 34,
+   "injuries": 129
+ },
+ {
+   "state": "District of Columbia",
+   "month": 6,
+   "incidents": 292,
+   "deaths": 34,
+   "injuries": 127
+ },
+ {
+   "state": "District of Columbia",
+   "month": 7,
+   "incidents": 311,
+   "deaths": 42,
+   "injuries": 143
+ },
+ {
+   "state": "District of Columbia",
+   "month": 8,
+   "incidents": 329,
+   "deaths": 32,
+   "injuries": 159
+ },
+ {
+   "state": "District of Columbia",
+   "month": 9,
+   "incidents": 240,
+   "deaths": 50,
+   "injuries": 127
+ },
+ {
+   "state": "District of Columbia",
+   "month": 10,
+   "incidents": 259,
+   "deaths": 31,
+   "injuries": 117
+ },
+ {
+   "state": "District of Columbia",
+   "month": 11,
+   "incidents": 256,
+   "deaths": 32,
+   "injuries": 102
+ },
+ {
+   "state": "District of Columbia",
+   "month": 12,
+   "incidents": 211,
+   "deaths": 37,
+   "injuries": 108
+ },
+ {
+   "state": "Florida",
+   "month": 1,
+   "incidents": 1520,
+   "deaths": 425,
+   "injuries": 722
+ },
+ {
+   "state": "Florida",
+   "month": 2,
+   "incidents": 1263,
+   "deaths": 332,
+   "injuries": 651
+ },
+ {
+   "state": "Florida",
+   "month": 3,
+   "incidents": 1541,
+   "deaths": 385,
+   "injuries": 682
+ },
+ {
+   "state": "Florida",
+   "month": 4,
+   "incidents": 1267,
+   "deaths": 282,
+   "injuries": 554
+ },
+ {
+   "state": "Florida",
+   "month": 5,
+   "incidents": 1274,
+   "deaths": 303,
+   "injuries": 628
+ },
+ {
+   "state": "Florida",
+   "month": 6,
+   "incidents": 1141,
+   "deaths": 356,
+   "injuries": 578
+ },
+ {
+   "state": "Florida",
+   "month": 7,
+   "incidents": 1303,
+   "deaths": 338,
+   "injuries": 607
+ },
+ {
+   "state": "Florida",
+   "month": 8,
+   "incidents": 1098,
+   "deaths": 277,
+   "injuries": 489
+ },
+ {
+   "state": "Florida",
+   "month": 9,
+   "incidents": 937,
+   "deaths": 243,
+   "injuries": 435
+ },
+ {
+   "state": "Florida",
+   "month": 10,
+   "incidents": 1116,
+   "deaths": 254,
+   "injuries": 487
+ },
+ {
+   "state": "Florida",
+   "month": 11,
+   "incidents": 1025,
+   "deaths": 247,
+   "injuries": 471
+ },
+ {
+   "state": "Florida",
+   "month": 12,
+   "incidents": 1134,
+   "deaths": 293,
+   "injuries": 554
+ },
+ {
+   "state": "Georgia",
+   "month": 1,
+   "incidents": 817,
+   "deaths": 215,
+   "injuries": 393
+ },
+ {
+   "state": "Georgia",
+   "month": 2,
+   "incidents": 733,
+   "deaths": 195,
+   "injuries": 307
+ },
+ {
+   "state": "Georgia",
+   "month": 3,
+   "incidents": 726,
+   "deaths": 213,
+   "injuries": 362
+ },
+ {
+   "state": "Georgia",
+   "month": 4,
+   "incidents": 608,
+   "deaths": 184,
+   "injuries": 245
+ },
+ {
+   "state": "Georgia",
+   "month": 5,
+   "incidents": 673,
+   "deaths": 179,
+   "injuries": 349
+ },
+ {
+   "state": "Georgia",
+   "month": 6,
+   "incidents": 639,
+   "deaths": 209,
+   "injuries": 280
+ },
+ {
+   "state": "Georgia",
+   "month": 7,
+   "incidents": 772,
+   "deaths": 210,
+   "injuries": 368
+ },
+ {
+   "state": "Georgia",
+   "month": 8,
+   "incidents": 797,
+   "deaths": 216,
+   "injuries": 376
+ },
+ {
+   "state": "Georgia",
+   "month": 9,
+   "incidents": 758,
+   "deaths": 172,
+   "injuries": 313
+ },
+ {
+   "state": "Georgia",
+   "month": 10,
+   "incidents": 874,
+   "deaths": 198,
+   "injuries": 354
+ },
+ {
+   "state": "Georgia",
+   "month": 11,
+   "incidents": 639,
+   "deaths": 172,
+   "injuries": 282
+ },
+ {
+   "state": "Georgia",
+   "month": 12,
+   "incidents": 684,
+   "deaths": 185,
+   "injuries": 335
+ },
+ {
+   "state": "Hawaii",
+   "month": 1,
+   "incidents": 33,
+   "deaths": 6,
+   "injuries": 6
+ },
+ {
+   "state": "Hawaii",
+   "month": 2,
+   "incidents": 17,
+   "deaths": 5,
+   "injuries": 8
+ },
+ {
+   "state": "Hawaii",
+   "month": 3,
+   "incidents": 31,
+   "deaths": 6,
+   "injuries": 13
+ },
+ {
+   "state": "Hawaii",
+   "month": 4,
+   "incidents": 22,
+   "deaths": 3,
+   "injuries": 4
+ },
+ {
+   "state": "Hawaii",
+   "month": 5,
+   "incidents": 19,
+   "deaths": 6,
+   "injuries": 3
+ },
+ {
+   "state": "Hawaii",
+   "month": 6,
+   "incidents": 25,
+   "deaths": 6,
+   "injuries": 6
+ },
+ {
+   "state": "Hawaii",
+   "month": 7,
+   "incidents": 35,
+   "deaths": 7,
+   "injuries": 10
+ },
+ {
+   "state": "Hawaii",
+   "month": 8,
+   "incidents": 20,
+   "deaths": 4,
+   "injuries": 6
+ },
+ {
+   "state": "Hawaii",
+   "month": 9,
+   "incidents": 21,
+   "deaths": 4,
+   "injuries": 7
+ },
+ {
+   "state": "Hawaii",
+   "month": 10,
+   "incidents": 20,
+   "deaths": 5,
+   "injuries": 10
+ },
+ {
+   "state": "Hawaii",
+   "month": 11,
+   "incidents": 14,
+   "deaths": 4,
+   "injuries": 2
+ },
+ {
+   "state": "Hawaii",
+   "month": 12,
+   "incidents": 20,
+   "deaths": 1,
+   "injuries": 6
+ },
+ {
+   "state": "Idaho",
+   "month": 1,
+   "incidents": 77,
+   "deaths": 23,
+   "injuries": 11
+ },
+ {
+   "state": "Idaho",
+   "month": 2,
+   "incidents": 49,
+   "deaths": 15,
+   "injuries": 10
+ },
+ {
+   "state": "Idaho",
+   "month": 3,
+   "incidents": 64,
+   "deaths": 19,
+   "injuries": 18
+ },
+ {
+   "state": "Idaho",
+   "month": 4,
+   "incidents": 44,
+   "deaths": 7,
+   "injuries": 10
+ },
+ {
+   "state": "Idaho",
+   "month": 5,
+   "incidents": 51,
+   "deaths": 14,
+   "injuries": 4
+ },
+ {
+   "state": "Idaho",
+   "month": 6,
+   "incidents": 46,
+   "deaths": 17,
+   "injuries": 12
+ },
+ {
+   "state": "Idaho",
+   "month": 7,
+   "incidents": 53,
+   "deaths": 11,
+   "injuries": 9
+ },
+ {
+   "state": "Idaho",
+   "month": 8,
+   "incidents": 53,
+   "deaths": 16,
+   "injuries": 10
+ },
+ {
+   "state": "Idaho",
+   "month": 9,
+   "incidents": 44,
+   "deaths": 9,
+   "injuries": 10
+ },
+ {
+   "state": "Idaho",
+   "month": 10,
+   "incidents": 55,
+   "deaths": 7,
+   "injuries": 16
+ },
+ {
+   "state": "Idaho",
+   "month": 11,
+   "incidents": 51,
+   "deaths": 11,
+   "injuries": 20
+ },
+ {
+   "state": "Idaho",
+   "month": 12,
+   "incidents": 46,
+   "deaths": 9,
+   "injuries": 5
+ },
+ {
+   "state": "Illinois",
+   "month": 1,
+   "incidents": 1509,
+   "deaths": 307,
+   "injuries": 1024
+ },
+ {
+   "state": "Illinois",
+   "month": 2,
+   "incidents": 1104,
+   "deaths": 237,
+   "injuries": 658
+ },
+ {
+   "state": "Illinois",
+   "month": 3,
+   "incidents": 1363,
+   "deaths": 234,
+   "injuries": 992
+ },
+ {
+   "state": "Illinois",
+   "month": 4,
+   "incidents": 1382,
+   "deaths": 217,
+   "injuries": 1080
+ },
+ {
+   "state": "Illinois",
+   "month": 5,
+   "incidents": 1612,
+   "deaths": 310,
+   "injuries": 1311
+ },
+ {
+   "state": "Illinois",
+   "month": 6,
+   "incidents": 1532,
+   "deaths": 305,
+   "injuries": 1302
+ },
+ {
+   "state": "Illinois",
+   "month": 7,
+   "incidents": 1661,
+   "deaths": 318,
+   "injuries": 1441
+ },
+ {
+   "state": "Illinois",
+   "month": 8,
+   "incidents": 1633,
+   "deaths": 325,
+   "injuries": 1334
+ },
+ {
+   "state": "Illinois",
+   "month": 9,
+   "incidents": 1355,
+   "deaths": 252,
+   "injuries": 1134
+ },
+ {
+   "state": "Illinois",
+   "month": 10,
+   "incidents": 1351,
+   "deaths": 201,
+   "injuries": 1051
+ },
+ {
+   "state": "Illinois",
+   "month": 11,
+   "incidents": 1136,
+   "deaths": 209,
+   "injuries": 852
+ },
+ {
+   "state": "Illinois",
+   "month": 12,
+   "incidents": 1226,
+   "deaths": 209,
+   "injuries": 928
+ },
+ {
+   "state": "Indiana",
+   "month": 1,
+   "incidents": 581,
+   "deaths": 140,
+   "injuries": 263
+ },
+ {
+   "state": "Indiana",
+   "month": 2,
+   "incidents": 444,
+   "deaths": 133,
+   "injuries": 205
+ },
+ {
+   "state": "Indiana",
+   "month": 3,
+   "incidents": 523,
+   "deaths": 149,
+   "injuries": 251
+ },
+ {
+   "state": "Indiana",
+   "month": 4,
+   "incidents": 431,
+   "deaths": 118,
+   "injuries": 217
+ },
+ {
+   "state": "Indiana",
+   "month": 5,
+   "incidents": 474,
+   "deaths": 119,
+   "injuries": 236
+ },
+ {
+   "state": "Indiana",
+   "month": 6,
+   "incidents": 449,
+   "deaths": 110,
+   "injuries": 269
+ },
+ {
+   "state": "Indiana",
+   "month": 7,
+   "incidents": 459,
+   "deaths": 123,
+   "injuries": 278
+ },
+ {
+   "state": "Indiana",
+   "month": 8,
+   "incidents": 487,
+   "deaths": 138,
+   "injuries": 251
+ },
+ {
+   "state": "Indiana",
+   "month": 9,
+   "incidents": 469,
+   "deaths": 134,
+   "injuries": 223
+ },
+ {
+   "state": "Indiana",
+   "month": 10,
+   "incidents": 438,
+   "deaths": 104,
+   "injuries": 227
+ },
+ {
+   "state": "Indiana",
+   "month": 11,
+   "incidents": 410,
+   "deaths": 114,
+   "injuries": 208
+ },
+ {
+   "state": "Indiana",
+   "month": 12,
+   "incidents": 412,
+   "deaths": 103,
+   "injuries": 191
+ },
+ {
+   "state": "Iowa",
+   "month": 1,
+   "incidents": 251,
+   "deaths": 31,
+   "injuries": 89
+ },
+ {
+   "state": "Iowa",
+   "month": 2,
+   "incidents": 195,
+   "deaths": 22,
+   "injuries": 63
+ },
+ {
+   "state": "Iowa",
+   "month": 3,
+   "incidents": 225,
+   "deaths": 19,
+   "injuries": 73
+ },
+ {
+   "state": "Iowa",
+   "month": 4,
+   "incidents": 192,
+   "deaths": 25,
+   "injuries": 58
+ },
+ {
+   "state": "Iowa",
+   "month": 5,
+   "incidents": 181,
+   "deaths": 11,
+   "injuries": 58
+ },
+ {
+   "state": "Iowa",
+   "month": 6,
+   "incidents": 188,
+   "deaths": 26,
+   "injuries": 64
+ },
+ {
+   "state": "Iowa",
+   "month": 7,
+   "incidents": 221,
+   "deaths": 12,
+   "injuries": 83
+ },
+ {
+   "state": "Iowa",
+   "month": 8,
+   "incidents": 224,
+   "deaths": 22,
+   "injuries": 68
+ },
+ {
+   "state": "Iowa",
+   "month": 9,
+   "incidents": 228,
+   "deaths": 26,
+   "injuries": 65
+ },
+ {
+   "state": "Iowa",
+   "month": 10,
+   "incidents": 204,
+   "deaths": 14,
+   "injuries": 53
+ },
+ {
+   "state": "Iowa",
+   "month": 11,
+   "incidents": 175,
+   "deaths": 24,
+   "injuries": 59
+ },
+ {
+   "state": "Iowa",
+   "month": 12,
+   "incidents": 157,
+   "deaths": 18,
+   "injuries": 68
+ },
+ {
+   "state": "Kansas",
+   "month": 1,
+   "incidents": 220,
+   "deaths": 44,
+   "injuries": 91
+ },
+ {
+   "state": "Kansas",
+   "month": 2,
+   "incidents": 141,
+   "deaths": 47,
+   "injuries": 81
+ },
+ {
+   "state": "Kansas",
+   "month": 3,
+   "incidents": 194,
+   "deaths": 53,
+   "injuries": 78
+ },
+ {
+   "state": "Kansas",
+   "month": 4,
+   "incidents": 150,
+   "deaths": 43,
+   "injuries": 69
+ },
+ {
+   "state": "Kansas",
+   "month": 5,
+   "incidents": 162,
+   "deaths": 38,
+   "injuries": 77
+ },
+ {
+   "state": "Kansas",
+   "month": 6,
+   "incidents": 138,
+   "deaths": 33,
+   "injuries": 62
+ },
+ {
+   "state": "Kansas",
+   "month": 7,
+   "incidents": 211,
+   "deaths": 47,
+   "injuries": 95
+ },
+ {
+   "state": "Kansas",
+   "month": 8,
+   "incidents": 204,
+   "deaths": 51,
+   "injuries": 80
+ },
+ {
+   "state": "Kansas",
+   "month": 9,
+   "incidents": 175,
+   "deaths": 31,
+   "injuries": 90
+ },
+ {
+   "state": "Kansas",
+   "month": 10,
+   "incidents": 160,
+   "deaths": 38,
+   "injuries": 68
+ },
+ {
+   "state": "Kansas",
+   "month": 11,
+   "incidents": 153,
+   "deaths": 37,
+   "injuries": 51
+ },
+ {
+   "state": "Kansas",
+   "month": 12,
+   "incidents": 166,
+   "deaths": 50,
+   "injuries": 60
+ },
+ {
+   "state": "Kentucky",
+   "month": 1,
+   "incidents": 411,
+   "deaths": 97,
+   "injuries": 182
+ },
+ {
+   "state": "Kentucky",
+   "month": 2,
+   "incidents": 347,
+   "deaths": 110,
+   "injuries": 143
+ },
+ {
+   "state": "Kentucky",
+   "month": 3,
+   "incidents": 362,
+   "deaths": 91,
+   "injuries": 159
+ },
+ {
+   "state": "Kentucky",
+   "month": 4,
+   "incidents": 342,
+   "deaths": 82,
+   "injuries": 184
+ },
+ {
+   "state": "Kentucky",
+   "month": 5,
+   "incidents": 327,
+   "deaths": 75,
+   "injuries": 164
+ },
+ {
+   "state": "Kentucky",
+   "month": 6,
+   "incidents": 315,
+   "deaths": 94,
+   "injuries": 167
+ },
+ {
+   "state": "Kentucky",
+   "month": 7,
+   "incidents": 365,
+   "deaths": 84,
+   "injuries": 149
+ },
+ {
+   "state": "Kentucky",
+   "month": 8,
+   "incidents": 380,
+   "deaths": 91,
+   "injuries": 140
+ },
+ {
+   "state": "Kentucky",
+   "month": 9,
+   "incidents": 303,
+   "deaths": 58,
+   "injuries": 132
+ },
+ {
+   "state": "Kentucky",
+   "month": 10,
+   "incidents": 351,
+   "deaths": 92,
+   "injuries": 160
+ },
+ {
+   "state": "Kentucky",
+   "month": 11,
+   "incidents": 271,
+   "deaths": 76,
+   "injuries": 124
+ },
+ {
+   "state": "Kentucky",
+   "month": 12,
+   "incidents": 240,
+   "deaths": 68,
+   "injuries": 114
+ },
+ {
+   "state": "Louisiana",
+   "month": 1,
+   "incidents": 813,
+   "deaths": 203,
+   "injuries": 441
+ },
+ {
+   "state": "Louisiana",
+   "month": 2,
+   "incidents": 692,
+   "deaths": 159,
+   "injuries": 347
+ },
+ {
+   "state": "Louisiana",
+   "month": 3,
+   "incidents": 709,
+   "deaths": 189,
+   "injuries": 372
+ },
+ {
+   "state": "Louisiana",
+   "month": 4,
+   "incidents": 611,
+   "deaths": 139,
+   "injuries": 336
+ },
+ {
+   "state": "Louisiana",
+   "month": 5,
+   "incidents": 622,
+   "deaths": 169,
+   "injuries": 384
+ },
+ {
+   "state": "Louisiana",
+   "month": 6,
+   "incidents": 628,
+   "deaths": 182,
+   "injuries": 340
+ },
+ {
+   "state": "Louisiana",
+   "month": 7,
+   "incidents": 683,
+   "deaths": 217,
+   "injuries": 374
+ },
+ {
+   "state": "Louisiana",
+   "month": 8,
+   "incidents": 610,
+   "deaths": 141,
+   "injuries": 315
+ },
+ {
+   "state": "Louisiana",
+   "month": 9,
+   "incidents": 549,
+   "deaths": 139,
+   "injuries": 286
+ },
+ {
+   "state": "Louisiana",
+   "month": 10,
+   "incidents": 592,
+   "deaths": 147,
+   "injuries": 324
+ },
+ {
+   "state": "Louisiana",
+   "month": 11,
+   "incidents": 601,
+   "deaths": 155,
+   "injuries": 361
+ },
+ {
+   "state": "Louisiana",
+   "month": 12,
+   "incidents": 637,
+   "deaths": 181,
+   "injuries": 345
+ },
+ {
+   "state": "Maine",
+   "month": 1,
+   "incidents": 82,
+   "deaths": 8,
+   "injuries": 15
+ },
+ {
+   "state": "Maine",
+   "month": 2,
+   "incidents": 63,
+   "deaths": 7,
+   "injuries": 11
+ },
+ {
+   "state": "Maine",
+   "month": 3,
+   "incidents": 80,
+   "deaths": 8,
+   "injuries": 10
+ },
+ {
+   "state": "Maine",
+   "month": 4,
+   "incidents": 63,
+   "deaths": 8,
+   "injuries": 5
+ },
+ {
+   "state": "Maine",
+   "month": 5,
+   "incidents": 69,
+   "deaths": 7,
+   "injuries": 13
+ },
+ {
+   "state": "Maine",
+   "month": 6,
+   "incidents": 68,
+   "deaths": 6,
+   "injuries": 12
+ },
+ {
+   "state": "Maine",
+   "month": 7,
+   "incidents": 59,
+   "deaths": 25,
+   "injuries": 8
+ },
+ {
+   "state": "Maine",
+   "month": 8,
+   "incidents": 78,
+   "deaths": 8,
+   "injuries": 9
+ },
+ {
+   "state": "Maine",
+   "month": 9,
+   "incidents": 81,
+   "deaths": 6,
+   "injuries": 6
+ },
+ {
+   "state": "Maine",
+   "month": 10,
+   "incidents": 78,
+   "deaths": 4,
+   "injuries": 13
+ },
+ {
+   "state": "Maine",
+   "month": 11,
+   "incidents": 98,
+   "deaths": 12,
+   "injuries": 16
+ },
+ {
+   "state": "Maine",
+   "month": 12,
+   "incidents": 72,
+   "deaths": 12,
+   "injuries": 14
+ },
+ {
+   "state": "Maryland",
+   "month": 1,
+   "incidents": 618,
+   "deaths": 178,
+   "injuries": 271
+ },
+ {
+   "state": "Maryland",
+   "month": 2,
+   "incidents": 394,
+   "deaths": 112,
+   "injuries": 196
+ },
+ {
+   "state": "Maryland",
+   "month": 3,
+   "incidents": 406,
+   "deaths": 127,
+   "injuries": 207
+ },
+ {
+   "state": "Maryland",
+   "month": 4,
+   "incidents": 377,
+   "deaths": 120,
+   "injuries": 208
+ },
+ {
+   "state": "Maryland",
+   "month": 5,
+   "incidents": 531,
+   "deaths": 162,
+   "injuries": 327
+ },
+ {
+   "state": "Maryland",
+   "month": 6,
+   "incidents": 465,
+   "deaths": 135,
+   "injuries": 271
+ },
+ {
+   "state": "Maryland",
+   "month": 7,
+   "incidents": 525,
+   "deaths": 173,
+   "injuries": 311
+ },
+ {
+   "state": "Maryland",
+   "month": 8,
+   "incidents": 486,
+   "deaths": 147,
+   "injuries": 271
+ },
+ {
+   "state": "Maryland",
+   "month": 9,
+   "incidents": 467,
+   "deaths": 124,
+   "injuries": 257
+ },
+ {
+   "state": "Maryland",
+   "month": 10,
+   "incidents": 477,
+   "deaths": 121,
+   "injuries": 279
+ },
+ {
+   "state": "Maryland",
+   "month": 11,
+   "incidents": 412,
+   "deaths": 95,
+   "injuries": 220
+ },
+ {
+   "state": "Maryland",
+   "month": 12,
+   "incidents": 489,
+   "deaths": 130,
+   "injuries": 269
+ },
+ {
+   "state": "Massachusetts",
+   "month": 1,
+   "incidents": 579,
+   "deaths": 55,
+   "injuries": 125
+ },
+ {
+   "state": "Massachusetts",
+   "month": 2,
+   "incidents": 447,
+   "deaths": 34,
+   "injuries": 109
+ },
+ {
+   "state": "Massachusetts",
+   "month": 3,
+   "incidents": 502,
+   "deaths": 40,
+   "injuries": 122
+ },
+ {
+   "state": "Massachusetts",
+   "month": 4,
+   "incidents": 464,
+   "deaths": 28,
+   "injuries": 135
+ },
+ {
+   "state": "Massachusetts",
+   "month": 5,
+   "incidents": 466,
+   "deaths": 29,
+   "injuries": 140
+ },
+ {
+   "state": "Massachusetts",
+   "month": 6,
+   "incidents": 454,
+   "deaths": 43,
+   "injuries": 142
+ },
+ {
+   "state": "Massachusetts",
+   "month": 7,
+   "incidents": 548,
+   "deaths": 37,
+   "injuries": 208
+ },
+ {
+   "state": "Massachusetts",
+   "month": 8,
+   "incidents": 588,
+   "deaths": 49,
+   "injuries": 183
+ },
+ {
+   "state": "Massachusetts",
+   "month": 9,
+   "incidents": 438,
+   "deaths": 30,
+   "injuries": 127
+ },
+ {
+   "state": "Massachusetts",
+   "month": 10,
+   "incidents": 408,
+   "deaths": 36,
+   "injuries": 120
+ },
+ {
+   "state": "Massachusetts",
+   "month": 11,
+   "incidents": 455,
+   "deaths": 31,
+   "injuries": 103
+ },
+ {
+   "state": "Massachusetts",
+   "month": 12,
+   "incidents": 443,
+   "deaths": 29,
+   "injuries": 121
+ },
+ {
+   "state": "Michigan",
+   "month": 1,
+   "incidents": 488,
+   "deaths": 140,
+   "injuries": 226
+ },
+ {
+   "state": "Michigan",
+   "month": 2,
+   "incidents": 569,
+   "deaths": 129,
+   "injuries": 210
+ },
+ {
+   "state": "Michigan",
+   "month": 3,
+   "incidents": 687,
+   "deaths": 129,
+   "injuries": 266
+ },
+ {
+   "state": "Michigan",
+   "month": 4,
+   "incidents": 473,
+   "deaths": 119,
+   "injuries": 238
+ },
+ {
+   "state": "Michigan",
+   "month": 5,
+   "incidents": 509,
+   "deaths": 136,
+   "injuries": 291
+ },
+ {
+   "state": "Michigan",
+   "month": 6,
+   "incidents": 399,
+   "deaths": 120,
+   "injuries": 230
+ },
+ {
+   "state": "Michigan",
+   "month": 7,
+   "incidents": 500,
+   "deaths": 110,
+   "injuries": 305
+ },
+ {
+   "state": "Michigan",
+   "month": 8,
+   "incidents": 489,
+   "deaths": 135,
+   "injuries": 261
+ },
+ {
+   "state": "Michigan",
+   "month": 9,
+   "incidents": 513,
+   "deaths": 130,
+   "injuries": 249
+ },
+ {
+   "state": "Michigan",
+   "month": 10,
+   "incidents": 399,
+   "deaths": 99,
+   "injuries": 187
+ },
+ {
+   "state": "Michigan",
+   "month": 11,
+   "incidents": 407,
+   "deaths": 119,
+   "injuries": 209
+ },
+ {
+   "state": "Michigan",
+   "month": 12,
+   "incidents": 348,
+   "deaths": 114,
+   "injuries": 185
+ },
+ {
+   "state": "Minnesota",
+   "month": 1,
+   "incidents": 194,
+   "deaths": 36,
+   "injuries": 74
+ },
+ {
+   "state": "Minnesota",
+   "month": 2,
+   "incidents": 233,
+   "deaths": 32,
+   "injuries": 69
+ },
+ {
+   "state": "Minnesota",
+   "month": 3,
+   "incidents": 230,
+   "deaths": 31,
+   "injuries": 79
+ },
+ {
+   "state": "Minnesota",
+   "month": 4,
+   "incidents": 180,
+   "deaths": 40,
+   "injuries": 67
+ },
+ {
+   "state": "Minnesota",
+   "month": 5,
+   "incidents": 228,
+   "deaths": 38,
+   "injuries": 71
+ },
+ {
+   "state": "Minnesota",
+   "month": 6,
+   "incidents": 152,
+   "deaths": 38,
+   "injuries": 65
+ },
+ {
+   "state": "Minnesota",
+   "month": 7,
+   "incidents": 229,
+   "deaths": 46,
+   "injuries": 101
+ },
+ {
+   "state": "Minnesota",
+   "month": 8,
+   "incidents": 198,
+   "deaths": 36,
+   "injuries": 108
+ },
+ {
+   "state": "Minnesota",
+   "month": 9,
+   "incidents": 173,
+   "deaths": 35,
+   "injuries": 60
+ },
+ {
+   "state": "Minnesota",
+   "month": 10,
+   "incidents": 154,
+   "deaths": 24,
+   "injuries": 65
+ },
+ {
+   "state": "Minnesota",
+   "month": 11,
+   "incidents": 160,
+   "deaths": 34,
+   "injuries": 71
+ },
+ {
+   "state": "Minnesota",
+   "month": 12,
+   "incidents": 148,
+   "deaths": 29,
+   "injuries": 48
+ },
+ {
+   "state": "Mississippi",
+   "month": 1,
+   "incidents": 383,
+   "deaths": 120,
+   "injuries": 230
+ },
+ {
+   "state": "Mississippi",
+   "month": 2,
+   "incidents": 320,
+   "deaths": 128,
+   "injuries": 150
+ },
+ {
+   "state": "Mississippi",
+   "month": 3,
+   "incidents": 343,
+   "deaths": 105,
+   "injuries": 179
+ },
+ {
+   "state": "Mississippi",
+   "month": 4,
+   "incidents": 286,
+   "deaths": 90,
+   "injuries": 135
+ },
+ {
+   "state": "Mississippi",
+   "month": 5,
+   "incidents": 256,
+   "deaths": 91,
+   "injuries": 114
+ },
+ {
+   "state": "Mississippi",
+   "month": 6,
+   "incidents": 264,
+   "deaths": 85,
+   "injuries": 125
+ },
+ {
+   "state": "Mississippi",
+   "month": 7,
+   "incidents": 295,
+   "deaths": 98,
+   "injuries": 156
+ },
+ {
+   "state": "Mississippi",
+   "month": 8,
+   "incidents": 289,
+   "deaths": 79,
+   "injuries": 138
+ },
+ {
+   "state": "Mississippi",
+   "month": 9,
+   "incidents": 270,
+   "deaths": 83,
+   "injuries": 145
+ },
+ {
+   "state": "Mississippi",
+   "month": 10,
+   "incidents": 267,
+   "deaths": 79,
+   "injuries": 150
+ },
+ {
+   "state": "Mississippi",
+   "month": 11,
+   "incidents": 239,
+   "deaths": 75,
+   "injuries": 141
+ },
+ {
+   "state": "Mississippi",
+   "month": 12,
+   "incidents": 285,
+   "deaths": 100,
+   "injuries": 164
+ },
+ {
+   "state": "Missouri",
+   "month": 1,
+   "incidents": 639,
+   "deaths": 217,
+   "injuries": 315
+ },
+ {
+   "state": "Missouri",
+   "month": 2,
+   "incidents": 446,
+   "deaths": 159,
+   "injuries": 187
+ },
+ {
+   "state": "Missouri",
+   "month": 3,
+   "incidents": 510,
+   "deaths": 174,
+   "injuries": 295
+ },
+ {
+   "state": "Missouri",
+   "month": 4,
+   "incidents": 428,
+   "deaths": 137,
+   "injuries": 242
+ },
+ {
+   "state": "Missouri",
+   "month": 5,
+   "incidents": 557,
+   "deaths": 156,
+   "injuries": 328
+ },
+ {
+   "state": "Missouri",
+   "month": 6,
+   "incidents": 547,
+   "deaths": 170,
+   "injuries": 301
+ },
+ {
+   "state": "Missouri",
+   "month": 7,
+   "incidents": 607,
+   "deaths": 194,
+   "injuries": 396
+ },
+ {
+   "state": "Missouri",
+   "month": 8,
+   "incidents": 606,
+   "deaths": 178,
+   "injuries": 352
+ },
+ {
+   "state": "Missouri",
+   "month": 9,
+   "incidents": 558,
+   "deaths": 163,
+   "injuries": 309
+ },
+ {
+   "state": "Missouri",
+   "month": 10,
+   "incidents": 571,
+   "deaths": 162,
+   "injuries": 276
+ },
+ {
+   "state": "Missouri",
+   "month": 11,
+   "incidents": 501,
+   "deaths": 189,
+   "injuries": 263
+ },
+ {
+   "state": "Missouri",
+   "month": 12,
+   "incidents": 475,
+   "deaths": 154,
+   "injuries": 221
+ },
+ {
+   "state": "Montana",
+   "month": 1,
+   "incidents": 55,
+   "deaths": 17,
+   "injuries": 11
+ },
+ {
+   "state": "Montana",
+   "month": 2,
+   "incidents": 46,
+   "deaths": 9,
+   "injuries": 13
+ },
+ {
+   "state": "Montana",
+   "month": 3,
+   "incidents": 54,
+   "deaths": 22,
+   "injuries": 13
+ },
+ {
+   "state": "Montana",
+   "month": 4,
+   "incidents": 38,
+   "deaths": 8,
+   "injuries": 8
+ },
+ {
+   "state": "Montana",
+   "month": 5,
+   "incidents": 64,
+   "deaths": 15,
+   "injuries": 10
+ },
+ {
+   "state": "Montana",
+   "month": 6,
+   "incidents": 50,
+   "deaths": 10,
+   "injuries": 10
+ },
+ {
+   "state": "Montana",
+   "month": 7,
+   "incidents": 71,
+   "deaths": 13,
+   "injuries": 11
+ },
+ {
+   "state": "Montana",
+   "month": 8,
+   "incidents": 52,
+   "deaths": 14,
+   "injuries": 8
+ },
+ {
+   "state": "Montana",
+   "month": 9,
+   "incidents": 45,
+   "deaths": 8,
+   "injuries": 7
+ },
+ {
+   "state": "Montana",
+   "month": 10,
+   "incidents": 55,
+   "deaths": 9,
+   "injuries": 17
+ },
+ {
+   "state": "Montana",
+   "month": 11,
+   "incidents": 50,
+   "deaths": 11,
+   "injuries": 13
+ },
+ {
+   "state": "Montana",
+   "month": 12,
+   "incidents": 41,
+   "deaths": 12,
+   "injuries": 9
+ },
+ {
+   "state": "Nebraska",
+   "month": 1,
+   "incidents": 141,
+   "deaths": 34,
+   "injuries": 60
+ },
+ {
+   "state": "Nebraska",
+   "month": 2,
+   "incidents": 127,
+   "deaths": 8,
+   "injuries": 49
+ },
+ {
+   "state": "Nebraska",
+   "month": 3,
+   "incidents": 110,
+   "deaths": 14,
+   "injuries": 44
+ },
+ {
+   "state": "Nebraska",
+   "month": 4,
+   "incidents": 105,
+   "deaths": 23,
+   "injuries": 37
+ },
+ {
+   "state": "Nebraska",
+   "month": 5,
+   "incidents": 154,
+   "deaths": 20,
+   "injuries": 63
+ },
+ {
+   "state": "Nebraska",
+   "month": 6,
+   "incidents": 146,
+   "deaths": 20,
+   "injuries": 55
+ },
+ {
+   "state": "Nebraska",
+   "month": 7,
+   "incidents": 153,
+   "deaths": 13,
+   "injuries": 53
+ },
+ {
+   "state": "Nebraska",
+   "month": 8,
+   "incidents": 150,
+   "deaths": 10,
+   "injuries": 73
+ },
+ {
+   "state": "Nebraska",
+   "month": 9,
+   "incidents": 145,
+   "deaths": 18,
+   "injuries": 65
+ },
+ {
+   "state": "Nebraska",
+   "month": 10,
+   "incidents": 124,
+   "deaths": 12,
+   "injuries": 56
+ },
+ {
+   "state": "Nebraska",
+   "month": 11,
+   "incidents": 114,
+   "deaths": 19,
+   "injuries": 48
+ },
+ {
+   "state": "Nebraska",
+   "month": 12,
+   "incidents": 127,
+   "deaths": 22,
+   "injuries": 51
+ },
+ {
+   "state": "Nevada",
+   "month": 1,
+   "incidents": 190,
+   "deaths": 74,
+   "injuries": 104
+ },
+ {
+   "state": "Nevada",
+   "month": 2,
+   "incidents": 181,
+   "deaths": 75,
+   "injuries": 97
+ },
+ {
+   "state": "Nevada",
+   "month": 3,
+   "incidents": 186,
+   "deaths": 70,
+   "injuries": 81
+ },
+ {
+   "state": "Nevada",
+   "month": 4,
+   "incidents": 180,
+   "deaths": 75,
+   "injuries": 71
+ },
+ {
+   "state": "Nevada",
+   "month": 5,
+   "incidents": 182,
+   "deaths": 64,
+   "injuries": 90
+ },
+ {
+   "state": "Nevada",
+   "month": 6,
+   "incidents": 136,
+   "deaths": 62,
+   "injuries": 76
+ },
+ {
+   "state": "Nevada",
+   "month": 7,
+   "incidents": 161,
+   "deaths": 59,
+   "injuries": 79
+ },
+ {
+   "state": "Nevada",
+   "month": 8,
+   "incidents": 150,
+   "deaths": 54,
+   "injuries": 68
+ },
+ {
+   "state": "Nevada",
+   "month": 9,
+   "incidents": 141,
+   "deaths": 44,
+   "injuries": 78
+ },
+ {
+   "state": "Nevada",
+   "month": 10,
+   "incidents": 116,
+   "deaths": 43,
+   "injuries": 55
+ },
+ {
+   "state": "Nevada",
+   "month": 11,
+   "incidents": 130,
+   "deaths": 66,
+   "injuries": 62
+ },
+ {
+   "state": "Nevada",
+   "month": 12,
+   "incidents": 126,
+   "deaths": 68,
+   "injuries": 58
+ },
+ {
+   "state": "New Hampshire",
+   "month": 1,
+   "incidents": 97,
+   "deaths": 5,
+   "injuries": 24
+ },
+ {
+   "state": "New Hampshire",
+   "month": 2,
+   "incidents": 70,
+   "deaths": 5,
+   "injuries": 8
+ },
+ {
+   "state": "New Hampshire",
+   "month": 3,
+   "incidents": 81,
+   "deaths": 10,
+   "injuries": 8
+ },
+ {
+   "state": "New Hampshire",
+   "month": 4,
+   "incidents": 56,
+   "deaths": 5,
+   "injuries": 10
+ },
+ {
+   "state": "New Hampshire",
+   "month": 5,
+   "incidents": 81,
+   "deaths": 8,
+   "injuries": 14
+ },
+ {
+   "state": "New Hampshire",
+   "month": 6,
+   "incidents": 74,
+   "deaths": 5,
+   "injuries": 12
+ },
+ {
+   "state": "New Hampshire",
+   "month": 7,
+   "incidents": 66,
+   "deaths": 8,
+   "injuries": 15
+ },
+ {
+   "state": "New Hampshire",
+   "month": 8,
+   "incidents": 106,
+   "deaths": 7,
+   "injuries": 13
+ },
+ {
+   "state": "New Hampshire",
+   "month": 9,
+   "incidents": 78,
+   "deaths": 12,
+   "injuries": 1
+ },
+ {
+   "state": "New Hampshire",
+   "month": 10,
+   "incidents": 81,
+   "deaths": 5,
+   "injuries": 11
+ },
+ {
+   "state": "New Hampshire",
+   "month": 11,
+   "incidents": 79,
+   "deaths": 10,
+   "injuries": 14
+ },
+ {
+   "state": "New Hampshire",
+   "month": 12,
+   "incidents": 65,
+   "deaths": 5,
+   "injuries": 7
+ },
+ {
+   "state": "New Jersey",
+   "month": 1,
+   "incidents": 522,
+   "deaths": 101,
+   "injuries": 232
+ },
+ {
+   "state": "New Jersey",
+   "month": 2,
+   "incidents": 348,
+   "deaths": 69,
+   "injuries": 138
+ },
+ {
+   "state": "New Jersey",
+   "month": 3,
+   "incidents": 412,
+   "deaths": 93,
+   "injuries": 181
+ },
+ {
+   "state": "New Jersey",
+   "month": 4,
+   "incidents": 453,
+   "deaths": 90,
+   "injuries": 211
+ },
+ {
+   "state": "New Jersey",
+   "month": 5,
+   "incidents": 442,
+   "deaths": 88,
+   "injuries": 220
+ },
+ {
+   "state": "New Jersey",
+   "month": 6,
+   "incidents": 453,
+   "deaths": 104,
+   "injuries": 248
+ },
+ {
+   "state": "New Jersey",
+   "month": 7,
+   "incidents": 462,
+   "deaths": 98,
+   "injuries": 249
+ },
+ {
+   "state": "New Jersey",
+   "month": 8,
+   "incidents": 465,
+   "deaths": 103,
+   "injuries": 267
+ },
+ {
+   "state": "New Jersey",
+   "month": 9,
+   "incidents": 470,
+   "deaths": 103,
+   "injuries": 209
+ },
+ {
+   "state": "New Jersey",
+   "month": 10,
+   "incidents": 453,
+   "deaths": 81,
+   "injuries": 201
+ },
+ {
+   "state": "New Jersey",
+   "month": 11,
+   "incidents": 394,
+   "deaths": 90,
+   "injuries": 169
+ },
+ {
+   "state": "New Jersey",
+   "month": 12,
+   "incidents": 356,
+   "deaths": 88,
+   "injuries": 150
+ },
+ {
+   "state": "New Mexico",
+   "month": 1,
+   "incidents": 132,
+   "deaths": 38,
+   "injuries": 53
+ },
+ {
+   "state": "New Mexico",
+   "month": 2,
+   "incidents": 140,
+   "deaths": 47,
+   "injuries": 52
+ },
+ {
+   "state": "New Mexico",
+   "month": 3,
+   "incidents": 140,
+   "deaths": 45,
+   "injuries": 45
+ },
+ {
+   "state": "New Mexico",
+   "month": 4,
+   "incidents": 120,
+   "deaths": 34,
+   "injuries": 39
+ },
+ {
+   "state": "New Mexico",
+   "month": 5,
+   "incidents": 147,
+   "deaths": 46,
+   "injuries": 49
+ },
+ {
+   "state": "New Mexico",
+   "month": 6,
+   "incidents": 129,
+   "deaths": 43,
+   "injuries": 43
+ },
+ {
+   "state": "New Mexico",
+   "month": 7,
+   "incidents": 169,
+   "deaths": 48,
+   "injuries": 56
+ },
+ {
+   "state": "New Mexico",
+   "month": 8,
+   "incidents": 158,
+   "deaths": 45,
+   "injuries": 49
+ },
+ {
+   "state": "New Mexico",
+   "month": 9,
+   "incidents": 126,
+   "deaths": 29,
+   "injuries": 43
+ },
+ {
+   "state": "New Mexico",
+   "month": 10,
+   "incidents": 124,
+   "deaths": 31,
+   "injuries": 33
+ },
+ {
+   "state": "New Mexico",
+   "month": 11,
+   "incidents": 96,
+   "deaths": 32,
+   "injuries": 30
+ },
+ {
+   "state": "New Mexico",
+   "month": 12,
+   "incidents": 117,
+   "deaths": 38,
+   "injuries": 36
+ },
+ {
+   "state": "New York",
+   "month": 1,
+   "incidents": 936,
+   "deaths": 139,
+   "injuries": 437
+ },
+ {
+   "state": "New York",
+   "month": 2,
+   "incidents": 654,
+   "deaths": 110,
+   "injuries": 296
+ },
+ {
+   "state": "New York",
+   "month": 3,
+   "incidents": 783,
+   "deaths": 152,
+   "injuries": 335
+ },
+ {
+   "state": "New York",
+   "month": 4,
+   "incidents": 789,
+   "deaths": 115,
+   "injuries": 382
+ },
+ {
+   "state": "New York",
+   "month": 5,
+   "incidents": 845,
+   "deaths": 149,
+   "injuries": 474
+ },
+ {
+   "state": "New York",
+   "month": 6,
+   "incidents": 896,
+   "deaths": 140,
+   "injuries": 524
+ },
+ {
+   "state": "New York",
+   "month": 7,
+   "incidents": 818,
+   "deaths": 146,
+   "injuries": 485
+ },
+ {
+   "state": "New York",
+   "month": 8,
+   "incidents": 828,
+   "deaths": 148,
+   "injuries": 542
+ },
+ {
+   "state": "New York",
+   "month": 9,
+   "incidents": 661,
+   "deaths": 131,
+   "injuries": 352
+ },
+ {
+   "state": "New York",
+   "month": 10,
+   "incidents": 744,
+   "deaths": 138,
+   "injuries": 378
+ },
+ {
+   "state": "New York",
+   "month": 11,
+   "incidents": 737,
+   "deaths": 124,
+   "injuries": 356
+ },
+ {
+   "state": "New York",
+   "month": 12,
+   "incidents": 805,
+   "deaths": 161,
+   "injuries": 381
+ },
+ {
+   "state": "North Carolina",
+   "month": 1,
+   "incidents": 855,
+   "deaths": 189,
+   "injuries": 461
+ },
+ {
+   "state": "North Carolina",
+   "month": 2,
+   "incidents": 680,
+   "deaths": 185,
+   "injuries": 315
+ },
+ {
+   "state": "North Carolina",
+   "month": 3,
+   "incidents": 866,
+   "deaths": 210,
+   "injuries": 444
+ },
+ {
+   "state": "North Carolina",
+   "month": 4,
+   "incidents": 676,
+   "deaths": 164,
+   "injuries": 350
+ },
+ {
+   "state": "North Carolina",
+   "month": 5,
+   "incidents": 716,
+   "deaths": 160,
+   "injuries": 354
+ },
+ {
+   "state": "North Carolina",
+   "month": 6,
+   "incidents": 642,
+   "deaths": 161,
+   "injuries": 333
+ },
+ {
+   "state": "North Carolina",
+   "month": 7,
+   "incidents": 739,
+   "deaths": 190,
+   "injuries": 425
+ },
+ {
+   "state": "North Carolina",
+   "month": 8,
+   "incidents": 722,
+   "deaths": 181,
+   "injuries": 409
+ },
+ {
+   "state": "North Carolina",
+   "month": 9,
+   "incidents": 661,
+   "deaths": 163,
+   "injuries": 366
+ },
+ {
+   "state": "North Carolina",
+   "month": 10,
+   "incidents": 633,
+   "deaths": 160,
+   "injuries": 318
+ },
+ {
+   "state": "North Carolina",
+   "month": 11,
+   "incidents": 607,
+   "deaths": 165,
+   "injuries": 318
+ },
+ {
+   "state": "North Carolina",
+   "month": 12,
+   "incidents": 668,
+   "deaths": 182,
+   "injuries": 396
+ },
+ {
+   "state": "North Dakota",
+   "month": 1,
+   "incidents": 45,
+   "deaths": 7,
+   "injuries": 9
+ },
+ {
+   "state": "North Dakota",
+   "month": 2,
+   "incidents": 43,
+   "deaths": 7,
+   "injuries": 10
+ },
+ {
+   "state": "North Dakota",
+   "month": 3,
+   "incidents": 52,
+   "deaths": 7,
+   "injuries": 15
+ },
+ {
+   "state": "North Dakota",
+   "month": 4,
+   "incidents": 36,
+   "deaths": 3,
+   "injuries": 4
+ },
+ {
+   "state": "North Dakota",
+   "month": 5,
+   "incidents": 46,
+   "deaths": 5,
+   "injuries": 7
+ },
+ {
+   "state": "North Dakota",
+   "month": 6,
+   "incidents": 43,
+   "deaths": 10,
+   "injuries": 12
+ },
+ {
+   "state": "North Dakota",
+   "month": 7,
+   "incidents": 37,
+   "deaths": 4,
+   "injuries": 8
+ },
+ {
+   "state": "North Dakota",
+   "month": 8,
+   "incidents": 58,
+   "deaths": 9,
+   "injuries": 17
+ },
+ {
+   "state": "North Dakota",
+   "month": 9,
+   "incidents": 46,
+   "deaths": 1,
+   "injuries": 9
+ },
+ {
+   "state": "North Dakota",
+   "month": 10,
+   "incidents": 51,
+   "deaths": 3,
+   "injuries": 12
+ },
+ {
+   "state": "North Dakota",
+   "month": 11,
+   "incidents": 61,
+   "deaths": 8,
+   "injuries": 12
+ },
+ {
+   "state": "North Dakota",
+   "month": 12,
+   "incidents": 35,
+   "deaths": 0,
+   "injuries": 11
+ },
+ {
+   "state": "Ohio",
+   "month": 1,
+   "incidents": 1002,
+   "deaths": 263,
+   "injuries": 472
+ },
+ {
+   "state": "Ohio",
+   "month": 2,
+   "incidents": 797,
+   "deaths": 213,
+   "injuries": 411
+ },
+ {
+   "state": "Ohio",
+   "month": 3,
+   "incidents": 916,
+   "deaths": 203,
+   "injuries": 464
+ },
+ {
+   "state": "Ohio",
+   "month": 4,
+   "incidents": 739,
+   "deaths": 170,
+   "injuries": 390
+ },
+ {
+   "state": "Ohio",
+   "month": 5,
+   "incidents": 849,
+   "deaths": 181,
+   "injuries": 524
+ },
+ {
+   "state": "Ohio",
+   "month": 6,
+   "incidents": 775,
+   "deaths": 183,
+   "injuries": 438
+ },
+ {
+   "state": "Ohio",
+   "month": 7,
+   "incidents": 863,
+   "deaths": 199,
+   "injuries": 575
+ },
+ {
+   "state": "Ohio",
+   "month": 8,
+   "incidents": 818,
+   "deaths": 191,
+   "injuries": 486
+ },
+ {
+   "state": "Ohio",
+   "month": 9,
+   "incidents": 858,
+   "deaths": 187,
+   "injuries": 474
+ },
+ {
+   "state": "Ohio",
+   "month": 10,
+   "incidents": 803,
+   "deaths": 166,
+   "injuries": 417
+ },
+ {
+   "state": "Ohio",
+   "month": 11,
+   "incidents": 689,
+   "deaths": 189,
+   "injuries": 405
+ },
+ {
+   "state": "Ohio",
+   "month": 12,
+   "incidents": 726,
+   "deaths": 181,
+   "injuries": 419
+ },
+ {
+   "state": "Oklahoma",
+   "month": 1,
+   "incidents": 320,
+   "deaths": 98,
+   "injuries": 164
+ },
+ {
+   "state": "Oklahoma",
+   "month": 2,
+   "incidents": 236,
+   "deaths": 67,
+   "injuries": 107
+ },
+ {
+   "state": "Oklahoma",
+   "month": 3,
+   "incidents": 312,
+   "deaths": 95,
+   "injuries": 120
+ },
+ {
+   "state": "Oklahoma",
+   "month": 4,
+   "incidents": 247,
+   "deaths": 59,
+   "injuries": 123
+ },
+ {
+   "state": "Oklahoma",
+   "month": 5,
+   "incidents": 241,
+   "deaths": 57,
+   "injuries": 96
+ },
+ {
+   "state": "Oklahoma",
+   "month": 6,
+   "incidents": 284,
+   "deaths": 79,
+   "injuries": 130
+ },
+ {
+   "state": "Oklahoma",
+   "month": 7,
+   "incidents": 324,
+   "deaths": 72,
+   "injuries": 139
+ },
+ {
+   "state": "Oklahoma",
+   "month": 8,
+   "incidents": 284,
+   "deaths": 81,
+   "injuries": 121
+ },
+ {
+   "state": "Oklahoma",
+   "month": 9,
+   "incidents": 292,
+   "deaths": 64,
+   "injuries": 136
+ },
+ {
+   "state": "Oklahoma",
+   "month": 10,
+   "incidents": 272,
+   "deaths": 76,
+   "injuries": 110
+ },
+ {
+   "state": "Oklahoma",
+   "month": 11,
+   "incidents": 249,
+   "deaths": 64,
+   "injuries": 119
+ },
+ {
+   "state": "Oklahoma",
+   "month": 12,
+   "incidents": 262,
+   "deaths": 73,
+   "injuries": 120
+ },
+ {
+   "state": "Oregon",
+   "month": 1,
+   "incidents": 227,
+   "deaths": 53,
+   "injuries": 63
+ },
+ {
+   "state": "Oregon",
+   "month": 2,
+   "incidents": 152,
+   "deaths": 42,
+   "injuries": 39
+ },
+ {
+   "state": "Oregon",
+   "month": 3,
+   "incidents": 202,
+   "deaths": 36,
+   "injuries": 71
+ },
+ {
+   "state": "Oregon",
+   "month": 4,
+   "incidents": 177,
+   "deaths": 28,
+   "injuries": 59
+ },
+ {
+   "state": "Oregon",
+   "month": 5,
+   "incidents": 192,
+   "deaths": 27,
+   "injuries": 54
+ },
+ {
+   "state": "Oregon",
+   "month": 6,
+   "incidents": 181,
+   "deaths": 33,
+   "injuries": 48
+ },
+ {
+   "state": "Oregon",
+   "month": 7,
+   "incidents": 190,
+   "deaths": 35,
+   "injuries": 57
+ },
+ {
+   "state": "Oregon",
+   "month": 8,
+   "incidents": 189,
+   "deaths": 27,
+   "injuries": 63
+ },
+ {
+   "state": "Oregon",
+   "month": 9,
+   "incidents": 199,
+   "deaths": 36,
+   "injuries": 39
+ },
+ {
+   "state": "Oregon",
+   "month": 10,
+   "incidents": 183,
+   "deaths": 38,
+   "injuries": 61
+ },
+ {
+   "state": "Oregon",
+   "month": 11,
+   "incidents": 171,
+   "deaths": 35,
+   "injuries": 58
+ },
+ {
+   "state": "Oregon",
+   "month": 12,
+   "incidents": 154,
+   "deaths": 29,
+   "injuries": 61
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 1,
+   "incidents": 847,
+   "deaths": 265,
+   "injuries": 436
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 2,
+   "incidents": 639,
+   "deaths": 168,
+   "injuries": 326
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 3,
+   "incidents": 710,
+   "deaths": 207,
+   "injuries": 332
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 4,
+   "incidents": 707,
+   "deaths": 163,
+   "injuries": 412
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 5,
+   "incidents": 750,
+   "deaths": 183,
+   "injuries": 454
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 6,
+   "incidents": 731,
+   "deaths": 187,
+   "injuries": 434
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 7,
+   "incidents": 745,
+   "deaths": 197,
+   "injuries": 448
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 8,
+   "incidents": 759,
+   "deaths": 189,
+   "injuries": 472
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 9,
+   "incidents": 695,
+   "deaths": 170,
+   "injuries": 430
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 10,
+   "incidents": 690,
+   "deaths": 181,
+   "injuries": 379
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 11,
+   "incidents": 617,
+   "deaths": 158,
+   "injuries": 380
+ },
+ {
+   "state": "Pennsylvania",
+   "month": 12,
+   "incidents": 682,
+   "deaths": 186,
+   "injuries": 379
+ },
+ {
+   "state": "Rhode Island",
+   "month": 1,
+   "incidents": 98,
+   "deaths": 4,
+   "injuries": 38
+ },
+ {
+   "state": "Rhode Island",
+   "month": 2,
+   "incidents": 52,
+   "deaths": 3,
+   "injuries": 20
+ },
+ {
+   "state": "Rhode Island",
+   "month": 3,
+   "incidents": 66,
+   "deaths": 4,
+   "injuries": 29
+ },
+ {
+   "state": "Rhode Island",
+   "month": 4,
+   "incidents": 65,
+   "deaths": 2,
+   "injuries": 17
+ },
+ {
+   "state": "Rhode Island",
+   "month": 5,
+   "incidents": 85,
+   "deaths": 6,
+   "injuries": 33
+ },
+ {
+   "state": "Rhode Island",
+   "month": 6,
+   "incidents": 96,
+   "deaths": 9,
+   "injuries": 51
+ },
+ {
+   "state": "Rhode Island",
+   "month": 7,
+   "incidents": 97,
+   "deaths": 9,
+   "injuries": 33
+ },
+ {
+   "state": "Rhode Island",
+   "month": 8,
+   "incidents": 91,
+   "deaths": 4,
+   "injuries": 33
+ },
+ {
+   "state": "Rhode Island",
+   "month": 9,
+   "incidents": 69,
+   "deaths": 6,
+   "injuries": 24
+ },
+ {
+   "state": "Rhode Island",
+   "month": 10,
+   "incidents": 72,
+   "deaths": 2,
+   "injuries": 29
+ },
+ {
+   "state": "Rhode Island",
+   "month": 11,
+   "incidents": 40,
+   "deaths": 3,
+   "injuries": 11
+ },
+ {
+   "state": "Rhode Island",
+   "month": 12,
+   "incidents": 44,
+   "deaths": 4,
+   "injuries": 20
+ },
+ {
+   "state": "South Carolina",
+   "month": 1,
+   "incidents": 602,
+   "deaths": 147,
+   "injuries": 281
+ },
+ {
+   "state": "South Carolina",
+   "month": 2,
+   "incidents": 549,
+   "deaths": 114,
+   "injuries": 237
+ },
+ {
+   "state": "South Carolina",
+   "month": 3,
+   "incidents": 592,
+   "deaths": 153,
+   "injuries": 264
+ },
+ {
+   "state": "South Carolina",
+   "month": 4,
+   "incidents": 521,
+   "deaths": 117,
+   "injuries": 217
+ },
+ {
+   "state": "South Carolina",
+   "month": 5,
+   "incidents": 629,
+   "deaths": 115,
+   "injuries": 273
+ },
+ {
+   "state": "South Carolina",
+   "month": 6,
+   "incidents": 537,
+   "deaths": 134,
+   "injuries": 272
+ },
+ {
+   "state": "South Carolina",
+   "month": 7,
+   "incidents": 635,
+   "deaths": 140,
+   "injuries": 265
+ },
+ {
+   "state": "South Carolina",
+   "month": 8,
+   "incidents": 605,
+   "deaths": 137,
+   "injuries": 269
+ },
+ {
+   "state": "South Carolina",
+   "month": 9,
+   "incidents": 595,
+   "deaths": 123,
+   "injuries": 280
+ },
+ {
+   "state": "South Carolina",
+   "month": 10,
+   "incidents": 534,
+   "deaths": 98,
+   "injuries": 217
+ },
+ {
+   "state": "South Carolina",
+   "month": 11,
+   "incidents": 457,
+   "deaths": 138,
+   "injuries": 203
+ },
+ {
+   "state": "South Carolina",
+   "month": 12,
+   "incidents": 493,
+   "deaths": 102,
+   "injuries": 232
+ },
+ {
+   "state": "South Dakota",
+   "month": 1,
+   "incidents": 44,
+   "deaths": 6,
+   "injuries": 15
+ },
+ {
+   "state": "South Dakota",
+   "month": 2,
+   "incidents": 36,
+   "deaths": 11,
+   "injuries": 10
+ },
+ {
+   "state": "South Dakota",
+   "month": 3,
+   "incidents": 32,
+   "deaths": 5,
+   "injuries": 10
+ },
+ {
+   "state": "South Dakota",
+   "month": 4,
+   "incidents": 36,
+   "deaths": 9,
+   "injuries": 5
+ },
+ {
+   "state": "South Dakota",
+   "month": 5,
+   "incidents": 38,
+   "deaths": 5,
+   "injuries": 6
+ },
+ {
+   "state": "South Dakota",
+   "month": 6,
+   "incidents": 58,
+   "deaths": 5,
+   "injuries": 6
+ },
+ {
+   "state": "South Dakota",
+   "month": 7,
+   "incidents": 56,
+   "deaths": 4,
+   "injuries": 12
+ },
+ {
+   "state": "South Dakota",
+   "month": 8,
+   "incidents": 58,
+   "deaths": 6,
+   "injuries": 6
+ },
+ {
+   "state": "South Dakota",
+   "month": 9,
+   "incidents": 44,
+   "deaths": 14,
+   "injuries": 8
+ },
+ {
+   "state": "South Dakota",
+   "month": 10,
+   "incidents": 44,
+   "deaths": 4,
+   "injuries": 11
+ },
+ {
+   "state": "South Dakota",
+   "month": 11,
+   "incidents": 37,
+   "deaths": 11,
+   "injuries": 8
+ },
+ {
+   "state": "South Dakota",
+   "month": 12,
+   "incidents": 38,
+   "deaths": 2,
+   "injuries": 10
+ },
+ {
+   "state": "Tennessee",
+   "month": 1,
+   "incidents": 694,
+   "deaths": 178,
+   "injuries": 410
+ },
+ {
+   "state": "Tennessee",
+   "month": 2,
+   "incidents": 594,
+   "deaths": 165,
+   "injuries": 332
+ },
+ {
+   "state": "Tennessee",
+   "month": 3,
+   "incidents": 755,
+   "deaths": 158,
+   "injuries": 445
+ },
+ {
+   "state": "Tennessee",
+   "month": 4,
+   "incidents": 605,
+   "deaths": 124,
+   "injuries": 341
+ },
+ {
+   "state": "Tennessee",
+   "month": 5,
+   "incidents": 665,
+   "deaths": 131,
+   "injuries": 414
+ },
+ {
+   "state": "Tennessee",
+   "month": 6,
+   "incidents": 571,
+   "deaths": 133,
+   "injuries": 352
+ },
+ {
+   "state": "Tennessee",
+   "month": 7,
+   "incidents": 650,
+   "deaths": 163,
+   "injuries": 384
+ },
+ {
+   "state": "Tennessee",
+   "month": 8,
+   "incidents": 644,
+   "deaths": 145,
+   "injuries": 380
+ },
+ {
+   "state": "Tennessee",
+   "month": 9,
+   "incidents": 598,
+   "deaths": 131,
+   "injuries": 346
+ },
+ {
+   "state": "Tennessee",
+   "month": 10,
+   "incidents": 550,
+   "deaths": 120,
+   "injuries": 324
+ },
+ {
+   "state": "Tennessee",
+   "month": 11,
+   "incidents": 500,
+   "deaths": 120,
+   "injuries": 296
+ },
+ {
+   "state": "Tennessee",
+   "month": 12,
+   "incidents": 543,
+   "deaths": 148,
+   "injuries": 300
+ },
+ {
+   "state": "Texas",
+   "month": 1,
+   "incidents": 1428,
+   "deaths": 532,
+   "injuries": 612
+ },
+ {
+   "state": "Texas",
+   "month": 2,
+   "incidents": 1211,
+   "deaths": 417,
+   "injuries": 546
+ },
+ {
+   "state": "Texas",
+   "month": 3,
+   "incidents": 1358,
+   "deaths": 518,
+   "injuries": 575
+ },
+ {
+   "state": "Texas",
+   "month": 4,
+   "incidents": 1145,
+   "deaths": 346,
+   "injuries": 443
+ },
+ {
+   "state": "Texas",
+   "month": 5,
+   "incidents": 999,
+   "deaths": 412,
+   "injuries": 423
+ },
+ {
+   "state": "Texas",
+   "month": 6,
+   "incidents": 936,
+   "deaths": 382,
+   "injuries": 406
+ },
+ {
+   "state": "Texas",
+   "month": 7,
+   "incidents": 1117,
+   "deaths": 398,
+   "injuries": 532
+ },
+ {
+   "state": "Texas",
+   "month": 8,
+   "incidents": 1051,
+   "deaths": 345,
+   "injuries": 506
+ },
+ {
+   "state": "Texas",
+   "month": 9,
+   "incidents": 952,
+   "deaths": 317,
+   "injuries": 387
+ },
+ {
+   "state": "Texas",
+   "month": 10,
+   "incidents": 965,
+   "deaths": 310,
+   "injuries": 412
+ },
+ {
+   "state": "Texas",
+   "month": 11,
+   "incidents": 904,
+   "deaths": 347,
+   "injuries": 518
+ },
+ {
+   "state": "Texas",
+   "month": 12,
+   "incidents": 951,
+   "deaths": 391,
+   "injuries": 433
+ },
+ {
+   "state": "Utah",
+   "month": 1,
+   "incidents": 79,
+   "deaths": 27,
+   "injuries": 35
+ },
+ {
+   "state": "Utah",
+   "month": 2,
+   "incidents": 78,
+   "deaths": 31,
+   "injuries": 26
+ },
+ {
+   "state": "Utah",
+   "month": 3,
+   "incidents": 82,
+   "deaths": 12,
+   "injuries": 35
+ },
+ {
+   "state": "Utah",
+   "month": 4,
+   "incidents": 64,
+   "deaths": 15,
+   "injuries": 23
+ },
+ {
+   "state": "Utah",
+   "month": 5,
+   "incidents": 90,
+   "deaths": 18,
+   "injuries": 28
+ },
+ {
+   "state": "Utah",
+   "month": 6,
+   "incidents": 86,
+   "deaths": 32,
+   "injuries": 34
+ },
+ {
+   "state": "Utah",
+   "month": 7,
+   "incidents": 129,
+   "deaths": 26,
+   "injuries": 41
+ },
+ {
+   "state": "Utah",
+   "month": 8,
+   "incidents": 91,
+   "deaths": 22,
+   "injuries": 36
+ },
+ {
+   "state": "Utah",
+   "month": 9,
+   "incidents": 92,
+   "deaths": 15,
+   "injuries": 37
+ },
+ {
+   "state": "Utah",
+   "month": 10,
+   "incidents": 84,
+   "deaths": 16,
+   "injuries": 29
+ },
+ {
+   "state": "Utah",
+   "month": 11,
+   "incidents": 78,
+   "deaths": 23,
+   "injuries": 25
+ },
+ {
+   "state": "Utah",
+   "month": 12,
+   "incidents": 71,
+   "deaths": 22,
+   "injuries": 26
+ },
+ {
+   "state": "Vermont",
+   "month": 1,
+   "incidents": 42,
+   "deaths": 6,
+   "injuries": 4
+ },
+ {
+   "state": "Vermont",
+   "month": 2,
+   "incidents": 35,
+   "deaths": 4,
+   "injuries": 3
+ },
+ {
+   "state": "Vermont",
+   "month": 3,
+   "incidents": 33,
+   "deaths": 3,
+   "injuries": 6
+ },
+ {
+   "state": "Vermont",
+   "month": 4,
+   "incidents": 34,
+   "deaths": 4,
+   "injuries": 10
+ },
+ {
+   "state": "Vermont",
+   "month": 5,
+   "incidents": 28,
+   "deaths": 4,
+   "injuries": 6
+ },
+ {
+   "state": "Vermont",
+   "month": 6,
+   "incidents": 33,
+   "deaths": 1,
+   "injuries": 5
+ },
+ {
+   "state": "Vermont",
+   "month": 7,
+   "incidents": 49,
+   "deaths": 5,
+   "injuries": 5
+ },
+ {
+   "state": "Vermont",
+   "month": 8,
+   "incidents": 33,
+   "deaths": 8,
+   "injuries": 4
+ },
+ {
+   "state": "Vermont",
+   "month": 9,
+   "incidents": 51,
+   "deaths": 4,
+   "injuries": 9
+ },
+ {
+   "state": "Vermont",
+   "month": 10,
+   "incidents": 38,
+   "deaths": 3,
+   "injuries": 4
+ },
+ {
+   "state": "Vermont",
+   "month": 11,
+   "incidents": 41,
+   "deaths": 3,
+   "injuries": 9
+ },
+ {
+   "state": "Vermont",
+   "month": 12,
+   "incidents": 40,
+   "deaths": 8,
+   "injuries": 2
+ },
+ {
+   "state": "Virginia",
+   "month": 1,
+   "incidents": 564,
+   "deaths": 145,
+   "injuries": 333
+ },
+ {
+   "state": "Virginia",
+   "month": 2,
+   "incidents": 407,
+   "deaths": 99,
+   "injuries": 238
+ },
+ {
+   "state": "Virginia",
+   "month": 3,
+   "incidents": 514,
+   "deaths": 105,
+   "injuries": 304
+ },
+ {
+   "state": "Virginia",
+   "month": 4,
+   "incidents": 487,
+   "deaths": 109,
+   "injuries": 271
+ },
+ {
+   "state": "Virginia",
+   "month": 5,
+   "incidents": 507,
+   "deaths": 127,
+   "injuries": 276
+ },
+ {
+   "state": "Virginia",
+   "month": 6,
+   "incidents": 478,
+   "deaths": 114,
+   "injuries": 325
+ },
+ {
+   "state": "Virginia",
+   "month": 7,
+   "incidents": 475,
+   "deaths": 95,
+   "injuries": 306
+ },
+ {
+   "state": "Virginia",
+   "month": 8,
+   "incidents": 514,
+   "deaths": 116,
+   "injuries": 315
+ },
+ {
+   "state": "Virginia",
+   "month": 9,
+   "incidents": 445,
+   "deaths": 114,
+   "injuries": 264
+ },
+ {
+   "state": "Virginia",
+   "month": 10,
+   "incidents": 448,
+   "deaths": 101,
+   "injuries": 264
+ },
+ {
+   "state": "Virginia",
+   "month": 11,
+   "incidents": 384,
+   "deaths": 103,
+   "injuries": 210
+ },
+ {
+   "state": "Virginia",
+   "month": 12,
+   "incidents": 455,
+   "deaths": 127,
+   "injuries": 265
+ },
+ {
+   "state": "Washington",
+   "month": 1,
+   "incidents": 311,
+   "deaths": 84,
+   "injuries": 143
+ },
+ {
+   "state": "Washington",
+   "month": 2,
+   "incidents": 261,
+   "deaths": 72,
+   "injuries": 101
+ },
+ {
+   "state": "Washington",
+   "month": 3,
+   "incidents": 350,
+   "deaths": 70,
+   "injuries": 108
+ },
+ {
+   "state": "Washington",
+   "month": 4,
+   "incidents": 258,
+   "deaths": 67,
+   "injuries": 76
+ },
+ {
+   "state": "Washington",
+   "month": 5,
+   "incidents": 292,
+   "deaths": 53,
+   "injuries": 115
+ },
+ {
+   "state": "Washington",
+   "month": 6,
+   "incidents": 244,
+   "deaths": 60,
+   "injuries": 84
+ },
+ {
+   "state": "Washington",
+   "month": 7,
+   "incidents": 299,
+   "deaths": 77,
+   "injuries": 119
+ },
+ {
+   "state": "Washington",
+   "month": 8,
+   "incidents": 304,
+   "deaths": 69,
+   "injuries": 121
+ },
+ {
+   "state": "Washington",
+   "month": 9,
+   "incidents": 226,
+   "deaths": 59,
+   "injuries": 100
+ },
+ {
+   "state": "Washington",
+   "month": 10,
+   "incidents": 262,
+   "deaths": 59,
+   "injuries": 108
+ },
+ {
+   "state": "Washington",
+   "month": 11,
+   "incidents": 244,
+   "deaths": 51,
+   "injuries": 99
+ },
+ {
+   "state": "Washington",
+   "month": 12,
+   "incidents": 259,
+   "deaths": 69,
+   "injuries": 66
+ },
+ {
+   "state": "West Virginia",
+   "month": 1,
+   "incidents": 140,
+   "deaths": 39,
+   "injuries": 52
+ },
+ {
+   "state": "West Virginia",
+   "month": 2,
+   "incidents": 112,
+   "deaths": 25,
+   "injuries": 45
+ },
+ {
+   "state": "West Virginia",
+   "month": 3,
+   "incidents": 149,
+   "deaths": 27,
+   "injuries": 69
+ },
+ {
+   "state": "West Virginia",
+   "month": 4,
+   "incidents": 148,
+   "deaths": 22,
+   "injuries": 64
+ },
+ {
+   "state": "West Virginia",
+   "month": 5,
+   "incidents": 112,
+   "deaths": 17,
+   "injuries": 44
+ },
+ {
+   "state": "West Virginia",
+   "month": 6,
+   "incidents": 105,
+   "deaths": 22,
+   "injuries": 41
+ },
+ {
+   "state": "West Virginia",
+   "month": 7,
+   "incidents": 107,
+   "deaths": 25,
+   "injuries": 40
+ },
+ {
+   "state": "West Virginia",
+   "month": 8,
+   "incidents": 145,
+   "deaths": 32,
+   "injuries": 59
+ },
+ {
+   "state": "West Virginia",
+   "month": 9,
+   "incidents": 117,
+   "deaths": 25,
+   "injuries": 38
+ },
+ {
+   "state": "West Virginia",
+   "month": 10,
+   "incidents": 127,
+   "deaths": 20,
+   "injuries": 53
+ },
+ {
+   "state": "West Virginia",
+   "month": 11,
+   "incidents": 112,
+   "deaths": 26,
+   "injuries": 52
+ },
+ {
+   "state": "West Virginia",
+   "month": 12,
+   "incidents": 124,
+   "deaths": 31,
+   "injuries": 52
+ },
+ {
+   "state": "Wisconsin",
+   "month": 1,
+   "incidents": 430,
+   "deaths": 70,
+   "injuries": 192
+ },
+ {
+   "state": "Wisconsin",
+   "month": 2,
+   "incidents": 394,
+   "deaths": 57,
+   "injuries": 127
+ },
+ {
+   "state": "Wisconsin",
+   "month": 3,
+   "incidents": 483,
+   "deaths": 90,
+   "injuries": 151
+ },
+ {
+   "state": "Wisconsin",
+   "month": 4,
+   "incidents": 517,
+   "deaths": 66,
+   "injuries": 164
+ },
+ {
+   "state": "Wisconsin",
+   "month": 5,
+   "incidents": 428,
+   "deaths": 75,
+   "injuries": 211
+ },
+ {
+   "state": "Wisconsin",
+   "month": 6,
+   "incidents": 346,
+   "deaths": 66,
+   "injuries": 207
+ },
+ {
+   "state": "Wisconsin",
+   "month": 7,
+   "incidents": 377,
+   "deaths": 84,
+   "injuries": 202
+ },
+ {
+   "state": "Wisconsin",
+   "month": 8,
+   "incidents": 381,
+   "deaths": 81,
+   "injuries": 212
+ },
+ {
+   "state": "Wisconsin",
+   "month": 9,
+   "incidents": 348,
+   "deaths": 57,
+   "injuries": 175
+ },
+ {
+   "state": "Wisconsin",
+   "month": 10,
+   "incidents": 375,
+   "deaths": 60,
+   "injuries": 154
+ },
+ {
+   "state": "Wisconsin",
+   "month": 11,
+   "incidents": 303,
+   "deaths": 46,
+   "injuries": 162
+ },
+ {
+   "state": "Wisconsin",
+   "month": 12,
+   "incidents": 288,
+   "deaths": 63,
+   "injuries": 115
+ },
+ {
+   "state": "Wyoming",
+   "month": 1,
+   "incidents": 31,
+   "deaths": 8,
+   "injuries": 6
+ },
+ {
+   "state": "Wyoming",
+   "month": 2,
+   "incidents": 31,
+   "deaths": 5,
+   "injuries": 5
+ },
+ {
+   "state": "Wyoming",
+   "month": 3,
+   "incidents": 29,
+   "deaths": 5,
+   "injuries": 2
+ },
+ {
+   "state": "Wyoming",
+   "month": 4,
+   "incidents": 23,
+   "deaths": 5,
+   "injuries": 2
+ },
+ {
+   "state": "Wyoming",
+   "month": 5,
+   "incidents": 40,
+   "deaths": 1,
+   "injuries": 3
+ },
+ {
+   "state": "Wyoming",
+   "month": 6,
+   "incidents": 53,
+   "deaths": 6,
+   "injuries": 4
+ },
+ {
+   "state": "Wyoming",
+   "month": 7,
+   "incidents": 62,
+   "deaths": 10,
+   "injuries": 4
+ },
+ {
+   "state": "Wyoming",
+   "month": 8,
+   "incidents": 60,
+   "deaths": 6,
+   "injuries": 6
+ },
+ {
+   "state": "Wyoming",
+   "month": 9,
+   "incidents": 55,
+   "deaths": 10,
+   "injuries": 7
+ },
+ {
+   "state": "Wyoming",
+   "month": 10,
+   "incidents": 37,
+   "deaths": 4,
+   "injuries": 4
+ },
+ {
+   "state": "Wyoming",
+   "month": 11,
+   "incidents": 42,
+   "deaths": 7,
+   "injuries": 3
+ },
+ {
+   "state": "Wyoming",
+   "month": 12,
+   "incidents": 27,
+   "deaths": 4,
+   "injuries": 6
+ },
+ {
+   "state": "USA",
+   "month": 1,
+   "incidents": 22879,
+   "deaths": 5915,
+   "injuries": 10865
+ },
+ {
+   "state": "USA",
+   "month": 2,
+   "incidents": 18460,
+   "deaths": 4809,
+   "injuries": 8282
+ },
+ {
+   "state": "USA",
+   "month": 3,
+   "incidents": 21296,
+   "deaths": 5307,
+   "injuries": 9904
+ },
+ {
+   "state": "USA",
+   "month": 4,
+   "incidents": 18484,
+   "deaths": 4296,
+   "injuries": 8851
+ },
+ {
+   "state": "USA",
+   "month": 5,
+   "incidents": 19795,
+   "deaths": 4745,
+   "injuries": 10202
+ },
+ {
+   "state": "USA",
+   "month": 6,
+   "incidents": 18601,
+   "deaths": 4805,
+   "injuries": 9739
+ },
+ {
+   "state": "USA",
+   "month": 7,
+   "incidents": 20886,
+   "deaths": 5147,
+   "injuries": 11128
+ },
+ {
+   "state": "USA",
+   "month": 8,
+   "incidents": 20376,
+   "deaths": 4827,
+   "injuries": 10494
+ },
+ {
+   "state": "USA",
+   "month": 9,
+   "incidents": 18478,
+   "deaths": 4296,
+   "injuries": 9138
+ },
+ {
+   "state": "USA",
+   "month": 10,
+   "incidents": 18474,
+   "deaths": 4150,
+   "injuries": 8954
+ },
+ {
+   "state": "USA",
+   "month": 11,
+   "incidents": 16720,
+   "deaths": 4293,
+   "injuries": 8399
+ },
+ {
+   "state": "USA",
+   "month": 12,
+   "incidents": 17305,
+   "deaths": 4588,
+   "injuries": 8579
+ }
+]

@@ -1,0 +1,1778 @@
+[
+ {
+   "state": "Alabama",
+   "year": 2013,
+   "male": "80,0",
+   "female": "20,0"
+ },
+ {
+   "state": "Alabama",
+   "year": 2014,
+   "male": "86,5",
+   "female": "13,5"
+ },
+ {
+   "state": "Alabama",
+   "year": 2015,
+   "male": "84,5",
+   "female": "15,5"
+ },
+ {
+   "state": "Alabama",
+   "year": 2016,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Alabama",
+   "year": 2017,
+   "male": "84,6",
+   "female": "15,4"
+ },
+ {
+   "state": "Alabama",
+   "year": 2018,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "Alaska",
+   "year": 2014,
+   "male": "85,1",
+   "female": "14,9"
+ },
+ {
+   "state": "Alaska",
+   "year": 2015,
+   "male": "82,4",
+   "female": "17,6"
+ },
+ {
+   "state": "Alaska",
+   "year": 2016,
+   "male": "86,1",
+   "female": "13,9"
+ },
+ {
+   "state": "Alaska",
+   "year": 2017,
+   "male": "89,5",
+   "female": "10,5"
+ },
+ {
+   "state": "Alaska",
+   "year": 2018,
+   "male": "85,2",
+   "female": "14,8"
+ },
+ {
+   "state": "Arizona",
+   "year": 2013,
+   "male": "84,0",
+   "female": "16,0"
+ },
+ {
+   "state": "Arizona",
+   "year": 2014,
+   "male": "86,1",
+   "female": "13,9"
+ },
+ {
+   "state": "Arizona",
+   "year": 2015,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "Arizona",
+   "year": 2016,
+   "male": "83,5",
+   "female": "16,5"
+ },
+ {
+   "state": "Arizona",
+   "year": 2017,
+   "male": "84,7",
+   "female": "15,3"
+ },
+ {
+   "state": "Arizona",
+   "year": 2018,
+   "male": "86,4",
+   "female": "13,6"
+ },
+ {
+   "state": "Arkansas",
+   "year": 2014,
+   "male": "85,9",
+   "female": "14,1"
+ },
+ {
+   "state": "Arkansas",
+   "year": 2015,
+   "male": "83,6",
+   "female": "16,4"
+ },
+ {
+   "state": "Arkansas",
+   "year": 2016,
+   "male": "86,6",
+   "female": "13,4"
+ },
+ {
+   "state": "Arkansas",
+   "year": 2017,
+   "male": "85,7",
+   "female": "14,3"
+ },
+ {
+   "state": "Arkansas",
+   "year": 2018,
+   "male": "89,5",
+   "female": "10,5"
+ },
+ {
+   "state": "California",
+   "year": 2013,
+   "male": "82,3",
+   "female": "17,7"
+ },
+ {
+   "state": "California",
+   "year": 2014,
+   "male": "91,0",
+   "female": "9,0"
+ },
+ {
+   "state": "California",
+   "year": 2015,
+   "male": "89,1",
+   "female": "10,9"
+ },
+ {
+   "state": "California",
+   "year": 2016,
+   "male": "89,3",
+   "female": "10,7"
+ },
+ {
+   "state": "California",
+   "year": 2017,
+   "male": "90,0",
+   "female": "10,0"
+ },
+ {
+   "state": "California",
+   "year": 2018,
+   "male": "89,2",
+   "female": "10,8"
+ },
+ {
+   "state": "Colorado",
+   "year": 2013,
+   "male": "75,0",
+   "female": "25,0"
+ },
+ {
+   "state": "Colorado",
+   "year": 2014,
+   "male": "83,7",
+   "female": "16,3"
+ },
+ {
+   "state": "Colorado",
+   "year": 2015,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Colorado",
+   "year": 2016,
+   "male": "86,6",
+   "female": "13,4"
+ },
+ {
+   "state": "Colorado",
+   "year": 2017,
+   "male": "86,6",
+   "female": "13,4"
+ },
+ {
+   "state": "Colorado",
+   "year": 2018,
+   "male": "90,7",
+   "female": "9,3"
+ },
+ {
+   "state": "Connecticut",
+   "year": 2013,
+   "male": "66,7",
+   "female": "33,3"
+ },
+ {
+   "state": "Connecticut",
+   "year": 2014,
+   "male": "92,8",
+   "female": "7,2"
+ },
+ {
+   "state": "Connecticut",
+   "year": 2015,
+   "male": "90,5",
+   "female": "9,5"
+ },
+ {
+   "state": "Connecticut",
+   "year": 2016,
+   "male": "89,8",
+   "female": "10,2"
+ },
+ {
+   "state": "Connecticut",
+   "year": 2017,
+   "male": "93,8",
+   "female": "6,2"
+ },
+ {
+   "state": "Connecticut",
+   "year": 2018,
+   "male": "94,2",
+   "female": "5,8"
+ },
+ {
+   "state": "Delaware",
+   "year": 2013,
+   "male": "53,8",
+   "female": "46,2"
+ },
+ {
+   "state": "Delaware",
+   "year": 2014,
+   "male": "91,6",
+   "female": "8,4"
+ },
+ {
+   "state": "Delaware",
+   "year": 2015,
+   "male": "91,4",
+   "female": "8,6"
+ },
+ {
+   "state": "Delaware",
+   "year": 2016,
+   "male": "87,9",
+   "female": "12,1"
+ },
+ {
+   "state": "Delaware",
+   "year": 2017,
+   "male": "92,7",
+   "female": "7,3"
+ },
+ {
+   "state": "Delaware",
+   "year": 2018,
+   "male": "89,6",
+   "female": "10,4"
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2013,
+   "male": "70,8",
+   "female": "29,2"
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2014,
+   "male": "96,3",
+   "female": "3,7"
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2015,
+   "male": "93,4",
+   "female": "6,6"
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2016,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2017,
+   "male": "92,0",
+   "female": "8,0"
+ },
+ {
+   "state": "District of Columbia",
+   "year": 2018,
+   "male": "95,0",
+   "female": "5,0"
+ },
+ {
+   "state": "Florida",
+   "year": 2013,
+   "male": "74,5",
+   "female": "25,5"
+ },
+ {
+   "state": "Florida",
+   "year": 2014,
+   "male": "84,9",
+   "female": "15,1"
+ },
+ {
+   "state": "Florida",
+   "year": 2015,
+   "male": "86,5",
+   "female": "13,5"
+ },
+ {
+   "state": "Florida",
+   "year": 2016,
+   "male": "86,7",
+   "female": "13,3"
+ },
+ {
+   "state": "Florida",
+   "year": 2017,
+   "male": "88,6",
+   "female": "11,4"
+ },
+ {
+   "state": "Florida",
+   "year": 2018,
+   "male": "85,2",
+   "female": "14,8"
+ },
+ {
+   "state": "Georgia",
+   "year": 2013,
+   "male": "73,7",
+   "female": "26,3"
+ },
+ {
+   "state": "Georgia",
+   "year": 2014,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Georgia",
+   "year": 2015,
+   "male": "84,0",
+   "female": "16,0"
+ },
+ {
+   "state": "Georgia",
+   "year": 2016,
+   "male": "84,2",
+   "female": "15,8"
+ },
+ {
+   "state": "Georgia",
+   "year": 2017,
+   "male": "88,4",
+   "female": "11,6"
+ },
+ {
+   "state": "Georgia",
+   "year": 2018,
+   "male": "85,5",
+   "female": "14,5"
+ },
+ {
+   "state": "Hawaii",
+   "year": 2014,
+   "male": "90,9",
+   "female": "9,1"
+ },
+ {
+   "state": "Hawaii",
+   "year": 2015,
+   "male": "81,4",
+   "female": "18,6"
+ },
+ {
+   "state": "Hawaii",
+   "year": 2016,
+   "male": "82,4",
+   "female": "17,6"
+ },
+ {
+   "state": "Hawaii",
+   "year": 2017,
+   "male": "89,4",
+   "female": "10,6"
+ },
+ {
+   "state": "Hawaii",
+   "year": 2018,
+   "male": "80,0",
+   "female": "20,0"
+ },
+ {
+   "state": "Idaho",
+   "year": 2014,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Idaho",
+   "year": 2015,
+   "male": "87,4",
+   "female": "12,6"
+ },
+ {
+   "state": "Idaho",
+   "year": 2016,
+   "male": "80,3",
+   "female": "19,7"
+ },
+ {
+   "state": "Idaho",
+   "year": 2017,
+   "male": "81,8",
+   "female": "18,2"
+ },
+ {
+   "state": "Idaho",
+   "year": 2018,
+   "male": "87,3",
+   "female": "12,7"
+ },
+ {
+   "state": "Illinois",
+   "year": 2013,
+   "male": "75,7",
+   "female": "24,3"
+ },
+ {
+   "state": "Illinois",
+   "year": 2014,
+   "male": "89,0",
+   "female": "11,0"
+ },
+ {
+   "state": "Illinois",
+   "year": 2015,
+   "male": "91,9",
+   "female": "8,1"
+ },
+ {
+   "state": "Illinois",
+   "year": 2016,
+   "male": "91,6",
+   "female": "8,4"
+ },
+ {
+   "state": "Illinois",
+   "year": 2017,
+   "male": "92,1",
+   "female": "7,9"
+ },
+ {
+   "state": "Illinois",
+   "year": 2018,
+   "male": "89,9",
+   "female": "10,1"
+ },
+ {
+   "state": "Indiana",
+   "year": 2013,
+   "male": "79,2",
+   "female": "20,8"
+ },
+ {
+   "state": "Indiana",
+   "year": 2014,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Indiana",
+   "year": 2015,
+   "male": "87,3",
+   "female": "12,7"
+ },
+ {
+   "state": "Indiana",
+   "year": 2016,
+   "male": "87,4",
+   "female": "12,6"
+ },
+ {
+   "state": "Indiana",
+   "year": 2017,
+   "male": "87,1",
+   "female": "12,9"
+ },
+ {
+   "state": "Indiana",
+   "year": 2018,
+   "male": "85,0",
+   "female": "15,0"
+ },
+ {
+   "state": "Iowa",
+   "year": 2014,
+   "male": "83,2",
+   "female": "16,8"
+ },
+ {
+   "state": "Iowa",
+   "year": 2015,
+   "male": "88,9",
+   "female": "11,1"
+ },
+ {
+   "state": "Iowa",
+   "year": 2016,
+   "male": "87,9",
+   "female": "12,1"
+ },
+ {
+   "state": "Iowa",
+   "year": 2017,
+   "male": "91,9",
+   "female": "8,1"
+ },
+ {
+   "state": "Iowa",
+   "year": 2018,
+   "male": "89,5",
+   "female": "10,5"
+ },
+ {
+   "state": "Kansas",
+   "year": 2013,
+   "male": "81,8",
+   "female": "18,2"
+ },
+ {
+   "state": "Kansas",
+   "year": 2014,
+   "male": "84,5",
+   "female": "15,5"
+ },
+ {
+   "state": "Kansas",
+   "year": 2015,
+   "male": "86,9",
+   "female": "13,1"
+ },
+ {
+   "state": "Kansas",
+   "year": 2016,
+   "male": "89,9",
+   "female": "10,1"
+ },
+ {
+   "state": "Kansas",
+   "year": 2017,
+   "male": "88,4",
+   "female": "11,6"
+ },
+ {
+   "state": "Kansas",
+   "year": 2018,
+   "male": "92,2",
+   "female": "7,8"
+ },
+ {
+   "state": "Kentucky",
+   "year": 2013,
+   "male": "84,6",
+   "female": "15,4"
+ },
+ {
+   "state": "Kentucky",
+   "year": 2014,
+   "male": "85,6",
+   "female": "14,4"
+ },
+ {
+   "state": "Kentucky",
+   "year": 2015,
+   "male": "86,6",
+   "female": "13,4"
+ },
+ {
+   "state": "Kentucky",
+   "year": 2016,
+   "male": "85,1",
+   "female": "14,9"
+ },
+ {
+   "state": "Kentucky",
+   "year": 2017,
+   "male": "84,7",
+   "female": "15,3"
+ },
+ {
+   "state": "Kentucky",
+   "year": 2018,
+   "male": "85,1",
+   "female": "14,9"
+ },
+ {
+   "state": "Louisiana",
+   "year": 2013,
+   "male": "72,9",
+   "female": "27,1"
+ },
+ {
+   "state": "Louisiana",
+   "year": 2014,
+   "male": "86,5",
+   "female": "13,5"
+ },
+ {
+   "state": "Louisiana",
+   "year": 2015,
+   "male": "86,5",
+   "female": "13,5"
+ },
+ {
+   "state": "Louisiana",
+   "year": 2016,
+   "male": "87,2",
+   "female": "12,8"
+ },
+ {
+   "state": "Louisiana",
+   "year": 2017,
+   "male": "88,6",
+   "female": "11,4"
+ },
+ {
+   "state": "Louisiana",
+   "year": 2018,
+   "male": "89,5",
+   "female": "10,5"
+ },
+ {
+   "state": "Maine",
+   "year": 2014,
+   "male": "81,3",
+   "female": "18,7"
+ },
+ {
+   "state": "Maine",
+   "year": 2015,
+   "male": "81,7",
+   "female": "18,3"
+ },
+ {
+   "state": "Maine",
+   "year": 2016,
+   "male": "87,0",
+   "female": "13,0"
+ },
+ {
+   "state": "Maine",
+   "year": 2017,
+   "male": "86,3",
+   "female": "13,8"
+ },
+ {
+   "state": "Maine",
+   "year": 2018,
+   "male": "76,9",
+   "female": "23,1"
+ },
+ {
+   "state": "Maryland",
+   "year": 2013,
+   "male": "61,1",
+   "female": "38,9"
+ },
+ {
+   "state": "Maryland",
+   "year": 2014,
+   "male": "90,5",
+   "female": "9,5"
+ },
+ {
+   "state": "Maryland",
+   "year": 2015,
+   "male": "90,7",
+   "female": "9,3"
+ },
+ {
+   "state": "Maryland",
+   "year": 2016,
+   "male": "91,3",
+   "female": "8,7"
+ },
+ {
+   "state": "Maryland",
+   "year": 2017,
+   "male": "92,0",
+   "female": "8,0"
+ },
+ {
+   "state": "Maryland",
+   "year": 2018,
+   "male": "91,2",
+   "female": "8,8"
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2014,
+   "male": "90,4",
+   "female": "9,6"
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2015,
+   "male": "88,1",
+   "female": "11,9"
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2016,
+   "male": "92,0",
+   "female": "8,0"
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2017,
+   "male": "92,1",
+   "female": "7,9"
+ },
+ {
+   "state": "Massachusetts",
+   "year": 2018,
+   "male": "94,1",
+   "female": "5,9"
+ },
+ {
+   "state": "Michigan",
+   "year": 2013,
+   "male": "74,6",
+   "female": "25,4"
+ },
+ {
+   "state": "Michigan",
+   "year": 2014,
+   "male": "84,2",
+   "female": "15,8"
+ },
+ {
+   "state": "Michigan",
+   "year": 2015,
+   "male": "87,2",
+   "female": "12,8"
+ },
+ {
+   "state": "Michigan",
+   "year": 2016,
+   "male": "85,5",
+   "female": "14,5"
+ },
+ {
+   "state": "Michigan",
+   "year": 2017,
+   "male": "85,6",
+   "female": "14,4"
+ },
+ {
+   "state": "Michigan",
+   "year": 2018,
+   "male": "83,9",
+   "female": "16,1"
+ },
+ {
+   "state": "Minnesota",
+   "year": 2013,
+   "male": "75,0",
+   "female": "25,0"
+ },
+ {
+   "state": "Minnesota",
+   "year": 2014,
+   "male": "85,6",
+   "female": "14,4"
+ },
+ {
+   "state": "Minnesota",
+   "year": 2015,
+   "male": "88,1",
+   "female": "11,9"
+ },
+ {
+   "state": "Minnesota",
+   "year": 2016,
+   "male": "85,5",
+   "female": "14,5"
+ },
+ {
+   "state": "Minnesota",
+   "year": 2017,
+   "male": "87,8",
+   "female": "12,2"
+ },
+ {
+   "state": "Minnesota",
+   "year": 2018,
+   "male": "87,0",
+   "female": "13,0"
+ },
+ {
+   "state": "Mississippi",
+   "year": 2013,
+   "male": "80,0",
+   "female": "20,0"
+ },
+ {
+   "state": "Mississippi",
+   "year": 2014,
+   "male": "86,5",
+   "female": "13,5"
+ },
+ {
+   "state": "Mississippi",
+   "year": 2015,
+   "male": "85,6",
+   "female": "14,4"
+ },
+ {
+   "state": "Mississippi",
+   "year": 2016,
+   "male": "85,4",
+   "female": "14,6"
+ },
+ {
+   "state": "Mississippi",
+   "year": 2017,
+   "male": "88,0",
+   "female": "12,0"
+ },
+ {
+   "state": "Mississippi",
+   "year": 2018,
+   "male": "83,4",
+   "female": "16,6"
+ },
+ {
+   "state": "Missouri",
+   "year": 2013,
+   "male": "70,7",
+   "female": "29,3"
+ },
+ {
+   "state": "Missouri",
+   "year": 2014,
+   "male": "84,6",
+   "female": "15,4"
+ },
+ {
+   "state": "Missouri",
+   "year": 2015,
+   "male": "85,8",
+   "female": "14,2"
+ },
+ {
+   "state": "Missouri",
+   "year": 2016,
+   "male": "85,7",
+   "female": "14,3"
+ },
+ {
+   "state": "Missouri",
+   "year": 2017,
+   "male": "87,2",
+   "female": "12,8"
+ },
+ {
+   "state": "Missouri",
+   "year": 2018,
+   "male": "81,7",
+   "female": "18,3"
+ },
+ {
+   "state": "Montana",
+   "year": 2014,
+   "male": "81,5",
+   "female": "18,5"
+ },
+ {
+   "state": "Montana",
+   "year": 2015,
+   "male": "83,9",
+   "female": "16,1"
+ },
+ {
+   "state": "Montana",
+   "year": 2016,
+   "male": "80,2",
+   "female": "19,8"
+ },
+ {
+   "state": "Montana",
+   "year": 2017,
+   "male": "89,7",
+   "female": "10,3"
+ },
+ {
+   "state": "Montana",
+   "year": 2018,
+   "male": "80,0",
+   "female": "20,0"
+ },
+ {
+   "state": "Nebraska",
+   "year": 2013,
+   "male": "25,0",
+   "female": "75,0"
+ },
+ {
+   "state": "Nebraska",
+   "year": 2014,
+   "male": "88,9",
+   "female": "11,1"
+ },
+ {
+   "state": "Nebraska",
+   "year": 2015,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Nebraska",
+   "year": 2016,
+   "male": "87,6",
+   "female": "12,4"
+ },
+ {
+   "state": "Nebraska",
+   "year": 2017,
+   "male": "88,6",
+   "female": "11,4"
+ },
+ {
+   "state": "Nebraska",
+   "year": 2018,
+   "male": "88,1",
+   "female": "11,9"
+ },
+ {
+   "state": "Nevada",
+   "year": 2014,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Nevada",
+   "year": 2015,
+   "male": "85,1",
+   "female": "14,9"
+ },
+ {
+   "state": "Nevada",
+   "year": 2016,
+   "male": "89,9",
+   "female": "10,1"
+ },
+ {
+   "state": "Nevada",
+   "year": 2017,
+   "male": "87,6",
+   "female": "12,4"
+ },
+ {
+   "state": "Nevada",
+   "year": 2018,
+   "male": "81,8",
+   "female": "18,2"
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2014,
+   "male": "88,9",
+   "female": "11,1"
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2015,
+   "male": "83,4",
+   "female": "16,6"
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2016,
+   "male": "85,4",
+   "female": "14,6"
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2017,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "New Hampshire",
+   "year": 2018,
+   "male": "86,9",
+   "female": "13,1"
+ },
+ {
+   "state": "New Jersey",
+   "year": 2013,
+   "male": "84,0",
+   "female": "16,0"
+ },
+ {
+   "state": "New Jersey",
+   "year": 2014,
+   "male": "90,0",
+   "female": "10,0"
+ },
+ {
+   "state": "New Jersey",
+   "year": 2015,
+   "male": "92,0",
+   "female": "8,0"
+ },
+ {
+   "state": "New Jersey",
+   "year": 2016,
+   "male": "89,6",
+   "female": "10,4"
+ },
+ {
+   "state": "New Jersey",
+   "year": 2017,
+   "male": "91,6",
+   "female": "8,4"
+ },
+ {
+   "state": "New Jersey",
+   "year": 2018,
+   "male": "92,9",
+   "female": "7,1"
+ },
+ {
+   "state": "New Mexico",
+   "year": 2013,
+   "male": "63,6",
+   "female": "36,4"
+ },
+ {
+   "state": "New Mexico",
+   "year": 2014,
+   "male": "84,4",
+   "female": "15,6"
+ },
+ {
+   "state": "New Mexico",
+   "year": 2015,
+   "male": "85,2",
+   "female": "14,8"
+ },
+ {
+   "state": "New Mexico",
+   "year": 2016,
+   "male": "87,9",
+   "female": "12,1"
+ },
+ {
+   "state": "New Mexico",
+   "year": 2017,
+   "male": "87,1",
+   "female": "12,9"
+ },
+ {
+   "state": "New Mexico",
+   "year": 2018,
+   "male": "78,2",
+   "female": "21,8"
+ },
+ {
+   "state": "New York",
+   "year": 2013,
+   "male": "80,5",
+   "female": "19,5"
+ },
+ {
+   "state": "New York",
+   "year": 2014,
+   "male": "89,5",
+   "female": "10,5"
+ },
+ {
+   "state": "New York",
+   "year": 2015,
+   "male": "89,6",
+   "female": "10,4"
+ },
+ {
+   "state": "New York",
+   "year": 2016,
+   "male": "89,3",
+   "female": "10,7"
+ },
+ {
+   "state": "New York",
+   "year": 2017,
+   "male": "90,0",
+   "female": "10,0"
+ },
+ {
+   "state": "New York",
+   "year": 2018,
+   "male": "88,3",
+   "female": "11,7"
+ },
+ {
+   "state": "North Carolina",
+   "year": 2013,
+   "male": "89,1",
+   "female": "10,9"
+ },
+ {
+   "state": "North Carolina",
+   "year": 2014,
+   "male": "88,6",
+   "female": "11,4"
+ },
+ {
+   "state": "North Carolina",
+   "year": 2015,
+   "male": "87,8",
+   "female": "12,2"
+ },
+ {
+   "state": "North Carolina",
+   "year": 2016,
+   "male": "86,9",
+   "female": "13,1"
+ },
+ {
+   "state": "North Carolina",
+   "year": 2017,
+   "male": "89,5",
+   "female": "10,5"
+ },
+ {
+   "state": "North Carolina",
+   "year": 2018,
+   "male": "87,8",
+   "female": "12,2"
+ },
+ {
+   "state": "North Dakota",
+   "year": 2014,
+   "male": "82,4",
+   "female": "17,6"
+ },
+ {
+   "state": "North Dakota",
+   "year": 2015,
+   "male": "82,5",
+   "female": "17,5"
+ },
+ {
+   "state": "North Dakota",
+   "year": 2016,
+   "male": "87,3",
+   "female": "12,7"
+ },
+ {
+   "state": "North Dakota",
+   "year": 2017,
+   "male": "87,7",
+   "female": "12,3"
+ },
+ {
+   "state": "North Dakota",
+   "year": 2018,
+   "male": "85,2",
+   "female": "14,8"
+ },
+ {
+   "state": "Ohio",
+   "year": 2013,
+   "male": "73,5",
+   "female": "26,5"
+ },
+ {
+   "state": "Ohio",
+   "year": 2014,
+   "male": "88,3",
+   "female": "11,7"
+ },
+ {
+   "state": "Ohio",
+   "year": 2015,
+   "male": "89,4",
+   "female": "10,6"
+ },
+ {
+   "state": "Ohio",
+   "year": 2016,
+   "male": "88,2",
+   "female": "11,8"
+ },
+ {
+   "state": "Ohio",
+   "year": 2017,
+   "male": "87,4",
+   "female": "12,6"
+ },
+ {
+   "state": "Ohio",
+   "year": 2018,
+   "male": "86,7",
+   "female": "13,3"
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2013,
+   "male": "59,3",
+   "female": "40,7"
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2014,
+   "male": "84,3",
+   "female": "15,7"
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2015,
+   "male": "86,2",
+   "female": "13,8"
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2016,
+   "male": "86,4",
+   "female": "13,6"
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2017,
+   "male": "83,6",
+   "female": "16,4"
+ },
+ {
+   "state": "Oklahoma",
+   "year": 2018,
+   "male": "84,5",
+   "female": "15,5"
+ },
+ {
+   "state": "Oregon",
+   "year": 2014,
+   "male": "85,1",
+   "female": "14,9"
+ },
+ {
+   "state": "Oregon",
+   "year": 2015,
+   "male": "85,9",
+   "female": "14,1"
+ },
+ {
+   "state": "Oregon",
+   "year": 2016,
+   "male": "83,7",
+   "female": "16,3"
+ },
+ {
+   "state": "Oregon",
+   "year": 2017,
+   "male": "89,6",
+   "female": "10,4"
+ },
+ {
+   "state": "Oregon",
+   "year": 2018,
+   "male": "89,0",
+   "female": "11,0"
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2013,
+   "male": "88,6",
+   "female": "11,4"
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2014,
+   "male": "88,3",
+   "female": "11,7"
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2015,
+   "male": "89,8",
+   "female": "10,2"
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2016,
+   "male": "89,3",
+   "female": "10,7"
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2017,
+   "male": "88,8",
+   "female": "11,2"
+ },
+ {
+   "state": "Pennsylvania",
+   "year": 2018,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2013,
+   "male": "70,0",
+   "female": "30,0"
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2014,
+   "male": "90,4",
+   "female": "9,6"
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2015,
+   "male": "88,6",
+   "female": "11,4"
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2016,
+   "male": "91,3",
+   "female": "8,7"
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2017,
+   "male": "93,2",
+   "female": "6,8"
+ },
+ {
+   "state": "Rhode Island",
+   "year": 2018,
+   "male": "95,5",
+   "female": "4,5"
+ },
+ {
+   "state": "South Carolina",
+   "year": 2013,
+   "male": "92,3",
+   "female": "7,7"
+ },
+ {
+   "state": "South Carolina",
+   "year": 2014,
+   "male": "86,2",
+   "female": "13,8"
+ },
+ {
+   "state": "South Carolina",
+   "year": 2015,
+   "male": "85,8",
+   "female": "14,2"
+ },
+ {
+   "state": "South Carolina",
+   "year": 2016,
+   "male": "87,3",
+   "female": "12,7"
+ },
+ {
+   "state": "South Carolina",
+   "year": 2017,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "South Carolina",
+   "year": 2018,
+   "male": "89,1",
+   "female": "10,9"
+ },
+ {
+   "state": "South Dakota",
+   "year": 2014,
+   "male": "83,5",
+   "female": "16,5"
+ },
+ {
+   "state": "South Dakota",
+   "year": 2015,
+   "male": "87,7",
+   "female": "12,3"
+ },
+ {
+   "state": "South Dakota",
+   "year": 2016,
+   "male": "84,1",
+   "female": "15,9"
+ },
+ {
+   "state": "South Dakota",
+   "year": 2017,
+   "male": "88,4",
+   "female": "11,6"
+ },
+ {
+   "state": "South Dakota",
+   "year": 2018,
+   "male": "73,7",
+   "female": "26,3"
+ },
+ {
+   "state": "Tennessee",
+   "year": 2013,
+   "male": "61,4",
+   "female": "38,6"
+ },
+ {
+   "state": "Tennessee",
+   "year": 2014,
+   "male": "85,8",
+   "female": "14,2"
+ },
+ {
+   "state": "Tennessee",
+   "year": 2015,
+   "male": "86,9",
+   "female": "13,1"
+ },
+ {
+   "state": "Tennessee",
+   "year": 2016,
+   "male": "87,3",
+   "female": "12,7"
+ },
+ {
+   "state": "Tennessee",
+   "year": 2017,
+   "male": "87,7",
+   "female": "12,3"
+ },
+ {
+   "state": "Tennessee",
+   "year": 2018,
+   "male": "88,5",
+   "female": "11,5"
+ },
+ {
+   "state": "Texas",
+   "year": 2013,
+   "male": "76,1",
+   "female": "23,9"
+ },
+ {
+   "state": "Texas",
+   "year": 2014,
+   "male": "85,0",
+   "female": "15,0"
+ },
+ {
+   "state": "Texas",
+   "year": 2015,
+   "male": "86,2",
+   "female": "13,8"
+ },
+ {
+   "state": "Texas",
+   "year": 2016,
+   "male": "86,2",
+   "female": "13,8"
+ },
+ {
+   "state": "Texas",
+   "year": 2017,
+   "male": "86,5",
+   "female": "13,5"
+ },
+ {
+   "state": "Texas",
+   "year": 2018,
+   "male": "87,4",
+   "female": "12,6"
+ },
+ {
+   "state": "Utah",
+   "year": 2013,
+   "male": "83,3",
+   "female": "16,7"
+ },
+ {
+   "state": "Utah",
+   "year": 2014,
+   "male": "83,1",
+   "female": "16,9"
+ },
+ {
+   "state": "Utah",
+   "year": 2015,
+   "male": "81,9",
+   "female": "18,1"
+ },
+ {
+   "state": "Utah",
+   "year": 2016,
+   "male": "88,0",
+   "female": "12,0"
+ },
+ {
+   "state": "Utah",
+   "year": 2017,
+   "male": "84,8",
+   "female": "15,2"
+ },
+ {
+   "state": "Utah",
+   "year": 2018,
+   "male": "95,2",
+   "female": "4,8"
+ },
+ {
+   "state": "Vermont",
+   "year": 2014,
+   "male": "81,3",
+   "female": "18,8"
+ },
+ {
+   "state": "Vermont",
+   "year": 2015,
+   "male": "83,0",
+   "female": "17,0"
+ },
+ {
+   "state": "Vermont",
+   "year": 2016,
+   "male": "84,8",
+   "female": "15,2"
+ },
+ {
+   "state": "Vermont",
+   "year": 2017,
+   "male": "93,5",
+   "female": "6,5"
+ },
+ {
+   "state": "Vermont",
+   "year": 2018,
+   "male": "88,0",
+   "female": "12,0"
+ },
+ {
+   "state": "Virginia",
+   "year": 2013,
+   "male": "100,0",
+   "female": "0,0"
+ },
+ {
+   "state": "Virginia",
+   "year": 2014,
+   "male": "89,0",
+   "female": "11,0"
+ },
+ {
+   "state": "Virginia",
+   "year": 2015,
+   "male": "89,0",
+   "female": "11,0"
+ },
+ {
+   "state": "Virginia",
+   "year": 2016,
+   "male": "89,6",
+   "female": "10,4"
+ },
+ {
+   "state": "Virginia",
+   "year": 2017,
+   "male": "86,2",
+   "female": "13,8"
+ },
+ {
+   "state": "Virginia",
+   "year": 2018,
+   "male": "88,6",
+   "female": "11,4"
+ },
+ {
+   "state": "Washington",
+   "year": 2013,
+   "male": "85,7",
+   "female": "14,3"
+ },
+ {
+   "state": "Washington",
+   "year": 2014,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "Washington",
+   "year": 2015,
+   "male": "85,7",
+   "female": "14,3"
+ },
+ {
+   "state": "Washington",
+   "year": 2016,
+   "male": "84,9",
+   "female": "15,1"
+ },
+ {
+   "state": "Washington",
+   "year": 2017,
+   "male": "85,6",
+   "female": "14,4"
+ },
+ {
+   "state": "Washington",
+   "year": 2018,
+   "male": "85,7",
+   "female": "14,3"
+ },
+ {
+   "state": "West Virginia",
+   "year": 2013,
+   "male": "100,0",
+   "female": "0,0"
+ },
+ {
+   "state": "West Virginia",
+   "year": 2014,
+   "male": "86,6",
+   "female": "13,4"
+ },
+ {
+   "state": "West Virginia",
+   "year": 2015,
+   "male": "86,6",
+   "female": "13,4"
+ },
+ {
+   "state": "West Virginia",
+   "year": 2016,
+   "male": "86,7",
+   "female": "13,3"
+ },
+ {
+   "state": "West Virginia",
+   "year": 2017,
+   "male": "84,5",
+   "female": "15,5"
+ },
+ {
+   "state": "West Virginia",
+   "year": 2018,
+   "male": "86,3",
+   "female": "13,7"
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2014,
+   "male": "85,4",
+   "female": "14,6"
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2015,
+   "male": "86,4",
+   "female": "13,6"
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2016,
+   "male": "86,8",
+   "female": "13,2"
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2017,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "Wisconsin",
+   "year": 2018,
+   "male": "89,4",
+   "female": "10,6"
+ },
+ {
+   "state": "Wyoming",
+   "year": 2014,
+   "male": "77,8",
+   "female": "22,2"
+ },
+ {
+   "state": "Wyoming",
+   "year": 2015,
+   "male": "78,5",
+   "female": "21,5"
+ },
+ {
+   "state": "Wyoming",
+   "year": 2016,
+   "male": "82,9",
+   "female": "17,1"
+ },
+ {
+   "state": "Wyoming",
+   "year": 2017,
+   "male": "90,2",
+   "female": "9,8"
+ },
+ {
+   "state": "Wyoming",
+   "year": 2018,
+   "male": "85,7",
+   "female": "14,3"
+ },
+ {
+   "state": "USA",
+   "year": 2013,
+   "male": "77,6",
+   "female": "22,4"
+ },
+ {
+   "state": "USA",
+   "year": 2014,
+   "male": "87,3",
+   "female": "12,7"
+ },
+ {
+   "state": "USA",
+   "year": 2015,
+   "male": "87,5",
+   "female": "12,5"
+ },
+ {
+   "state": "USA",
+   "year": 2016,
+   "male": "87,8",
+   "female": "12,2"
+ },
+ {
+   "state": "USA",
+   "year": 2017,
+   "male": "88,5",
+   "female": "11,5"
+ },
+ {
+   "state": "USA",
+   "year": 2018,
+   "male": "87,8",
+   "female": "12,2"
+ }
+]
