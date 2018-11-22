@@ -7,41 +7,47 @@
     <link rel="stylesheet" href="style.css" type="text/css"/>
 
     <script src="d3/d3.js" charset="utf-8"></script>
+    <script src="scripts/variables.js"></script>
+    <script src="scripts/uStates.js"></script>
 </head>
  
 <body>
     <div class="header sticky">
         <div class="header-title">Gun Violence in the U.S.A.</div>
-        <div class="option-menu">
+        <div class="option-menu half-page">
             <table>
                 <tr>
                     <td><div class="option-menu-title">Measures</div></td>
-                    <td><div class="option-menu-option">#INCIDENTS</div></td>
-                    <td><div class="option-menu-option">#INJURIES</div></td>
-                    <td><div class="option-menu-option">#DEATHS</div></td>
+                    <td><div class="option-menu-option option-menu-option-selected" measure="incidents" onclick="changeMeasure(this)">#INCIDENTS</div></td>
+                    <td><div class="option-menu-option" measure="injuries" onclick="changeMeasure(this)">#INJURIES</div></td>
+                    <td><div class="option-menu-option" measure="deaths" onclick="changeMeasure(this)">#DEATHS</div></td>
                 </tr>
             </table>
         </div>
-        <div class="option-menu">
+        <div class="option-menu half-page">
             <table>
                 <tr>
                     <td><div class="option-menu-title">Year</div></td>
-                    <td><div class="option-menu-option">2013</div></td>
-                    <td><div class="option-menu-option">2014</div></td>
-                    <td><div class="option-menu-option">2015</div></td>
-                    <td><div class="option-menu-option">2016</div></td>
-                    <td><div class="option-menu-option">2017</div></td>
+                    <td><div year="2013" onclick="changeYear(this)" class="option-menu-option">2013</div></td>
+                    <td><div year="2014" onclick="changeYear(this)" class="option-menu-option option-menu-option-selected">2014</div></td>
+                    <td><div year="2015" onclick="changeYear(this)" class="option-menu-option">2015</div></td>
+                    <td><div year="2016" onclick="changeYear(this)" class="option-menu-option">2016</div></td>
+                    <td><div year="2017" onclick="changeYear(this)" class="option-menu-option">2017</div></td>
                 </tr>
             </table>
         </div>
     </div>
     <div class="content">
-        <!-- USA MAP -->
-        <div id="tooltip"></div>
-        <svg viewbox="0 0 960 600" width="640" height="400" id="statesvg"></svg>
+        <div class="half-page">
+            <!-- USA MAP -->
+            <div id="tooltip"></div>
+            <svg style="padding: calc(2vw) calc(5vw) 0 calc(5vw)" viewbox="0 0 960 600" width="calc(40vw)" height="calc(40vw * 0.625)" id="statesvg"></svg>
+        </div>
     </div>
 </body>
 
-<script src="scripts/uStates.js"></script>
+<script>
+    makeChronopleth()
+</script>
 
 </html>

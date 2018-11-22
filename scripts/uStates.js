@@ -56,9 +56,10 @@
 	var uStates={};
 		
 	uStates.draw = function(id, data, toolTip){
+
 		function mouseOver(d){
-			d3.select("#tooltip").transition().duration(200).style("opacity", .9);      
-			
+			d3.select("#tooltip").transition().duration(200).style("opacity", .9);
+
 			d3.select("#tooltip").html(toolTip(d.n, data[d.id]))  
 				.style("left", (d3.event.pageX) + "px")     
 				.style("top", (d3.event.pageY - 28) + "px");
@@ -67,6 +68,8 @@
 		function mouseOut(){
 			d3.select("#tooltip").transition().duration(500).style("opacity", 0);      
 		}
+		
+		d3.select(id).selectAll(".state").remove();
 		
 		d3.select(id).selectAll(".state")
 			.data(uStatePaths).enter().append("path").attr("class","state").attr("d",function(d){ return d.d;})
@@ -78,68 +81,46 @@
 
 function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
 	return "<h4>"+n+"</h4><table>"+
-		"<tr><td>Low</td><td>"+(d.low)+"</td></tr>"+
-		"<tr><td>Average</td><td>"+(d.avg)+"</td></tr>"+
-		"<tr><td>High</td><td>"+(d.high)+"</td></tr>"+
+		"<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+d.measure+"</td></tr>"+
 		"</table>";
 }
 
-var statesData ={};
+function makeChronopleth(){
+	var statesData = {};
 
-var currYear = 2015;
-var currMeasure = "incidents";
+	var dataset;
+	d3.json("dataset/choropleth.json").then(function (data) {
+		/* Import dataset */
+		dataset = data;
 
-var dataset;
-d3.json("dataset/choropleth.json").then(function (data) {
-	/* Import dataset */
-	dataset = data;
+		var max = 0;
+		var min = 0;
+		for (var i = 0; i < dataset.length; i++) {
+			var measure;
+			if (dataset[i].year == currYear){
+				if (currMeasure == "incidents") measure = data[i].incidents;
+				else if (currMeasure == "injuries") measure = data[i].injuries;
+				else if (currMeasure == "deaths") measure = data[i].deaths;
 
-	var max = 0;
-	var min = 0;
-	for (var i = 0; i < dataset.length; i++) {
-		var measure;
-		if (dataset[i].year == currYear){
-			if (currMeasure == "incidents") measure = data[i].incidents;
-			else if (currMeasure == "injuries") measure = data[i].injuries;
-			else if (currMeasure == "deaths") measure = data[i].deaths;
+				if (measure > max) max = measure;
+				if (measure < min) min = measure;
 
-			if (measure > max) max = measure;
-			if (measure < min) min = measure;
-
-			statesData[dataset[i].state] = {
-				measure: measure
+				statesData[dataset[i].state] = {
+					measure: measure
+				}
 			}
 		}
-	}
 
-	var color = d3.scaleLinear().domain([min, max])
-			.range([d3.rgb('#CFF09E'), d3.rgb('#0B486B')])
-			.interpolate(d3.interpolateHcl);
+		var color = d3.scaleLinear().domain([0, max])
+				.range([d3.rgb('#CFF09E'), d3.rgb('#0B486B')])
+				.interpolate(d3.interpolateHcl);
 
-	for (var state in statesData) {
-		statesData[state]["color"] = color(statesData[state]["measure"]);
-	}
+		for (var state in statesData) {
+			statesData[state]["color"] = color(statesData[state]["measure"]);
+		}
 
-	/*["Hawaii", "Alaska", "Florida", "South Carolina", "Georgia", 
-	"Alabama", "North Carolina", "Tennessee", "Rhode Island", "Connecticut", "Massachusets",
-	"Maine", "New Hampshire", "Vermont", "New York", "New Jersey", 
-	"Pennsylvania", "Delaware", "Maryland", "West Virginia", "Kentucky", "Ohio", 
-	"Michigan", "Wyoming", "Montana", "Idaho", "Washington", 
-	"District of Columbia", "Texas", "California", "Arizona", "Nevada", "Utah", 
-	"Colarado", "New Mexico", "Oregon", "North Dakota", "South Dakota", "Nebraska", 
-	"Iowa", "Mississippi", "Indiana", "Illinois", "Minnesota", 
-	"Wisconsin", "Missouri", "Arkansas", "Oklahoma", "Kansas", "Louisiana", "Virginia"]
-		.forEach(function(d){
-			var low=Math.round(100*Math.random()), 
-				mid=Math.round(100*Math.random()), 
-				high=Math.round(100*Math.random());
-				statesData[d]={low:d3.min([low,mid,high]), high:d3.max([low,mid,high]), 
-					avg:Math.round((low+mid+high)/3), color:d3.interpolate("#ffffcc", "#800026")(low/100)}; 
-		});
-
-	*/
-	// draw states on id #statesvg
-	uStates.draw("#statesvg", statesData, tooltipHtml);
-
-	d3.select(self.frameElement).style("height", "600px");
-});
+		// draw states on id #statesvg
+		uStates.draw("#statesvg", statesData, tooltipHtml);
+		d3.select(self.frameElement).style("height", "600px");
+	});
+}
