@@ -68,13 +68,29 @@
 		function mouseOut(){
 			d3.select("#tooltip").transition().duration(500).style("opacity", 0);      
 		}
+
+		function handleClick(d) {
+			var index = selectedStates.indexOf(d.id);
+			if (index > -1) {
+				selectedStates.splice(index, 1);
+				this.style.fill = data[d.id].color;
+			}
+			else {
+				if (selectedStates.length < 3) {
+					this.style.fill = d3.rgb('#E55300');
+					selectedStates.push(d.id);
+				}
+			}
+		}
 		
 		d3.select(id).selectAll(".state").remove();
 		
 		d3.select(id).selectAll(".state")
 			.data(uStatePaths).enter().append("path").attr("class","state").attr("d",function(d){ return d.d;})
-			.style("fill",function(d){ return data[d.id].color; })
-			.on("mouseover", mouseOver).on("mouseout", mouseOut);
+			.style("fill",function(d){ 
+				if (selectedStates.indexOf(d.id) > -1) return d3.rgb('#E55300');
+				else return data[d.id].color; })
+			.on("mouseover", mouseOver).on("mouseout", mouseOut).on("click",handleClick);
 	}
 	this.uStates=uStates;
 })();

@@ -1,6 +1,8 @@
 var currYear = 2014;
 var currMeasure = "incidents";
 
+var selectedStates = [];
+
 function changeMeasure(e) {
     var menu = e.parentNode.parentNode;
     var options = menu.getElementsByClassName('option-menu-option');

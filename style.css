@@ -109,6 +109,13 @@ table {
     left: 0;
 }
 
+.content .content-title {
+    text-align: center;
+    color: var(--second-txt-color);
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .sticky + .content {
     padding-top: 80px;
 }
