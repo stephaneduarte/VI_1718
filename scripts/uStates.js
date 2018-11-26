@@ -81,6 +81,7 @@
 					selectedStates.push(d.id);
 				}
 			}
+			reloadCharts();
 		}
 		
 		d3.select(id).selectAll(".state").remove();
@@ -98,6 +99,8 @@
 function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
 	return "<h4>"+n+"</h4><table>"+
 		"<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+d.measure+"</td></tr>"+
+		"<tr><td>Weapons</td><td>"+d.weapons+"</td></tr>"+
+		"<tr><td>Population</td><td>"+d.population+"</td></tr>"+
 		"</table>";
 }
 
@@ -113,6 +116,8 @@ function makeChronopleth(){
 		var min = 0;
 		for (var i = 0; i < dataset.length; i++) {
 			var measure;
+			var weapons;
+			var population;
 			if (dataset[i].year == currYear){
 				if (currMeasure == "incidents") measure = data[i].incidents;
 				else if (currMeasure == "injuries") measure = data[i].injuries;
@@ -120,9 +125,12 @@ function makeChronopleth(){
 
 				if (measure > max) max = measure;
 				if (measure < min) min = measure;
-
+				weapons = data[i].weapons;
+				population = data[i].population;
 				statesData[dataset[i].state] = {
-					measure: measure
+					measure: measure,
+					weapons: weapons,
+					population: population
 				}
 			}
 		}

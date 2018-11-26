@@ -7,8 +7,11 @@
     <link rel="stylesheet" href="style.css" type="text/css"/>
 
     <script src="d3/d3.js" charset="utf-8"></script>
+    <script src="d3/d3fc.min.js" charset="utf-8"></script>
+    <script src="d3/d3-legend.min.js" charset="utf-8"></script>
     <script src="scripts/variables.js"></script>
     <script src="scripts/uStates.js"></script>
+    <script src="scripts/barChart.js"></script>
 </head>
  
 <body>
@@ -28,11 +31,11 @@
             <table>
                 <tr>
                     <td><div class="option-menu-title">Year</div></td>
-                    <td><div year="2013" onclick="changeYear(this)" class="option-menu-option">2013</div></td>
                     <td><div year="2014" onclick="changeYear(this)" class="option-menu-option option-menu-option-selected">2014</div></td>
                     <td><div year="2015" onclick="changeYear(this)" class="option-menu-option">2015</div></td>
                     <td><div year="2016" onclick="changeYear(this)" class="option-menu-option">2016</div></td>
                     <td><div year="2017" onclick="changeYear(this)" class="option-menu-option">2017</div></td>
+                    <td><div year="2018" onclick="changeYear(this)" class="option-menu-option">2018</div></td>
                 </tr>
             </table>
         </div>
@@ -44,13 +47,15 @@
             <svg style="padding: calc(2vw) calc(5vw) 0 calc(5vw)" viewbox="0 0 960 600" width="calc(40vw)" height="calc(40vw * 0.625)" id="statesvg"></svg>
         </div>
         <div class="half-page">
-            <div style="padding: calc(1vh)" class="content-title">AGE</div>
+            <div style="padding: calc(1vh)" class="content-title">PARTICIPANTS' AGE</div>
+            <div id="tooltip_barchart"></div>
+            <div id='stacked-chart' class='chart large'></div>
         </div>
     </div>
 </body>
 
 <script>
-    makeChronopleth()
+    reloadCharts()
 </script>
 
 </html>
