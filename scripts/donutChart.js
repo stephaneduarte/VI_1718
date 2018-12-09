@@ -12,7 +12,7 @@ function donutChart() {
 
     function genderColour(gender) {
         if (gender == "Male") return '#0b486b';
-        else if (gender == "Female") return '#DE3163';
+        else if (gender == "Female") return '#79bd9a';
     }
 
     function chart(selection){
@@ -31,61 +31,40 @@ function donutChart() {
 
             // contructs and arc generator. This will be used for the donut. The difference between outer and inner
             // radius will dictate the thickness of the donut
-            var arc = d3.arc()
-                .outerRadius(radius * 0.8)
-                .innerRadius(radius * 0.6)
-                .cornerRadius(cornerRadius)
-                .padAngle(padAngle);
-
-            // ===========================================================================================
-
+            var nData = data.length;
+            var diametro = 1;
             // ===========================================================================================
             // append the svg object to the selection
             var svg = selection.append('svg')
                 .attr('width', width + margin.left + margin.right)
                 .attr('height', height + margin.top + margin.bottom)
-                .append('g')
-                .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')');
-            // ===========================================================================================
 
-            // ===========================================================================================
-            svg.append('g').attr('class', 'slices');
-            // ===========================================================================================
+            for (i in data) {
+                var arc = d3.arc()
+                    .outerRadius(radius * diametro)
+                    .innerRadius(radius * (diametro - 0.13))
+                    .cornerRadius(cornerRadius)
+                    .padAngle(padAngle);
 
-            // ===========================================================================================
-            // add and colour the donut slices
-            /*USA*/
-            var finaldata = [];
-            for (e in data){
-                if (data[e].State == "USA"){
-                    finaldata.push(data[e]);
-                }
-            }
-            var path = svg.select('.slices')
-                .datum(finaldata).selectAll('path')
-                .data(pie)
-                .enter().append('path')
-                .attr('fill', function(d) { return genderColour(d.data[category]); })
-                .attr('d', arc);
-
-            for (i in selectedStates){
-                var finaldata = [];
-                for (e in data){
-                    if (data[e].State == selectedStates[i]){
-                        finaldata.push(data[e]);
-                    }
-                }
-                var path = svg.select('.slices')
-                    .datum(finaldata).selectAll('path')
+                var auxSvg = svg.append('g')
+                    .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')');
+                
+                auxSvg.append('g').attr('class', 'slices');
+                var path = auxSvg.select('.slices')
+                    .datum(data[i]).selectAll('path')
                     .data(pie)
                     .enter().append('path')
                     .attr('fill', function(d) { return genderColour(d.data[category]); })
                     .attr('d', arc);
+                
+                d3.selectAll('.labelName text, .slices path').call(toolTip);
+
+                diametro = diametro - 0.15;
             }
             
             // ===========================================================================================
             // add tooltip to mouse events on slices and labels
-            d3.selectAll('.labelName text, .slices path').call(toolTip);
+
             // ===========================================================================================
             //}
             // ===========================================================================================
@@ -100,16 +79,16 @@ function donutChart() {
                 // add tooltip (svg circle element) when mouse enters label or slice
                 selection.on('mouseenter', function (data) {
 
-                    svg.append('text')
+                    auxSvg.append('text')
                         .attr('class', 'toolCircle')
                         .attr('dy', -15) // hard-coded. can adjust this to adjust text vertical alignment in tooltip
                         .html(toolTipHTML(data)) // add text to the circle.
                         .style('font-size', '.9em')
                         .style('text-anchor', 'middle'); // centres text in tooltip
 
-                    svg.append('circle')
+                    auxSvg.append('circle')
                         .attr('class', 'toolCircle')
-                        .attr('r', radius * 0.4) // radius of tooltip circle
+                        .attr('r', radius * (1 - 0.15 * nData)) // radius of tooltip circle
                         .style('fill', genderColour(data.data[category])) // colour based on category mouse is over
                         .style('fill-opacity', 0.35);
 
@@ -135,8 +114,8 @@ function donutChart() {
 
                     // leave off 'dy' attr for first tspan so the 'dy' attr on text element works. The 'dy' attr on
                     // tspan effectively imitates a line break.
-                    if (i === 0) tip += '<tspan x="0">' + key + ': ' + value + '</tspan>';
-                    else tip += '<tspan x="0" dy="1.2em">' + key + ': ' + value + '</tspan>';
+                    if (i === 0) tip += '<tspan x="0">' + /*key + ': ' +*/ value + '</tspan>';
+                    else tip += '<tspan x="0" dy="1.2em">' + /*key + ': ' +*/ value + '</tspan>';
                     i++;
                 }
 
@@ -206,13 +185,13 @@ function donutChart() {
 }
 
 function treatData(finaldata, data) {
-    finaldata.push({"State":data.state, "Gender":"Male", "Percentage":data.male.replace(/,/g, '.') / 100},
-                    {"State":data.state, "Gender":"Female","Percentage":data.female.replace(/,/g, '.') / 100});
+    finaldata.push([{"State":data.state, "Gender":"Male", "Percentage":data.male.replace(/,/g, '.') / 100},
+                    {"State":data.state, "Gender":"Female","Percentage":data.female.replace(/,/g, '.') / 100}]);
 }
 
 var donut = donutChart()
-        .width(Math.max(document.documentElement.clientWidth, window.innerWidth || 0) / 2)
-        .height(400)
+        .width(Math.max(document.documentElement.clientWidth, window.innerWidth || 0) * 4/10)
+        .height(300)
         .cornerRadius(3) // sets how rounded the corners are on each slice
         .padAngle(0.015) // effectively dictates the gap between slices
         .variable('Percentage')

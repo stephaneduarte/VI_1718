@@ -74,14 +74,15 @@
 			if (index > -1) {
 				selectedStates.splice(index, 1);
 				this.style.fill = data[d.id].color;
+				reloadCharts();
 			}
 			else {
 				if (selectedStates.length < 3) {
 					this.style.fill = d3.rgb('#E55300');
-					selectedStates.push(d.id);
+					selectedStates.unshift(d.id);
+					reloadCharts();
 				}
 			}
-			reloadCharts();
 		}
 		
 		d3.select(id).selectAll(".state").remove();

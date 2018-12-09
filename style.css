@@ -55,6 +55,18 @@ table {
     min-width: calc(25vw);
 }
 
+.first-half-page {
+    float: left;
+    width: 55vw;
+    min-width: calc(25vw);
+}
+
+.second-half-page {
+    float: left;
+    width: 40vw;
+    min-width: calc(25vw);
+}
+
 .header .header-title {
     text-align: center;
     color: var(--main-txt-color);
@@ -108,6 +120,7 @@ table {
     width: 100%;
     height: 100%;
     left: 0;
+    overflow-y: scroll;
 }
 
 .content .content-title {
@@ -148,6 +161,7 @@ table {
     padding: 4px;
     color: var(--main-txt-color);
     opacity:0;
+    z-index: 10000;
 }
 
 #tooltip h4{
