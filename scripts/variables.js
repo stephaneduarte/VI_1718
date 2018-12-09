@@ -38,4 +38,5 @@ function changeYear(e) {
 function reloadCharts() {
     makeChronopleth();
     makeBarChart()
+    makeDonutChart();
 }
