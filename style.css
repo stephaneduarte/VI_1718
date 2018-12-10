@@ -57,13 +57,13 @@ table {
 
 .first-half-page {
     float: left;
-    width: 55vw;
+    width: 40vw;
     min-width: calc(25vw);
 }
 
 .second-half-page {
     float: left;
-    width: 40vw;
+    width: 55vw;
     min-width: calc(25vw);
 }
 
@@ -146,7 +146,7 @@ table {
     cursor: pointer;
 }
 
-#tooltip{
+.tooltip{
     position: absolute;           
     text-align: center;            
     margin: 10px;
@@ -164,25 +164,25 @@ table {
     z-index: 10000;
 }
 
-#tooltip h4{
+.tooltip h4{
     margin:0;
     font-size: 14px;
 }
 
-#tooltip table{
+.tooltip table{
     table-layout: fixed;
 }
 
-#tooltip tr td{
+.tooltip tr td{
     padding:0;
     margin:0;
 }
 
-#tooltip tr td:nth-child(1){
+.tooltip tr td:nth-child(1){
     width:50px;
 }
 
-#tooltip tr td:nth-child(2){
+.tooltip tr td:nth-child(2){
     text-align:center;
 }
 

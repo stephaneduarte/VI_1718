@@ -39,4 +39,5 @@ function reloadCharts() {
     makeChronopleth();
     makeBarChart()
     makeDonutChart();
+    makeRadarChart();
 }
