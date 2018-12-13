@@ -190,8 +190,8 @@ function treatData(finaldata, data) {
 }
 
 var donut = donutChart()
-        .width(Math.max(document.documentElement.clientWidth, window.innerWidth || 0) * 4/10)
-        .height(300)
+        .width(380)
+        .height(250)
         .cornerRadius(3) // sets how rounded the corners are on each slice
         .padAngle(0.015) // effectively dictates the gap between slices
         .variable('Percentage')

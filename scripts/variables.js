@@ -11,7 +11,7 @@ function changeMeasure(e) {
     }
     e.classList.add('option-menu-option-selected');
     currMeasure = e.getAttribute('measure');
-    reloadCharts();
+    makeChronopleth();
 }
 
 function changeYear(e) {

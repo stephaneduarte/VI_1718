@@ -249,7 +249,7 @@ function RadarChart(id, data, options) {
         else if (n == "OUT") month = "October";
         else if (n == "NOV") month = "November";
         else if (n == "DEZ") month = "December";
-        return "<h4>"+month+"</h4><table>"+
+        return "<h4>"+month+" "+currYear+"</h4><table>"+
             "<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+d+"%</td></tr>"+
             "</table>";
     }
@@ -297,9 +297,9 @@ function makeRadarChart() {
     ////////////////////////////////////////////////////////////// 
     //////////////////////// Set-Up ////////////////////////////// 
     //////////////////////////////////////////////////////////////
-    var margin = {top: 100, right: 100, bottom: 100, left: 100},
-        width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0) * 4/10/*Math.min(700, window.innerWidth - 10) - margin.left - margin.right*/,
-        height = 300/*Math.min(width, window.innerHeight - margin.top - margin.bottom - 20)*/;
+    var margin = {top: 30, right: 30, bottom: 30, left: 30},
+        width = 280/*Math.min(700, window.innerWidth - 10) - margin.left - margin.right*/,
+        height = 200/*Math.min(width, window.innerHeight - margin.top - margin.bottom - 20)*/;
             
     ////////////////////////////////////////////////////////////// 
     //////////////////// Draw the Chart ////////////////////////// 

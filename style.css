@@ -57,7 +57,7 @@ table {
 
 .first-half-page {
     float: left;
-    width: 40vw;
+    width: 43vw;
     min-width: calc(25vw);
 }
 
@@ -266,4 +266,10 @@ polyline{
 .labelName {
     font-size: 0.9em;
     font-style: italic;
+}
+
+.half-height {
+    width: calc(27vw);
+    float: left;
+    overflow-y: hidden;
 }

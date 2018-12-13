@@ -100,6 +100,7 @@
 
 function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
 	return "<h4>"+n+"</h4><table>"+
+		"<tr><td>Year</td><td>"+currYear+"</td></tr>"+
 		"<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+d.measure+"</td></tr>"+
 		"<tr><td>Weapons</td><td>"+d.weapons+"</td></tr>"+
 		"<tr><td>Population</td><td>"+d.population+"</td></tr>"+
