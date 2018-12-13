@@ -11,9 +11,11 @@
     <script src="d3/d3-legend.min.js" charset="utf-8"></script>
     <script src="scripts/variables.js"></script>
     <script src="scripts/uStates.js"></script>
-    <script src="scripts/barChart.js"></script>
+    <!--<script src="scripts/barChart.js"></script>-->
+    <script src="scripts/newBarChart.js"></script>
     <script src="scripts/donutChart.js"></script>
     <script src="scripts/radarChart.js"></script>
+    <script src="scripts/lineChart.js"></script>
 </head>
  
 <body>
@@ -47,11 +49,13 @@
             <!-- USA MAP -->
             <div id="tooltip" class="tooltip"></div>
             <svg style="padding: calc(2vw) calc(5vw) 0 calc(5vw)" viewbox="0 0 960 600" width="calc(38vw)" height="calc(35vw * 0.625)" id="statesvg"></svg>
+            <div id="lineChart"></div>
         </div>
         <div class="second-half-page">
             <div style="padding: calc(1vh)" class="content-title">PARTICIPANTS' AGE</div>
-            <div id="tooltip_barchart" class="tooltip"></div>
-            <div id='stacked-chart' class='chart large'></div>
+            <!--<div id="tooltip_barchart" class="tooltip"></div>
+            <div id='stacked-chart' class='chart large'></div>-->
+            <div id='stacked-bar'></div>
             <div class="half-height">
                 <div style="padding-top: calc(3vh); padding-bottom: calc(2vh)" class="content-title">MONTHLY DISTRIBUTION</div>
                 <div id="radarChartTooltip" class="tooltip"></div>

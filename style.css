@@ -187,62 +187,12 @@ table {
 }
 
 /* BAR CHART */
-#stacked-chart {
-    position: relative;
-    margin-top: -25px;
+
+.axis text {
+    font: 12px;
 }
 
-#stacked-chart .legend {
-    position: absolute;
-    /* bottom: auto; */
-    bottom: -80px;
-    left: auto;
-    right: 10px;
-    width: 360px;
-    height: 120px;
-}
-
-@media (max-width: 567px) {
-    #stacked-chart .legend {
-        visibility: hidden;
-    }
-}
-
-.chart-label {
-    display: none;
-}
-
-.legend text {
-    font-size: 9pt;
-}
-
-.tick text {
-    z-index: 1000;
-}
-
-.chart {
-    margin: 0 0;
-    width: 100%;
-    /* height: 250px; */
-}
-
-.chart svg {
-    overflow: visible !important;
-}
-  
-.chart.large {
-    height: 240px;
-}
-
-.y-axis-label {
-    white-space: nowrap;
-}
-
-.x-axis {
-    visibility: hidden;
-}
-
-.y-axis .domain {
+.axis .domain {
     visibility: hidden;
 }
 
@@ -272,4 +222,28 @@ polyline{
     width: calc(27vw);
     float: left;
     overflow-y: hidden;
+}
+
+/* Line Chart */
+/* Style the lines by removing the fill and applying a stroke */
+.line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+  
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+  
+  .focus circle {
+  fill: none;
+  stroke: steelblue;
 }
