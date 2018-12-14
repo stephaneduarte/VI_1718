@@ -61,25 +61,16 @@ function makeBarChart() {
                     .enter().append("g")
                     .attr("class", "layer")
                     .style("fill", function(d, i) { return selectColor(d.key); })
-                    .on("mouseover", function(d,i) {
-                        d3.select("#barChartTooltip").transition().duration(200).style("opacity", .9);
-                        d3.select("#barChartTooltip").html(tooltipHtml(d, i))  
-                            .style("left", (d3.event.pageX) + "px")     
-                            .style("top", (d3.event.pageY - 28) + "px");
-                    })
-                    .on("mouseout", function(){
-                        d3.select("#barChartTooltip").transition().duration(500).style("opacity", 0);  
-                    });;
 
-                function tooltipHtml(arg1, arg2){	/* function to create html content string in tooltip div. */
-                    var age = arg1.key;
+                function tooltipHtml(arg1){	/* function to create html content string in tooltip div. */
+                    var state = arg1.data.state;
+                    var value = Math.round((arg1[1] - arg1[0]) * 100);
+                    var age = Object.keys(arg1.data).find(key => Math.round(arg1.data[key] * 100) === value);
                     if (age == "earlyadult") age = "Early Adult";
-                    var state = arg1[0].data.state;
-                    var value = Math.round((arg1[0][1] - arg1[0][0]) * 100);
                     return "<h4>"+age.charAt(0).toUpperCase() + age.slice(1) +"</h4><table>"+
-                        "<tr><td>"+"Percentage:"+"</td><td>"+value+"%</td></tr>"+
-                        "<tr><td>"+"State:"+"</td><td>"+state+"</td></tr>"+
-                        "<tr><td>"+"Year:"+"</td><td>"+currYear+"</td></tr>"+
+                        "<tr><td>"+"Percentage"+"</td><td>"+value+"%</td></tr>"+
+                        "<tr><td>"+"State"+"</td><td>"+state+"</td></tr>"+
+                        "<tr><td>"+"Year"+"</td><td>"+currYear+"</td></tr>"+
                         "</table>";
                 }
         
@@ -89,7 +80,16 @@ function makeBarChart() {
                     .attr("y", function(d) { return yScale(d.data.state); })
                     .attr("x", function(d) { return xScale(d[0]); })
                     .attr("height", yScale.bandwidth())
-                    .attr("width", function(d) { return xScale(d[1]) - xScale(d[0]) });
+                    .attr("width", function(d) { return xScale(d[1]) - xScale(d[0]) })
+                    .on("mouseover", function(d,i) {
+                        d3.select("#barChartTooltip").transition().duration(200).style("opacity", .9);
+                        d3.select("#barChartTooltip").html(tooltipHtml(d))  
+                            .style("left", (d3.event.pageX) + "px")     
+                            .style("top", (d3.event.pageY - 28) + "px");
+                    })
+                    .on("mouseout", function(){
+                        d3.select("#barChartTooltip").transition().duration(500).style("opacity", 0);  
+                    });;
             
                     /*svg.append("g")
                     .attr("class", "axis axis--x")
