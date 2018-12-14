@@ -12,7 +12,7 @@ function changeMeasure(e) {
     e.classList.add('option-menu-option-selected');
     currMeasure = e.getAttribute('measure');
     makeChronopleth();
-    //makeRadarChart();
+    makeRadarChart();
 }
 
 function changeYear(e) {
@@ -40,6 +40,6 @@ function reloadCharts() {
     makeChronopleth();
     makeBarChart()
     makeDonutChart();
-    //makeRadarChart();
-    //makeLineChart();
+    makeRadarChart();
+    makeLineChart();
 }

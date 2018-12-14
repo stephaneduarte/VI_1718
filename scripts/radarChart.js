@@ -237,20 +237,20 @@ function RadarChart(id, data, options) {
 
     function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
         var month;
-        if (n == "jan") month = "January";
-        else if (n == "feb") month = "February";
-        else if (n == "mar") month = "March";
-        else if (n == "apr") month = "April";
-        else if (n == "may") month = "May";
-        else if (n == "jun") month = "June";
-        else if (n == "jul") month = "July";
-        else if (n == "aug") month = "August";
-        else if (n == "sep") month = "September";
-        else if (n == "oct") month = "October";
-        else if (n == "nov") month = "November";
-        else if (n == "dec") month = "December";
+        if (n == "JAN") month = "January";
+        else if (n == "FEB") month = "February";
+        else if (n == "MAR") month = "March";
+        else if (n == "APR") month = "April";
+        else if (n == "MAY") month = "May";
+        else if (n == "JUN") month = "June";
+        else if (n == "JUL") month = "July";
+        else if (n == "AUG") month = "August";
+        else if (n == "SEP") month = "September";
+        else if (n == "OCT") month = "October";
+        else if (n == "NOV") month = "November";
+        else if (n == "DEC") month = "December";
         return "<h4>"+month+" "+currYear+"</h4><table>"+
-            "<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+d+"%</td></tr>"+
+            "<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+Math.round( d * 100 ) / 100+"%</td></tr>"+
             "</table>";
     }
 		
@@ -323,12 +323,12 @@ function makeRadarChart() {
 		var finaldata = [];
 		for (i in data) {
 			if (data[i].year == currYear && data[i].measure == currMeasure) {
-				//if (data[i].key == "USA") finaldata.push(data[i]);
+				if (data[i].key == "USA") finaldata.push(data[i]);
 				if (selectedStates.indexOf(data[i].key) > -1) {
 					finaldata.push(data[i]);
 				}
 			}
 		}
-		RadarChart(".radarChart", finaldata, radarChartOptions);
+		if (finaldata.length != 0) RadarChart(".radarChart", finaldata, radarChartOptions);
     });
 }

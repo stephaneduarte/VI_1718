@@ -26,6 +26,9 @@ function makeLineChart() {
     // 8. An array of objects of length N. Each object has key -> value pair, the key being "y" and the value is a random number
     var dataset = d3.range(n).map(function(d) { return {"y": d3.randomUniform(1)() } })
 
+    var this_chart = d3.select('#lineChart');
+        this_chart.selectAll('*').remove();
+
     // 1. Add the SVG to the page and employ #2
     var svg = d3.select("#lineChart").append("svg")
     .attr("width", width + margin.left + margin.right)

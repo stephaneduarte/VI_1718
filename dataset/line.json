@@ -1,0 +1,1822 @@
+[
+  {
+    "state": "Alabama",
+    "year": 2014,
+    "incidents": 1316,
+    "deaths": 324,
+    "injuries": 590
+  },
+  {
+    "state": "Alaska",
+    "year": 2014,
+    "incidents": 146,
+    "deaths": 29,
+    "injuries": 49
+  },
+  {
+    "state": "Arizona",
+    "year": 2014,
+    "incidents": 556,
+    "deaths": 220,
+    "injuries": 222
+  },
+  {
+    "state": "Arkansas",
+    "year": 2014,
+    "incidents": 571,
+    "deaths": 167,
+    "injuries": 231
+  },
+  {
+    "state": "California",
+    "year": 2014,
+    "incidents": 3717,
+    "deaths": 1305,
+    "injuries": 1603
+  },
+  {
+    "state": "Colorado",
+    "year": 2014,
+    "incidents": 555,
+    "deaths": 148,
+    "injuries": 162
+  },
+  {
+    "state": "Connecticut",
+    "year": 2014,
+    "incidents": 579,
+    "deaths": 73,
+    "injuries": 204
+  },
+  {
+    "state": "Delaware",
+    "year": 2014,
+    "incidents": 492,
+    "deaths": 48,
+    "injuries": 181
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2014,
+    "incidents": 838,
+    "deaths": 92,
+    "injuries": 298
+  },
+  {
+    "state": "Florida",
+    "year": 2014,
+    "incidents": 3133,
+    "deaths": 867,
+    "injuries": 1462
+  },
+  {
+    "state": "Georgia",
+    "year": 2014,
+    "incidents": 2032,
+    "deaths": 522,
+    "injuries": 817
+  },
+  {
+    "state": "Hawaii",
+    "year": 2014,
+    "incidents": 47,
+    "deaths": 7,
+    "injuries": 13
+  },
+  {
+    "state": "Idaho",
+    "year": 2014,
+    "incidents": 115,
+    "deaths": 31,
+    "injuries": 26
+  },
+  {
+    "state": "Illinois",
+    "year": 2014,
+    "incidents": 3075,
+    "deaths": 626,
+    "injuries": 2266
+  },
+  {
+    "state": "Indiana",
+    "year": 2014,
+    "incidents": 1195,
+    "deaths": 325,
+    "injuries": 595
+  },
+  {
+    "state": "Iowa",
+    "year": 2014,
+    "incidents": 566,
+    "deaths": 62,
+    "injuries": 168
+  },
+  {
+    "state": "Kansas",
+    "year": 2014,
+    "incidents": 381,
+    "deaths": 94,
+    "injuries": 158
+  },
+  {
+    "state": "Kentucky",
+    "year": 2014,
+    "incidents": 976,
+    "deaths": 193,
+    "injuries": 318
+  },
+  {
+    "state": "Louisiana",
+    "year": 2014,
+    "incidents": 1897,
+    "deaths": 460,
+    "injuries": 915
+  },
+  {
+    "state": "Maine",
+    "year": 2014,
+    "incidents": 183,
+    "deaths": 22,
+    "injuries": 25
+  },
+  {
+    "state": "Maryland",
+    "year": 2014,
+    "incidents": 1261,
+    "deaths": 291,
+    "injuries": 601
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2014,
+    "incidents": 966,
+    "deaths": 100,
+    "injuries": 314
+  },
+  {
+    "state": "Michigan",
+    "year": 2014,
+    "incidents": 1442,
+    "deaths": 343,
+    "injuries": 629
+  },
+  {
+    "state": "Minnesota",
+    "year": 2014,
+    "incidents": 450,
+    "deaths": 86,
+    "injuries": 193
+  },
+  {
+    "state": "Mississippi",
+    "year": 2014,
+    "incidents": 784,
+    "deaths": 231,
+    "injuries": 317
+  },
+  {
+    "state": "Missouri",
+    "year": 2014,
+    "incidents": 1272,
+    "deaths": 383,
+    "injuries": 647
+  },
+  {
+    "state": "Montana",
+    "year": 2014,
+    "incidents": 128,
+    "deaths": 32,
+    "injuries": 30
+  },
+  {
+    "state": "Nebraska",
+    "year": 2014,
+    "incidents": 346,
+    "deaths": 50,
+    "injuries": 148
+  },
+  {
+    "state": "Nevada",
+    "year": 2014,
+    "incidents": 375,
+    "deaths": 149,
+    "injuries": 152
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2014,
+    "incidents": 229,
+    "deaths": 22,
+    "injuries": 38
+  },
+  {
+    "state": "New Jersey",
+    "year": 2014,
+    "incidents": 1515,
+    "deaths": 272,
+    "injuries": 627
+  },
+  {
+    "state": "New Mexico",
+    "year": 2014,
+    "incidents": 318,
+    "deaths": 90,
+    "injuries": 82
+  },
+  {
+    "state": "New York",
+    "year": 2014,
+    "incidents": 1897,
+    "deaths": 396,
+    "injuries": 962
+  },
+  {
+    "state": "North Carolina",
+    "year": 2014,
+    "incidents": 2161,
+    "deaths": 485,
+    "injuries": 883
+  },
+  {
+    "state": "North Dakota",
+    "year": 2014,
+    "incidents": 110,
+    "deaths": 15,
+    "injuries": 24
+  },
+  {
+    "state": "Ohio",
+    "year": 2014,
+    "incidents": 2362,
+    "deaths": 489,
+    "injuries": 1120
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2014,
+    "incidents": 642,
+    "deaths": 171,
+    "injuries": 238
+  },
+  {
+    "state": "Oregon",
+    "year": 2014,
+    "incidents": 398,
+    "deaths": 96,
+    "injuries": 126
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2014,
+    "incidents": 2258,
+    "deaths": 540,
+    "injuries": 1284
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2014,
+    "incidents": 188,
+    "deaths": 17,
+    "injuries": 75
+  },
+  {
+    "state": "South Carolina",
+    "year": 2014,
+    "incidents": 1658,
+    "deaths": 342,
+    "injuries": 626
+  },
+  {
+    "state": "South Dakota",
+    "year": 2014,
+    "incidents": 71,
+    "deaths": 15,
+    "injuries": 20
+  },
+  {
+    "state": "Tennessee",
+    "year": 2014,
+    "incidents": 1585,
+    "deaths": 349,
+    "injuries": 853
+  },
+  {
+    "state": "Texas",
+    "year": 2014,
+    "incidents": 3114,
+    "deaths": 1078,
+    "injuries": 1153
+  },
+  {
+    "state": "Utah",
+    "year": 2014,
+    "incidents": 215,
+    "deaths": 60,
+    "injuries": 69
+  },
+  {
+    "state": "Vermont",
+    "year": 2014,
+    "incidents": 169,
+    "deaths": 18,
+    "injuries": 28
+  },
+  {
+    "state": "Virginia",
+    "year": 2014,
+    "incidents": 1270,
+    "deaths": 282,
+    "injuries": 578
+  },
+  {
+    "state": "Washington",
+    "year": 2014,
+    "incidents": 653,
+    "deaths": 179,
+    "injuries": 235
+  },
+  {
+    "state": "West Virginia",
+    "year": 2014,
+    "incidents": 361,
+    "deaths": 70,
+    "injuries": 119
+  },
+  {
+    "state": "Wisconsin",
+    "year": 2014,
+    "incidents": 1064,
+    "deaths": 163,
+    "injuries": 461
+  },
+  {
+    "state": "Wyoming",
+    "year": 2014,
+    "incidents": 64,
+    "deaths": 15,
+    "injuries": 12
+  },
+  {
+    "state": "Alabama",
+    "year": 2015,
+    "incidents": 1033,
+    "deaths": 385,
+    "injuries": 561
+  },
+  {
+    "state": "Alaska",
+    "year": 2015,
+    "incidents": 377,
+    "deaths": 68,
+    "injuries": 84
+  },
+  {
+    "state": "Arizona",
+    "year": 2015,
+    "incidents": 478,
+    "deaths": 214,
+    "injuries": 192
+  },
+  {
+    "state": "Arkansas",
+    "year": 2015,
+    "incidents": 537,
+    "deaths": 154,
+    "injuries": 245
+  },
+  {
+    "state": "California",
+    "year": 2015,
+    "incidents": 3215,
+    "deaths": 1185,
+    "injuries": 1607
+  },
+  {
+    "state": "Colorado",
+    "year": 2015,
+    "incidents": 782,
+    "deaths": 172,
+    "injuries": 280
+  },
+  {
+    "state": "Connecticut",
+    "year": 2015,
+    "incidents": 732,
+    "deaths": 86,
+    "injuries": 331
+  },
+  {
+    "state": "Delaware",
+    "year": 2015,
+    "incidents": 365,
+    "deaths": 57,
+    "injuries": 206
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2015,
+    "incidents": 537,
+    "deaths": 123,
+    "injuries": 345
+  },
+  {
+    "state": "Florida",
+    "year": 2015,
+    "incidents": 2691,
+    "deaths": 789,
+    "injuries": 1543
+  },
+  {
+    "state": "Georgia",
+    "year": 2015,
+    "incidents": 2766,
+    "deaths": 594,
+    "injuries": 1096
+  },
+  {
+    "state": "Hawaii",
+    "year": 2015,
+    "incidents": 75,
+    "deaths": 12,
+    "injuries": 27
+  },
+  {
+    "state": "Idaho",
+    "year": 2015,
+    "incidents": 172,
+    "deaths": 38,
+    "injuries": 34
+  },
+  {
+    "state": "Illinois",
+    "year": 2015,
+    "incidents": 3424,
+    "deaths": 669,
+    "injuries": 2810
+  },
+  {
+    "state": "Indiana",
+    "year": 2015,
+    "incidents": 1302,
+    "deaths": 332,
+    "injuries": 694
+  },
+  {
+    "state": "Iowa",
+    "year": 2015,
+    "incidents": 581,
+    "deaths": 58,
+    "injuries": 192
+  },
+  {
+    "state": "Kansas",
+    "year": 2015,
+    "incidents": 457,
+    "deaths": 126,
+    "injuries": 187
+  },
+  {
+    "state": "Kentucky",
+    "year": 2015,
+    "incidents": 913,
+    "deaths": 230,
+    "injuries": 424
+  },
+  {
+    "state": "Louisiana",
+    "year": 2015,
+    "incidents": 1669,
+    "deaths": 485,
+    "injuries": 890
+  },
+  {
+    "state": "Maine",
+    "year": 2015,
+    "incidents": 231,
+    "deaths": 31,
+    "injuries": 31
+  },
+  {
+    "state": "Maryland",
+    "year": 2015,
+    "incidents": 1280,
+    "deaths": 402,
+    "injuries": 783
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2015,
+    "incidents": 1331,
+    "deaths": 109,
+    "injuries": 382
+  },
+  {
+    "state": "Michigan",
+    "year": 2015,
+    "incidents": 1245,
+    "deaths": 338,
+    "injuries": 626
+  },
+  {
+    "state": "Minnesota",
+    "year": 2015,
+    "incidents": 406,
+    "deaths": 120,
+    "injuries": 153
+  },
+  {
+    "state": "Mississippi",
+    "year": 2015,
+    "incidents": 661,
+    "deaths": 223,
+    "injuries": 334
+  },
+  {
+    "state": "Missouri",
+    "year": 2015,
+    "incidents": 1696,
+    "deaths": 488,
+    "injuries": 921
+  },
+  {
+    "state": "Montana",
+    "year": 2015,
+    "incidents": 137,
+    "deaths": 32,
+    "injuries": 35
+  },
+  {
+    "state": "Nebraska",
+    "year": 2015,
+    "incidents": 371,
+    "deaths": 57,
+    "injuries": 176
+  },
+  {
+    "state": "Nevada",
+    "year": 2015,
+    "incidents": 486,
+    "deaths": 178,
+    "injuries": 234
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2015,
+    "incidents": 208,
+    "deaths": 22,
+    "injuries": 26
+  },
+  {
+    "state": "New Jersey",
+    "year": 2015,
+    "incidents": 1059,
+    "deaths": 247,
+    "injuries": 490
+  },
+  {
+    "state": "New Mexico",
+    "year": 2015,
+    "incidents": 392,
+    "deaths": 116,
+    "injuries": 159
+  },
+  {
+    "state": "New York",
+    "year": 2015,
+    "incidents": 2891,
+    "deaths": 459,
+    "injuries": 1517
+  },
+  {
+    "state": "North Carolina",
+    "year": 2015,
+    "incidents": 1848,
+    "deaths": 490,
+    "injuries": 1091
+  },
+  {
+    "state": "North Dakota",
+    "year": 2015,
+    "incidents": 149,
+    "deaths": 18,
+    "injuries": 33
+  },
+  {
+    "state": "Ohio",
+    "year": 2015,
+    "incidents": 2089,
+    "deaths": 510,
+    "injuries": 1293
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2015,
+    "incidents": 832,
+    "deaths": 216,
+    "injuries": 407
+  },
+  {
+    "state": "Oregon",
+    "year": 2015,
+    "incidents": 681,
+    "deaths": 122,
+    "injuries": 190
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2015,
+    "incidents": 1757,
+    "deaths": 488,
+    "injuries": 1057
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2015,
+    "incidents": 225,
+    "deaths": 14,
+    "injuries": 87
+  },
+  {
+    "state": "South Carolina",
+    "year": 2015,
+    "incidents": 1688,
+    "deaths": 382,
+    "injuries": 737
+  },
+  {
+    "state": "South Dakota",
+    "year": 2015,
+    "incidents": 101,
+    "deaths": 25,
+    "injuries": 28
+  },
+  {
+    "state": "Tennessee",
+    "year": 2015,
+    "incidents": 1752,
+    "deaths": 388,
+    "injuries": 1015
+  },
+  {
+    "state": "Texas",
+    "year": 2015,
+    "incidents": 3217,
+    "deaths": 1091,
+    "injuries": 1335
+  },
+  {
+    "state": "Utah",
+    "year": 2015,
+    "incidents": 317,
+    "deaths": 63,
+    "injuries": 99
+  },
+  {
+    "state": "Vermont",
+    "year": 2015,
+    "incidents": 116,
+    "deaths": 13,
+    "injuries": 19
+  },
+  {
+    "state": "Virginia",
+    "year": 2015,
+    "incidents": 1319,
+    "deaths": 312,
+    "injuries": 780
+  },
+  {
+    "state": "Washington",
+    "year": 2015,
+    "incidents": 911,
+    "deaths": 186,
+    "injuries": 300
+  },
+  {
+    "state": "West Virginia",
+    "year": 2015,
+    "incidents": 336,
+    "deaths": 56,
+    "injuries": 154
+  },
+  {
+    "state": "Wisconsin",
+    "year": 2015,
+    "incidents": 1113,
+    "deaths": 219,
+    "injuries": 562
+  },
+  {
+    "state": "Wyoming",
+    "year": 2015,
+    "incidents": 197,
+    "deaths": 20,
+    "injuries": 15
+  },
+  {
+    "state": "Alabama",
+    "year": 2016,
+    "incidents": 1247,
+    "deaths": 442,
+    "injuries": 730
+  },
+  {
+    "state": "Alaska",
+    "year": 2016,
+    "incidents": 418,
+    "deaths": 77,
+    "injuries": 95
+  },
+  {
+    "state": "Arizona",
+    "year": 2016,
+    "incidents": 524,
+    "deaths": 261,
+    "injuries": 270
+  },
+  {
+    "state": "Arkansas",
+    "year": 2016,
+    "incidents": 664,
+    "deaths": 159,
+    "injuries": 316
+  },
+  {
+    "state": "California",
+    "year": 2016,
+    "incidents": 3523,
+    "deaths": 1197,
+    "injuries": 1854
+  },
+  {
+    "state": "Colorado",
+    "year": 2016,
+    "incidents": 742,
+    "deaths": 169,
+    "injuries": 268
+  },
+  {
+    "state": "Connecticut",
+    "year": 2016,
+    "incidents": 772,
+    "deaths": 59,
+    "injuries": 341
+  },
+  {
+    "state": "Delaware",
+    "year": 2016,
+    "incidents": 316,
+    "deaths": 39,
+    "injuries": 182
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2016,
+    "incidents": 464,
+    "deaths": 90,
+    "injuries": 320
+  },
+  {
+    "state": "Florida",
+    "year": 2016,
+    "incidents": 3983,
+    "deaths": 893,
+    "injuries": 1716
+  },
+  {
+    "state": "Georgia",
+    "year": 2016,
+    "incidents": 1585,
+    "deaths": 471,
+    "injuries": 801
+  },
+  {
+    "state": "Hawaii",
+    "year": 2016,
+    "incidents": 76,
+    "deaths": 30,
+    "injuries": 17
+  },
+  {
+    "state": "Idaho",
+    "year": 2016,
+    "incidents": 140,
+    "deaths": 30,
+    "injuries": 35
+  },
+  {
+    "state": "Illinois",
+    "year": 2016,
+    "incidents": 4725,
+    "deaths": 755,
+    "injuries": 3966
+  },
+  {
+    "state": "Indiana",
+    "year": 2016,
+    "incidents": 1356,
+    "deaths": 340,
+    "injuries": 687
+  },
+  {
+    "state": "Iowa",
+    "year": 2016,
+    "incidents": 621,
+    "deaths": 54,
+    "injuries": 183
+  },
+  {
+    "state": "Kansas",
+    "year": 2016,
+    "incidents": 529,
+    "deaths": 103,
+    "injuries": 236
+  },
+  {
+    "state": "Kentucky",
+    "year": 2016,
+    "incidents": 900,
+    "deaths": 252,
+    "injuries": 430
+  },
+  {
+    "state": "Louisiana",
+    "year": 2016,
+    "incidents": 1865,
+    "deaths": 431,
+    "injuries": 998
+  },
+  {
+    "state": "Maine",
+    "year": 2016,
+    "incidents": 231,
+    "deaths": 18,
+    "injuries": 37
+  },
+  {
+    "state": "Maryland",
+    "year": 2016,
+    "incidents": 1236,
+    "deaths": 385,
+    "injuries": 722
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2016,
+    "incidents": 1438,
+    "deaths": 85,
+    "injuries": 425
+  },
+  {
+    "state": "Michigan",
+    "year": 2016,
+    "incidents": 1185,
+    "deaths": 328,
+    "injuries": 629
+  },
+  {
+    "state": "Minnesota",
+    "year": 2016,
+    "incidents": 414,
+    "deaths": 79,
+    "injuries": 196
+  },
+  {
+    "state": "Mississippi",
+    "year": 2016,
+    "incidents": 813,
+    "deaths": 267,
+    "injuries": 472
+  },
+  {
+    "state": "Missouri",
+    "year": 2016,
+    "incidents": 1462,
+    "deaths": 470,
+    "injuries": 791
+  },
+  {
+    "state": "Montana",
+    "year": 2016,
+    "incidents": 154,
+    "deaths": 38,
+    "injuries": 21
+  },
+  {
+    "state": "Nebraska",
+    "year": 2016,
+    "incidents": 361,
+    "deaths": 51,
+    "injuries": 153
+  },
+  {
+    "state": "Nevada",
+    "year": 2016,
+    "incidents": 488,
+    "deaths": 173,
+    "injuries": 264
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2016,
+    "incidents": 252,
+    "deaths": 17,
+    "injuries": 36
+  },
+  {
+    "state": "New Jersey",
+    "year": 2016,
+    "incidents": 1151,
+    "deaths": 262,
+    "injuries": 619
+  },
+  {
+    "state": "New Mexico",
+    "year": 2016,
+    "incidents": 373,
+    "deaths": 110,
+    "injuries": 122
+  },
+  {
+    "state": "New York",
+    "year": 2016,
+    "incidents": 2418,
+    "deaths": 383,
+    "injuries": 1208
+  },
+  {
+    "state": "North Carolina",
+    "year": 2016,
+    "incidents": 1931,
+    "deaths": 490,
+    "injuries": 1114
+  },
+  {
+    "state": "North Dakota",
+    "year": 2016,
+    "incidents": 137,
+    "deaths": 14,
+    "injuries": 30
+  },
+  {
+    "state": "Ohio",
+    "year": 2016,
+    "incidents": 2224,
+    "deaths": 513,
+    "injuries": 1320
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2016,
+    "incidents": 827,
+    "deaths": 198,
+    "injuries": 383
+  },
+  {
+    "state": "Oregon",
+    "year": 2016,
+    "incidents": 517,
+    "deaths": 76,
+    "injuries": 156
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2016,
+    "incidents": 2000,
+    "deaths": 478,
+    "injuries": 1115
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2016,
+    "incidents": 222,
+    "deaths": 9,
+    "injuries": 78
+  },
+  {
+    "state": "South Carolina",
+    "year": 2016,
+    "incidents": 1400,
+    "deaths": 328,
+    "injuries": 681
+  },
+  {
+    "state": "South Dakota",
+    "year": 2016,
+    "incidents": 130,
+    "deaths": 18,
+    "injuries": 28
+  },
+  {
+    "state": "Tennessee",
+    "year": 2016,
+    "incidents": 1819,
+    "deaths": 384,
+    "injuries": 1043
+  },
+  {
+    "state": "Texas",
+    "year": 2016,
+    "incidents": 3250,
+    "deaths": 1100,
+    "injuries": 1401
+  },
+  {
+    "state": "Utah",
+    "year": 2016,
+    "incidents": 222,
+    "deaths": 56,
+    "injuries": 69
+  },
+  {
+    "state": "Vermont",
+    "year": 2016,
+    "incidents": 85,
+    "deaths": 9,
+    "injuries": 8
+  },
+  {
+    "state": "Virginia",
+    "year": 2016,
+    "incidents": 1362,
+    "deaths": 311,
+    "injuries": 892
+  },
+  {
+    "state": "Washington",
+    "year": 2016,
+    "incidents": 701,
+    "deaths": 146,
+    "injuries": 274
+  },
+  {
+    "state": "West Virginia",
+    "year": 2016,
+    "incidents": 348,
+    "deaths": 82,
+    "injuries": 148
+  },
+  {
+    "state": "Wisconsin",
+    "year": 2016,
+    "incidents": 807,
+    "deaths": 194,
+    "injuries": 423
+  },
+  {
+    "state": "Wyoming",
+    "year": 2016,
+    "incidents": 124,
+    "deaths": 17,
+    "injuries": 12
+  },
+  {
+    "state": "Alabama",
+    "year": 2017,
+    "incidents": 1460,
+    "deaths": 543,
+    "injuries": 856
+  },
+  {
+    "state": "Alaska",
+    "year": 2017,
+    "incidents": 303,
+    "deaths": 68,
+    "injuries": 66
+  },
+  {
+    "state": "Arizona",
+    "year": 2017,
+    "incidents": 573,
+    "deaths": 280,
+    "injuries": 294
+  },
+  {
+    "state": "Arkansas",
+    "year": 2017,
+    "incidents": 801,
+    "deaths": 214,
+    "injuries": 430
+  },
+  {
+    "state": "California",
+    "year": 2017,
+    "incidents": 4502,
+    "deaths": 1383,
+    "injuries": 1911
+  },
+  {
+    "state": "Colorado",
+    "year": 2017,
+    "incidents": 786,
+    "deaths": 195,
+    "injuries": 296
+  },
+  {
+    "state": "Connecticut",
+    "year": 2017,
+    "incidents": 753,
+    "deaths": 89,
+    "injuries": 280
+  },
+  {
+    "state": "Delaware",
+    "year": 2017,
+    "incidents": 374,
+    "deaths": 54,
+    "injuries": 234
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2017,
+    "incidents": 1122,
+    "deaths": 99,
+    "injuries": 333
+  },
+  {
+    "state": "Florida",
+    "year": 2017,
+    "incidents": 4055,
+    "deaths": 923,
+    "injuries": 1749
+  },
+  {
+    "state": "Georgia",
+    "year": 2017,
+    "incidents": 1952,
+    "deaths": 637,
+    "injuries": 1042
+  },
+  {
+    "state": "Hawaii",
+    "year": 2017,
+    "incidents": 65,
+    "deaths": 8,
+    "injuries": 18
+  },
+  {
+    "state": "Idaho",
+    "year": 2017,
+    "incidents": 156,
+    "deaths": 45,
+    "injuries": 32
+  },
+  {
+    "state": "Illinois",
+    "year": 2017,
+    "incidents": 4903,
+    "deaths": 914,
+    "injuries": 3503
+  },
+  {
+    "state": "Indiana",
+    "year": 2017,
+    "incidents": 1429,
+    "deaths": 391,
+    "injuries": 710
+  },
+  {
+    "state": "Iowa",
+    "year": 2017,
+    "incidents": 567,
+    "deaths": 67,
+    "injuries": 223
+  },
+  {
+    "state": "Kansas",
+    "year": 2017,
+    "incidents": 560,
+    "deaths": 146,
+    "injuries": 254
+  },
+  {
+    "state": "Kentucky",
+    "year": 2017,
+    "incidents": 1017,
+    "deaths": 270,
+    "injuries": 512
+  },
+  {
+    "state": "Louisiana",
+    "year": 2017,
+    "incidents": 1933,
+    "deaths": 527,
+    "injuries": 1161
+  },
+  {
+    "state": "Maine",
+    "year": 2017,
+    "incidents": 201,
+    "deaths": 33,
+    "injuries": 36
+  },
+  {
+    "state": "Maryland",
+    "year": 2017,
+    "incidents": 1545,
+    "deaths": 472,
+    "injuries": 834
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2017,
+    "incidents": 1720,
+    "deaths": 125,
+    "injuries": 441
+  },
+  {
+    "state": "Michigan",
+    "year": 2017,
+    "incidents": 1333,
+    "deaths": 358,
+    "injuries": 761
+  },
+  {
+    "state": "Minnesota",
+    "year": 2017,
+    "incidents": 744,
+    "deaths": 112,
+    "injuries": 273
+  },
+  {
+    "state": "Mississippi",
+    "year": 2017,
+    "incidents": 1000,
+    "deaths": 316,
+    "injuries": 577
+  },
+  {
+    "state": "Missouri",
+    "year": 2017,
+    "incidents": 1698,
+    "deaths": 592,
+    "injuries": 914
+  },
+  {
+    "state": "Montana",
+    "year": 2017,
+    "incidents": 163,
+    "deaths": 41,
+    "injuries": 33
+  },
+  {
+    "state": "Nebraska",
+    "year": 2017,
+    "incidents": 428,
+    "deaths": 46,
+    "injuries": 145
+  },
+  {
+    "state": "Nevada",
+    "year": 2017,
+    "incidents": 427,
+    "deaths": 196,
+    "injuries": 212
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2017,
+    "incidents": 199,
+    "deaths": 23,
+    "injuries": 27
+  },
+  {
+    "state": "New Jersey",
+    "year": 2017,
+    "incidents": 1303,
+    "deaths": 265,
+    "injuries": 646
+  },
+  {
+    "state": "New Mexico",
+    "year": 2017,
+    "incidents": 436,
+    "deaths": 119,
+    "injuries": 137
+  },
+  {
+    "state": "New York",
+    "year": 2017,
+    "incidents": 1981,
+    "deaths": 339,
+    "injuries": 1072
+  },
+  {
+    "state": "North Carolina",
+    "year": 2017,
+    "incidents": 2083,
+    "deaths": 540,
+    "injuries": 1126
+  },
+  {
+    "state": "North Dakota",
+    "year": 2017,
+    "incidents": 132,
+    "deaths": 15,
+    "injuries": 33
+  },
+  {
+    "state": "Ohio",
+    "year": 2017,
+    "incidents": 2632,
+    "deaths": 678,
+    "injuries": 1470
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2017,
+    "incidents": 833,
+    "deaths": 244,
+    "injuries": 364
+  },
+  {
+    "state": "Oregon",
+    "year": 2017,
+    "incidents": 496,
+    "deaths": 96,
+    "injuries": 165
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2017,
+    "incidents": 2101,
+    "deaths": 615,
+    "injuries": 1154
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2017,
+    "incidents": 189,
+    "deaths": 10,
+    "injuries": 78
+  },
+  {
+    "state": "South Carolina",
+    "year": 2017,
+    "incidents": 1679,
+    "deaths": 382,
+    "injuries": 782
+  },
+  {
+    "state": "South Dakota",
+    "year": 2017,
+    "incidents": 195,
+    "deaths": 18,
+    "injuries": 21
+  },
+  {
+    "state": "Tennessee",
+    "year": 2017,
+    "incidents": 1846,
+    "deaths": 489,
+    "injuries": 1183
+  },
+  {
+    "state": "Texas",
+    "year": 2017,
+    "incidents": 2804,
+    "deaths": 1131,
+    "injuries": 1524
+  },
+  {
+    "state": "Utah",
+    "year": 2017,
+    "incidents": 218,
+    "deaths": 68,
+    "injuries": 106
+  },
+  {
+    "state": "Vermont",
+    "year": 2017,
+    "incidents": 68,
+    "deaths": 9,
+    "injuries": 10
+  },
+  {
+    "state": "Virginia",
+    "year": 2017,
+    "incidents": 1448,
+    "deaths": 381,
+    "injuries": 913
+  },
+  {
+    "state": "Washington",
+    "year": 2017,
+    "incidents": 857,
+    "deaths": 223,
+    "injuries": 341
+  },
+  {
+    "state": "West Virginia",
+    "year": 2017,
+    "incidents": 379,
+    "deaths": 77,
+    "injuries": 152
+  },
+  {
+    "state": "Wisconsin",
+    "year": 2017,
+    "incidents": 1341,
+    "deaths": 199,
+    "injuries": 511
+  },
+  {
+    "state": "Wyoming",
+    "year": 2017,
+    "incidents": 91,
+    "deaths": 9,
+    "injuries": 13
+  },
+  {
+    "state": "Alabama",
+    "year": 2018,
+    "incidents": 316,
+    "deaths": 124,
+    "injuries": 206
+  },
+  {
+    "state": "Alaska",
+    "year": 2018,
+    "incidents": 48,
+    "deaths": 8,
+    "injuries": 13
+  },
+  {
+    "state": "Arizona",
+    "year": 2018,
+    "incidents": 135,
+    "deaths": 80,
+    "injuries": 66
+  },
+  {
+    "state": "Arkansas",
+    "year": 2018,
+    "incidents": 181,
+    "deaths": 41,
+    "injuries": 80
+  },
+  {
+    "state": "California",
+    "year": 2018,
+    "incidents": 997,
+    "deaths": 282,
+    "injuries": 392
+  },
+  {
+    "state": "Colorado",
+    "year": 2018,
+    "incidents": 203,
+    "deaths": 54,
+    "injuries": 73
+  },
+  {
+    "state": "Connecticut",
+    "year": 2018,
+    "incidents": 148,
+    "deaths": 17,
+    "injuries": 52
+  },
+  {
+    "state": "Delaware",
+    "year": 2018,
+    "incidents": 93,
+    "deaths": 8,
+    "injuries": 25
+  },
+  {
+    "state": "District of Columbia",
+    "year": 2018,
+    "incidents": 128,
+    "deaths": 14,
+    "injuries": 49
+  },
+  {
+    "state": "Florida",
+    "year": 2018,
+    "incidents": 744,
+    "deaths": 241,
+    "injuries": 352
+  },
+  {
+    "state": "Georgia",
+    "year": 2018,
+    "incidents": 379,
+    "deaths": 119,
+    "injuries": 182
+  },
+  {
+    "state": "Hawaii",
+    "year": 2018,
+    "incidents": 14,
+    "deaths": 0,
+    "injuries": 6
+  },
+  {
+    "state": "Idaho",
+    "year": 2018,
+    "incidents": 50,
+    "deaths": 14,
+    "injuries": 8
+  },
+  {
+    "state": "Illinois",
+    "year": 2018,
+    "incidents": 719,
+    "deaths": 146,
+    "injuries": 484
+  },
+  {
+    "state": "Indiana",
+    "year": 2018,
+    "incidents": 288,
+    "deaths": 88,
+    "injuries": 113
+  },
+  {
+    "state": "Iowa",
+    "year": 2018,
+    "incidents": 106,
+    "deaths": 9,
+    "injuries": 35
+  },
+  {
+    "state": "Kansas",
+    "year": 2018,
+    "incidents": 143,
+    "deaths": 37,
+    "injuries": 53
+  },
+  {
+    "state": "Kentucky",
+    "year": 2018,
+    "incidents": 205,
+    "deaths": 69,
+    "injuries": 125
+  },
+  {
+    "state": "Louisiana",
+    "year": 2018,
+    "incidents": 374,
+    "deaths": 110,
+    "injuries": 209
+  },
+  {
+    "state": "Maine",
+    "year": 2018,
+    "incidents": 45,
+    "deaths": 7,
+    "injuries": 3
+  },
+  {
+    "state": "Maryland",
+    "year": 2018,
+    "incidents": 320,
+    "deaths": 69,
+    "injuries": 131
+  },
+  {
+    "state": "Massachusetts",
+    "year": 2018,
+    "incidents": 337,
+    "deaths": 22,
+    "injuries": 73
+  },
+  {
+    "state": "Michigan",
+    "year": 2018,
+    "incidents": 562,
+    "deaths": 104,
+    "injuries": 150
+  },
+  {
+    "state": "Minnesota",
+    "year": 2018,
+    "incidents": 263,
+    "deaths": 19,
+    "injuries": 58
+  },
+  {
+    "state": "Mississippi",
+    "year": 2018,
+    "incidents": 237,
+    "deaths": 94,
+    "injuries": 121
+  },
+  {
+    "state": "Missouri",
+    "year": 2018,
+    "incidents": 307,
+    "deaths": 111,
+    "injuries": 173
+  },
+  {
+    "state": "Montana",
+    "year": 2018,
+    "incidents": 39,
+    "deaths": 5,
+    "injuries": 11
+  },
+  {
+    "state": "Nebraska",
+    "year": 2018,
+    "incidents": 89,
+    "deaths": 9,
+    "injuries": 28
+  },
+  {
+    "state": "Nevada",
+    "year": 2018,
+    "incidents": 102,
+    "deaths": 58,
+    "injuries": 53
+  },
+  {
+    "state": "New Hampshire",
+    "year": 2018,
+    "incidents": 46,
+    "deaths": 1,
+    "injuries": 10
+  },
+  {
+    "state": "New Jersey",
+    "year": 2018,
+    "incidents": 188,
+    "deaths": 50,
+    "injuries": 61
+  },
+  {
+    "state": "New Mexico",
+    "year": 2018,
+    "incidents": 77,
+    "deaths": 36,
+    "injuries": 24
+  },
+  {
+    "state": "New York",
+    "year": 2018,
+    "incidents": 293,
+    "deaths": 61,
+    "injuries": 127
+  },
+  {
+    "state": "North Carolina",
+    "year": 2018,
+    "incidents": 430,
+    "deaths": 100,
+    "injuries": 228
+  },
+  {
+    "state": "North Dakota",
+    "year": 2018,
+    "incidents": 25,
+    "deaths": 2,
+    "injuries": 6
+  },
+  {
+    "state": "Ohio",
+    "year": 2018,
+    "incidents": 518,
+    "deaths": 126,
+    "injuries": 242
+  },
+  {
+    "state": "Oklahoma",
+    "year": 2018,
+    "incidents": 183,
+    "deaths": 42,
+    "injuries": 81
+  },
+  {
+    "state": "Oregon",
+    "year": 2018,
+    "incidents": 125,
+    "deaths": 29,
+    "injuries": 36
+  },
+  {
+    "state": "Pennsylvania",
+    "year": 2018,
+    "incidents": 437,
+    "deaths": 121,
+    "injuries": 214
+  },
+  {
+    "state": "Rhode Island",
+    "year": 2018,
+    "incidents": 49,
+    "deaths": 5,
+    "injuries": 13
+  },
+  {
+    "state": "South Carolina",
+    "year": 2018,
+    "incidents": 319,
+    "deaths": 73,
+    "injuries": 172
+  },
+  {
+    "state": "South Dakota",
+    "year": 2018,
+    "incidents": 24,
+    "deaths": 6,
+    "injuries": 10
+  },
+  {
+    "state": "Tennessee",
+    "year": 2018,
+    "incidents": 357,
+    "deaths": 92,
+    "injuries": 201
+  },
+  {
+    "state": "Texas",
+    "year": 2018,
+    "incidents": 621,
+    "deaths": 291,
+    "injuries": 339
+  },
+  {
+    "state": "Utah",
+    "year": 2018,
+    "incidents": 51,
+    "deaths": 8,
+    "injuries": 31
+  },
+  {
+    "state": "Vermont",
+    "year": 2018,
+    "incidents": 19,
+    "deaths": 4,
+    "injuries": 2
+  },
+  {
+    "state": "Virginia",
+    "year": 2018,
+    "incidents": 273,
+    "deaths": 66,
+    "injuries": 179
+  },
+  {
+    "state": "Washington",
+    "year": 2018,
+    "incidents": 184,
+    "deaths": 48,
+    "injuries": 78
+  },
+  {
+    "state": "West Virginia",
+    "year": 2018,
+    "incidents": 72,
+    "deaths": 22,
+    "injuries": 30
+  },
+  {
+    "state": "Wisconsin",
+    "year": 2018,
+    "incidents": 344,
+    "deaths": 40,
+    "injuries": 111
+  },
+  {
+    "state": "Wyoming",
+    "year": 2018,
+    "incidents": 14,
+    "deaths": 10,
+    "injuries": 0
+  },
+  {
+    "state": "USA",
+    "year": 2014,
+    "incidents": 1013,
+    "deaths": 244,
+    "injuries": 449
+  },
+  {
+    "state": "USA",
+    "year": 2015,
+    "incidents": 1042,
+    "deaths": 259,
+    "injuries": 525
+  },
+  {
+    "state": "USA",
+    "year": 2016,
+    "incidents": 1069,
+    "deaths": 253,
+    "injuries": 555
+  },
+  {
+    "state": "USA",
+    "year": 2017,
+    "incidents": 1174,
+    "deaths": 295,
+    "injuries": 587
+  },
+  {
+    "state": "USA",
+    "year": 2018,
+    "incidents": 239,
+    "deaths": 62,
+    "injuries": 108
+  }
+]

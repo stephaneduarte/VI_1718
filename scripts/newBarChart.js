@@ -28,8 +28,8 @@ function makeBarChart() {
                 stackKey = config.key,
                 data = config.data,
                 margin = {top: 0, right: 20, bottom: 30, left: 80},
-                width = 700 - margin.left - margin.right,
-                height = 200 - margin.top - margin.bottom,
+                width = 570 - margin.left - margin.right,
+                height = (35 * finaldata.length), // - margin.top - margin.bottom,
                 xScale = d3.scaleLinear().rangeRound([0, width]),
                 yScale = d3.scaleBand().rangeRound([height, 0]).padding(0.1),
                 xAxis = d3.axisBottom(xScale),
@@ -60,7 +60,28 @@ function makeBarChart() {
                     .data(layers)
                     .enter().append("g")
                     .attr("class", "layer")
-                    .style("fill", function(d, i) { return selectColor(d.key); });
+                    .style("fill", function(d, i) { return selectColor(d.key); })
+                    .on("mouseover", function(d,i) {
+                        d3.select("#barChartTooltip").transition().duration(200).style("opacity", .9);
+                        d3.select("#barChartTooltip").html(tooltipHtml(d, i))  
+                            .style("left", (d3.event.pageX) + "px")     
+                            .style("top", (d3.event.pageY - 28) + "px");
+                    })
+                    .on("mouseout", function(){
+                        d3.select("#barChartTooltip").transition().duration(500).style("opacity", 0);  
+                    });;
+
+                function tooltipHtml(arg1, arg2){	/* function to create html content string in tooltip div. */
+                    var age = arg1.key;
+                    if (age == "earlyadult") age = "Early Adult";
+                    var state = arg1[0].data.state;
+                    var value = Math.round((arg1[0][1] - arg1[0][0]) * 100);
+                    return "<h4>"+age.charAt(0).toUpperCase() + age.slice(1) +"</h4><table>"+
+                        "<tr><td>"+"Percentage:"+"</td><td>"+value+"%</td></tr>"+
+                        "<tr><td>"+"State:"+"</td><td>"+state+"</td></tr>"+
+                        "<tr><td>"+"Year:"+"</td><td>"+currYear+"</td></tr>"+
+                        "</table>";
+                }
         
                 layer.selectAll("rect")
                     .data(function(d) { return d; })
