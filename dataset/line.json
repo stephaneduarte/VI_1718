@@ -1,1822 +1,1718 @@
 [
   {
+    "measure": "incidents",
     "state": "Alabama",
-    "year": 2014,
-    "incidents": 1316,
-    "deaths": 324,
-    "injuries": 590
-  },
+    "values": [
+      {"date": 2014, "value":1316},
+      {"date": 2015, "value":1033},
+      {"date": 2016, "value": 1247},
+      {"date": 2017, "value": 1460},
+      {"date": 2018, "value": 316
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Alaska",
-    "year": 2014,
-    "incidents": 146,
-    "deaths": 29,
-    "injuries": 49
-  },
+    "values": [
+      {"date": 2014, "value":146},
+      {"date": 2015, "value":377},
+      {"date": 2016, "value": 418},
+      {"date": 2017, "value": 303},
+      {"date": 2018, "value": 48
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Arizona",
-    "year": 2014,
-    "incidents": 556,
-    "deaths": 220,
-    "injuries": 222
-  },
+    "values": [
+      {"date": 2014, "value":556},
+      {"date": 2015, "value":478},
+      {"date": 2016, "value": 524},
+      {"date": 2017, "value": 573},
+      {"date": 2018, "value": 135
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Arkansas",
-    "year": 2014,
-    "incidents": 571,
-    "deaths": 167,
-    "injuries": 231
-  },
+    "values": [
+      {"date": 2014, "value":571},
+      {"date": 2015, "value":537},
+      {"date": 2016, "value": 664},
+      {"date": 2017, "value": 801},
+      {"date": 2018, "value": 181
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "California",
-    "year": 2014,
-    "incidents": 3717,
-    "deaths": 1305,
-    "injuries": 1603
-  },
+    "values": [
+      {"date": 2014, "value":3717},
+      {"date": 2015, "value":3215},
+      {"date": 2016, "value": 3523},
+      {"date": 2017, "value": 4502},
+      {"date": 2018, "value": 997
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Colorado",
-    "year": 2014,
-    "incidents": 555,
-    "deaths": 148,
-    "injuries": 162
-  },
+    "values": [
+      {"date": 2014, "value":555},
+      {"date": 2015, "value":782},
+      {"date": 2016, "value": 742},
+      {"date": 2017, "value": 786},
+      {"date": 2018, "value": 203
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Connecticut",
-    "year": 2014,
-    "incidents": 579,
-    "deaths": 73,
-    "injuries": 204
-  },
+    "values": [
+      {"date": 2014, "value":579},
+      {"date": 2015, "value":732},
+      {"date": 2016, "value": 772},
+      {"date": 2017, "value": 753},
+      {"date": 2018, "value": 148
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Delaware",
-    "year": 2014,
-    "incidents": 492,
-    "deaths": 48,
-    "injuries": 181
-  },
+    "values": [
+      {"date": 2014, "value":492},
+      {"date": 2015, "value":365},
+      {"date": 2016, "value": 316},
+      {"date": 2017, "value": 374},
+      {"date": 2018, "value": 93
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "District of Columbia",
-    "year": 2014,
-    "incidents": 838,
-    "deaths": 92,
-    "injuries": 298
-  },
+    "values": [
+      {"date": 2014, "value":838},
+      {"date": 2015, "value":537},
+      {"date": 2016, "value": 464},
+      {"date": 2017, "value": 1122},
+      {"date": 2018, "value": 128
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Florida",
-    "year": 2014,
-    "incidents": 3133,
-    "deaths": 867,
-    "injuries": 1462
-  },
+    "values": [
+      {"date": 2014, "value":3133},
+      {"date": 2015, "value":2691},
+      {"date": 2016, "value": 3983},
+      {"date": 2017, "value": 4055},
+      {"date": 2018, "value": 744
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Georgia",
-    "year": 2014,
-    "incidents": 2032,
-    "deaths": 522,
-    "injuries": 817
-  },
+    "values": [
+      {"date": 2014, "value":2032},
+      {"date": 2015, "value":2766},
+      {"date": 2016, "value": 1585},
+      {"date": 2017, "value": 1952},
+      {"date": 2018, "value": 379
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Hawaii",
-    "year": 2014,
-    "incidents": 47,
-    "deaths": 7,
-    "injuries": 13
-  },
+    "values": [
+      {"date": 2014, "value":47},
+      {"date": 2015, "value":75},
+      {"date": 2016, "value": 76},
+      {"date": 2017, "value": 65},
+      {"date": 2018, "value": 14
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Idaho",
-    "year": 2014,
-    "incidents": 115,
-    "deaths": 31,
-    "injuries": 26
-  },
+    "values": [
+      {"date": 2014, "value":115},
+      {"date": 2015, "value":172},
+      {"date": 2016, "value": 140},
+      {"date": 2017, "value": 156},
+      {"date": 2018, "value": 50
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Illinois",
-    "year": 2014,
-    "incidents": 3075,
-    "deaths": 626,
-    "injuries": 2266
-  },
+    "values": [
+      {"date": 2014, "value":3075},
+      {"date": 2015, "value":3424},
+      {"date": 2016, "value": 4725},
+      {"date": 2017, "value": 4903},
+      {"date": 2018, "value": 719
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Indiana",
-    "year": 2014,
-    "incidents": 1195,
-    "deaths": 325,
-    "injuries": 595
-  },
+    "values": [
+      {"date": 2014, "value":1195},
+      {"date": 2015, "value":1302},
+      {"date": 2016, "value": 1356},
+      {"date": 2017, "value": 1429},
+      {"date": 2018, "value": 288
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Iowa",
-    "year": 2014,
-    "incidents": 566,
-    "deaths": 62,
-    "injuries": 168
-  },
+    "values": [
+      {"date": 2014, "value":566},
+      {"date": 2015, "value":581},
+      {"date": 2016, "value": 621},
+      {"date": 2017, "value": 567},
+      {"date": 2018, "value": 106
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Kansas",
-    "year": 2014,
-    "incidents": 381,
-    "deaths": 94,
-    "injuries": 158
-  },
+    "values": [
+      {"date": 2014, "value":381},
+      {"date": 2015, "value":457},
+      {"date": 2016, "value": 529},
+      {"date": 2017, "value": 560},
+      {"date": 2018, "value": 143
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Kentucky",
-    "year": 2014,
-    "incidents": 976,
-    "deaths": 193,
-    "injuries": 318
-  },
+    "values": [
+      {"date": 2014, "value":976},
+      {"date": 2015, "value":913},
+      {"date": 2016, "value": 900},
+      {"date": 2017, "value": 1017},
+      {"date": 2018, "value": 205
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Louisiana",
-    "year": 2014,
-    "incidents": 1897,
-    "deaths": 460,
-    "injuries": 915
-  },
+    "values": [
+      {"date": 2014, "value":1897},
+      {"date": 2015, "value":1669},
+      {"date": 2016, "value": 1865},
+      {"date": 2017, "value": 1933},
+      {"date": 2018, "value": 374
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Maine",
-    "year": 2014,
-    "incidents": 183,
-    "deaths": 22,
-    "injuries": 25
-  },
+    "values": [
+      {"date": 2014, "value":183},
+      {"date": 2015, "value":231},
+      {"date": 2016, "value": 231},
+      {"date": 2017, "value": 201},
+      {"date": 2018, "value": 45
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Maryland",
-    "year": 2014,
-    "incidents": 1261,
-    "deaths": 291,
-    "injuries": 601
-  },
+    "values": [
+      {"date": 2014, "value":1261},
+      {"date": 2015, "value":1280},
+      {"date": 2016, "value": 1236},
+      {"date": 2017, "value": 1545},
+      {"date": 2018, "value": 320
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Massachusetts",
-    "year": 2014,
-    "incidents": 966,
-    "deaths": 100,
-    "injuries": 314
-  },
+    "values": [
+      {"date": 2014, "value":966},
+      {"date": 2015, "value":1331},
+      {"date": 2016, "value": 1438},
+      {"date": 2017, "value": 1720},
+      {"date": 2018, "value": 337
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Michigan",
-    "year": 2014,
-    "incidents": 1442,
-    "deaths": 343,
-    "injuries": 629
-  },
+    "values": [
+      {"date": 2014, "value":1442},
+      {"date": 2015, "value":1245},
+      {"date": 2016, "value": 1185},
+      {"date": 2017, "value": 1333},
+      {"date": 2018, "value": 562
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Minnesota",
-    "year": 2014,
-    "incidents": 450,
-    "deaths": 86,
-    "injuries": 193
-  },
+    "values": [
+      {"date": 2014, "value":450},
+      {"date": 2015, "value":406},
+      {"date": 2016, "value": 414},
+      {"date": 2017, "value": 744},
+      {"date": 2018, "value": 263
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Mississippi",
-    "year": 2014,
-    "incidents": 784,
-    "deaths": 231,
-    "injuries": 317
-  },
+    "values": [
+      {"date": 2014, "value":784},
+      {"date": 2015, "value":661},
+      {"date": 2016, "value": 813},
+      {"date": 2017, "value": 1000},
+      {"date": 2018, "value": 237
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Missouri",
-    "year": 2014,
-    "incidents": 1272,
-    "deaths": 383,
-    "injuries": 647
-  },
+    "values": [
+      {"date": 2014, "value":1272},
+      {"date": 2015, "value":1696},
+      {"date": 2016, "value": 1462},
+      {"date": 2017, "value": 1698},
+      {"date": 2018, "value": 307
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Montana",
-    "year": 2014,
-    "incidents": 128,
-    "deaths": 32,
-    "injuries": 30
-  },
+    "values": [
+      {"date": 2014, "value":128},
+      {"date": 2015, "value":137},
+      {"date": 2016, "value": 154},
+      {"date": 2017, "value": 163},
+      {"date": 2018, "value": 39
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Nebraska",
-    "year": 2014,
-    "incidents": 346,
-    "deaths": 50,
-    "injuries": 148
-  },
+    "values": [
+      {"date": 2014, "value":346},
+      {"date": 2015, "value":371},
+      {"date": 2016, "value": 361},
+      {"date": 2017, "value": 428},
+      {"date": 2018, "value": 89
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Nevada",
-    "year": 2014,
-    "incidents": 375,
-    "deaths": 149,
-    "injuries": 152
-  },
+    "values": [
+      {"date": 2014, "value":375},
+      {"date": 2015, "value":486},
+      {"date": 2016, "value": 488},
+      {"date": 2017, "value": 427},
+      {"date": 2018, "value": 102
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "New Hampshire",
-    "year": 2014,
-    "incidents": 229,
-    "deaths": 22,
-    "injuries": 38
-  },
+    "values": [
+      {"date": 2014, "value":229},
+      {"date": 2015, "value":208},
+      {"date": 2016, "value": 252},
+      {"date": 2017, "value": 199},
+      {"date": 2018, "value": 46
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "New Jersey",
-    "year": 2014,
-    "incidents": 1515,
-    "deaths": 272,
-    "injuries": 627
-  },
+    "values": [
+      {"date": 2014, "value":1515},
+      {"date": 2015, "value":1059},
+      {"date": 2016, "value": 1151},
+      {"date": 2017, "value": 1303},
+      {"date": 2018, "value": 188
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "New Mexico",
-    "year": 2014,
-    "incidents": 318,
-    "deaths": 90,
-    "injuries": 82
-  },
+    "values": [
+      {"date": 2014, "value":318},
+      {"date": 2015, "value":392},
+      {"date": 2016, "value": 373},
+      {"date": 2017, "value": 436},
+      {"date": 2018, "value": 77
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "New York",
-    "year": 2014,
-    "incidents": 1897,
-    "deaths": 396,
-    "injuries": 962
-  },
+    "values": [
+      {"date": 2014, "value":1897},
+      {"date": 2015, "value":2891},
+      {"date": 2016, "value": 2418},
+      {"date": 2017, "value": 1981},
+      {"date": 2018, "value": 293
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "North Carolina",
-    "year": 2014,
-    "incidents": 2161,
-    "deaths": 485,
-    "injuries": 883
-  },
+    "values": [
+      {"date": 2014, "value":2161},
+      {"date": 2015, "value":1848},
+      {"date": 2016, "value": 1931},
+      {"date": 2017, "value": 2083},
+      {"date": 2018, "value": 430
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "North Dakota",
-    "year": 2014,
-    "incidents": 110,
-    "deaths": 15,
-    "injuries": 24
-  },
+    "values": [
+      {"date": 2014, "value":110},
+      {"date": 2015, "value":149},
+      {"date": 2016, "value": 137},
+      {"date": 2017, "value": 132},
+      {"date": 2018, "value": 25
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Ohio",
-    "year": 2014,
-    "incidents": 2362,
-    "deaths": 489,
-    "injuries": 1120
-  },
+    "values": [
+      {"date": 2014, "value":2362},
+      {"date": 2015, "value":2089},
+      {"date": 2016, "value": 2224},
+      {"date": 2017, "value": 2632},
+      {"date": 2018, "value": 518
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Oklahoma",
-    "year": 2014,
-    "incidents": 642,
-    "deaths": 171,
-    "injuries": 238
-  },
+    "values": [
+      {"date": 2014, "value":642},
+      {"date": 2015, "value":832},
+      {"date": 2016, "value": 827},
+      {"date": 2017, "value": 833},
+      {"date": 2018, "value": 183
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Oregon",
-    "year": 2014,
-    "incidents": 398,
-    "deaths": 96,
-    "injuries": 126
-  },
+    "values": [
+      {"date": 2014, "value":398},
+      {"date": 2015, "value":681},
+      {"date": 2016, "value": 517},
+      {"date": 2017, "value": 496},
+      {"date": 2018, "value": 125
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Pennsylvania",
-    "year": 2014,
-    "incidents": 2258,
-    "deaths": 540,
-    "injuries": 1284
-  },
+    "values": [
+      {"date": 2014, "value":2258},
+      {"date": 2015, "value":1757},
+      {"date": 2016, "value": 2000},
+      {"date": 2017, "value": 2101},
+      {"date": 2018, "value": 437
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Rhode Island",
-    "year": 2014,
-    "incidents": 188,
-    "deaths": 17,
-    "injuries": 75
-  },
+    "values": [
+      {"date": 2014, "value":188},
+      {"date": 2015, "value":225},
+      {"date": 2016, "value": 222},
+      {"date": 2017, "value": 189},
+      {"date": 2018, "value": 49
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "South Carolina",
-    "year": 2014,
-    "incidents": 1658,
-    "deaths": 342,
-    "injuries": 626
-  },
+    "values": [
+      {"date": 2014, "value":1658},
+      {"date": 2015, "value":1688},
+      {"date": 2016, "value": 1400},
+      {"date": 2017, "value": 1679},
+      {"date": 2018, "value": 319
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "South Dakota",
-    "year": 2014,
-    "incidents": 71,
-    "deaths": 15,
-    "injuries": 20
-  },
+    "values": [
+      {"date": 2014, "value":71},
+      {"date": 2015, "value":101},
+      {"date": 2016, "value": 130},
+      {"date": 2017, "value": 195},
+      {"date": 2018, "value": 24
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Tennessee",
-    "year": 2014,
-    "incidents": 1585,
-    "deaths": 349,
-    "injuries": 853
-  },
+    "values": [
+      {"date": 2014, "value":1585},
+      {"date": 2015, "value":1752},
+      {"date": 2016, "value": 1819},
+      {"date": 2017, "value": 1846},
+      {"date": 2018, "value": 357
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Texas",
-    "year": 2014,
-    "incidents": 3114,
-    "deaths": 1078,
-    "injuries": 1153
-  },
+    "values": [
+      {"date": 2014, "value":3114},
+      {"date": 2015, "value":3217},
+      {"date": 2016, "value": 3250},
+      {"date": 2017, "value": 2804},
+      {"date": 2018, "value": 621
+    }
+  ]},
   {
+    "measure": "incidents",
+    "state": "USA",
+    "values": [
+      {"date": 2014, "value":1013},
+      {"date": 2015, "value":1042},
+      {"date": 2016, "value": 1069},
+      {"date": 2017, "value": 1174},
+      {"date": 2018, "value": 239
+    }
+  ]},
+  {
+    "measure": "incidents",
     "state": "Utah",
-    "year": 2014,
-    "incidents": 215,
-    "deaths": 60,
-    "injuries": 69
-  },
+    "values": [
+      {"date": 2014, "value":215},
+      {"date": 2015, "value":317},
+      {"date": 2016, "value": 222},
+      {"date": 2017, "value": 218},
+      {"date": 2018, "value": 51
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Vermont",
-    "year": 2014,
-    "incidents": 169,
-    "deaths": 18,
-    "injuries": 28
-  },
+    "values": [
+      {"date": 2014, "value":169},
+      {"date": 2015, "value":116},
+      {"date": 2016, "value": 85},
+      {"date": 2017, "value": 68},
+      {"date": 2018, "value": 19
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Virginia",
-    "year": 2014,
-    "incidents": 1270,
-    "deaths": 282,
-    "injuries": 578
-  },
+    "values": [
+      {"date": 2014, "value":1270},
+      {"date": 2015, "value":1319},
+      {"date": 2016, "value": 1362},
+      {"date": 2017, "value": 1448},
+      {"date": 2018, "value": 273
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Washington",
-    "year": 2014,
-    "incidents": 653,
-    "deaths": 179,
-    "injuries": 235
-  },
+    "values": [
+      {"date": 2014, "value":653},
+      {"date": 2015, "value":911},
+      {"date": 2016, "value": 701},
+      {"date": 2017, "value": 857},
+      {"date": 2018, "value": 184
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "West Virginia",
-    "year": 2014,
-    "incidents": 361,
-    "deaths": 70,
-    "injuries": 119
-  },
+    "values": [
+      {"date": 2014, "value":361},
+      {"date": 2015, "value":336},
+      {"date": 2016, "value": 348},
+      {"date": 2017, "value": 379},
+      {"date": 2018, "value": 72
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Wisconsin",
-    "year": 2014,
-    "incidents": 1064,
-    "deaths": 163,
-    "injuries": 461
-  },
+    "values": [
+      {"date": 2014, "value":1064},
+      {"date": 2015, "value":1113},
+      {"date": 2016, "value": 807},
+      {"date": 2017, "value": 1341},
+      {"date": 2018, "value": 344
+    }
+  ]},
   {
+    "measure": "incidents",
     "state": "Wyoming",
-    "year": 2014,
-    "incidents": 64,
-    "deaths": 15,
-    "injuries": 12
-  },
+    "values": [
+      {"date": 2014, "value":64},
+      {"date": 2015, "value":197},
+      {"date": 2016, "value": 124},
+      {"date": 2017, "value": 91},
+      {"date": 2018, "value": 14
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Alabama",
-    "year": 2015,
-    "incidents": 1033,
-    "deaths": 385,
-    "injuries": 561
-  },
+    "values": [
+      {"date": 2014, "value": 324},
+      {"date": 2015, "value": 385},
+      {"date": 2016, "value": 442},
+      {"date": 2017, "value": 543},
+      {"date": 2018, "value": 124
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Alaska",
-    "year": 2015,
-    "incidents": 377,
-    "deaths": 68,
-    "injuries": 84
-  },
+    "values": [
+      {"date": 2014, "value": 29},
+      {"date": 2015, "value": 68},
+      {"date": 2016, "value": 77},
+      {"date": 2017, "value": 68},
+      {"date": 2018, "value": 8
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Arizona",
-    "year": 2015,
-    "incidents": 478,
-    "deaths": 214,
-    "injuries": 192
-  },
+    "values": [
+      {"date": 2014, "value": 220},
+      {"date": 2015, "value": 214},
+      {"date": 2016, "value": 261},
+      {"date": 2017, "value": 280},
+      {"date": 2018, "value": 80
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Arkansas",
-    "year": 2015,
-    "incidents": 537,
-    "deaths": 154,
-    "injuries": 245
-  },
+    "values": [
+      {"date": 2014, "value": 167},
+      {"date": 2015, "value": 154},
+      {"date": 2016, "value": 159},
+      {"date": 2017, "value": 214},
+      {"date": 2018, "value": 41
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "California",
-    "year": 2015,
-    "incidents": 3215,
-    "deaths": 1185,
-    "injuries": 1607
-  },
+    "values": [
+      {"date": 2014, "value": 1305},
+      {"date": 2015, "value": 1185},
+      {"date": 2016, "value": 1197},
+      {"date": 2017, "value": 1383},
+      {"date": 2018, "value": 282
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Colorado",
-    "year": 2015,
-    "incidents": 782,
-    "deaths": 172,
-    "injuries": 280
-  },
+    "values": [
+      {"date": 2014, "value": 148},
+      {"date": 2015, "value": 172},
+      {"date": 2016, "value": 169},
+      {"date": 2017, "value": 195},
+      {"date": 2018, "value": 54
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Connecticut",
-    "year": 2015,
-    "incidents": 732,
-    "deaths": 86,
-    "injuries": 331
-  },
+    "values": [
+      {"date": 2014, "value": 73},
+      {"date": 2015, "value": 86},
+      {"date": 2016, "value": 59},
+      {"date": 2017, "value": 89},
+      {"date": 2018, "value": 17
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Delaware",
-    "year": 2015,
-    "incidents": 365,
-    "deaths": 57,
-    "injuries": 206
-  },
+    "values": [
+      {"date": 2014, "value": 48},
+      {"date": 2015, "value": 57},
+      {"date": 2016, "value": 39},
+      {"date": 2017, "value": 54},
+      {"date": 2018, "value": 8
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "District of Columbia",
-    "year": 2015,
-    "incidents": 537,
-    "deaths": 123,
-    "injuries": 345
-  },
+    "values": [
+      {"date": 2014, "value": 92},
+      {"date": 2015, "value": 123},
+      {"date": 2016, "value": 90},
+      {"date": 2017, "value": 99},
+      {"date": 2018, "value": 14
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Florida",
-    "year": 2015,
-    "incidents": 2691,
-    "deaths": 789,
-    "injuries": 1543
-  },
+    "values": [
+      {"date": 2014, "value": 867},
+      {"date": 2015, "value": 789},
+      {"date": 2016, "value": 893},
+      {"date": 2017, "value": 923},
+      {"date": 2018, "value": 241
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Georgia",
-    "year": 2015,
-    "incidents": 2766,
-    "deaths": 594,
-    "injuries": 1096
-  },
+    "values": [
+      {"date": 2014, "value": 522},
+      {"date": 2015, "value": 594},
+      {"date": 2016, "value": 471},
+      {"date": 2017, "value": 637},
+      {"date": 2018, "value": 119
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Hawaii",
-    "year": 2015,
-    "incidents": 75,
-    "deaths": 12,
-    "injuries": 27
-  },
+    "values": [
+      {"date": 2014, "value": 7},
+      {"date": 2015, "value": 12},
+      {"date": 2016, "value": 30},
+      {"date": 2017, "value": 8},
+      {"date": 2018, "value": 0
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Idaho",
-    "year": 2015,
-    "incidents": 172,
-    "deaths": 38,
-    "injuries": 34
-  },
+    "values": [
+      {"date": 2014, "value": 31},
+      {"date": 2015, "value": 38},
+      {"date": 2016, "value": 30},
+      {"date": 2017, "value": 45},
+      {"date": 2018, "value": 14
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Illinois",
-    "year": 2015,
-    "incidents": 3424,
-    "deaths": 669,
-    "injuries": 2810
-  },
+    "values": [
+      {"date": 2014, "value": 626},
+      {"date": 2015, "value": 669},
+      {"date": 2016, "value": 755},
+      {"date": 2017, "value": 914},
+      {"date": 2018, "value": 146
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Indiana",
-    "year": 2015,
-    "incidents": 1302,
-    "deaths": 332,
-    "injuries": 694
-  },
+    "values": [
+      {"date": 2014, "value": 325},
+      {"date": 2015, "value": 332},
+      {"date": 2016, "value": 340},
+      {"date": 2017, "value": 391},
+      {"date": 2018, "value": 88
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Iowa",
-    "year": 2015,
-    "incidents": 581,
-    "deaths": 58,
-    "injuries": 192
-  },
+    "values": [
+      {"date": 2014, "value": 62},
+      {"date": 2015, "value": 58},
+      {"date": 2016, "value": 54},
+      {"date": 2017, "value": 67},
+      {"date": 2018, "value": 9
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Kansas",
-    "year": 2015,
-    "incidents": 457,
-    "deaths": 126,
-    "injuries": 187
-  },
+    "values": [
+      {"date": 2014, "value": 94},
+      {"date": 2015, "value": 126},
+      {"date": 2016, "value": 103},
+      {"date": 2017, "value": 146},
+      {"date": 2018, "value": 37
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Kentucky",
-    "year": 2015,
-    "incidents": 913,
-    "deaths": 230,
-    "injuries": 424
-  },
+    "values": [
+      {"date": 2014, "value": 193},
+      {"date": 2015, "value": 230},
+      {"date": 2016, "value": 252},
+      {"date": 2017, "value": 270},
+      {"date": 2018, "value": 69
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Louisiana",
-    "year": 2015,
-    "incidents": 1669,
-    "deaths": 485,
-    "injuries": 890
-  },
+    "values": [
+      {"date": 2014, "value": 460},
+      {"date": 2015, "value": 485},
+      {"date": 2016, "value": 431},
+      {"date": 2017, "value": 527},
+      {"date": 2018, "value": 110
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Maine",
-    "year": 2015,
-    "incidents": 231,
-    "deaths": 31,
-    "injuries": 31
-  },
+    "values": [
+      {"date": 2014, "value": 22},
+      {"date": 2015, "value": 31},
+      {"date": 2016, "value": 18},
+      {"date": 2017, "value": 33},
+      {"date": 2018, "value": 7
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Maryland",
-    "year": 2015,
-    "incidents": 1280,
-    "deaths": 402,
-    "injuries": 783
-  },
+    "values": [
+      {"date": 2014, "value": 291},
+      {"date": 2015, "value": 402},
+      {"date": 2016, "value": 385},
+      {"date": 2017, "value": 472},
+      {"date": 2018, "value": 69
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Massachusetts",
-    "year": 2015,
-    "incidents": 1331,
-    "deaths": 109,
-    "injuries": 382
-  },
+    "values": [
+      {"date": 2014, "value": 100},
+      {"date": 2015, "value": 109},
+      {"date": 2016, "value": 85},
+      {"date": 2017, "value": 125},
+      {"date": 2018, "value": 22
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Michigan",
-    "year": 2015,
-    "incidents": 1245,
-    "deaths": 338,
-    "injuries": 626
-  },
+    "values": [
+      {"date": 2014, "value": 343},
+      {"date": 2015, "value": 338},
+      {"date": 2016, "value": 328},
+      {"date": 2017, "value": 358},
+      {"date": 2018, "value": 104
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Minnesota",
-    "year": 2015,
-    "incidents": 406,
-    "deaths": 120,
-    "injuries": 153
-  },
+    "values": [
+      {"date": 2014, "value": 86},
+      {"date": 2015, "value": 120},
+      {"date": 2016, "value": 79},
+      {"date": 2017, "value": 112},
+      {"date": 2018, "value": 19
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Mississippi",
-    "year": 2015,
-    "incidents": 661,
-    "deaths": 223,
-    "injuries": 334
-  },
+    "values": [
+      {"date": 2014, "value": 231},
+      {"date": 2015, "value": 223},
+      {"date": 2016, "value": 267},
+      {"date": 2017, "value": 316},
+      {"date": 2018, "value": 94
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Missouri",
-    "year": 2015,
-    "incidents": 1696,
-    "deaths": 488,
-    "injuries": 921
-  },
+    "values": [
+      {"date": 2014, "value": 383},
+      {"date": 2015, "value": 488},
+      {"date": 2016, "value": 470},
+      {"date": 2017, "value": 592},
+      {"date": 2018, "value": 111
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Montana",
-    "year": 2015,
-    "incidents": 137,
-    "deaths": 32,
-    "injuries": 35
-  },
+    "values": [
+      {"date": 2014, "value": 32},
+      {"date": 2015, "value": 32},
+      {"date": 2016, "value": 38},
+      {"date": 2017, "value": 41},
+      {"date": 2018, "value": 5
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Nebraska",
-    "year": 2015,
-    "incidents": 371,
-    "deaths": 57,
-    "injuries": 176
-  },
+    "values": [
+      {"date": 2014, "value": 50},
+      {"date": 2015, "value": 57},
+      {"date": 2016, "value": 51},
+      {"date": 2017, "value": 46},
+      {"date": 2018, "value": 9
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Nevada",
-    "year": 2015,
-    "incidents": 486,
-    "deaths": 178,
-    "injuries": 234
-  },
+    "values": [
+      {"date": 2014, "value": 149},
+      {"date": 2015, "value": 178},
+      {"date": 2016, "value": 173},
+      {"date": 2017, "value": 196},
+      {"date": 2018, "value": 58
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "New Hampshire",
-    "year": 2015,
-    "incidents": 208,
-    "deaths": 22,
-    "injuries": 26
-  },
+    "values": [
+      {"date": 2014, "value": 22},
+      {"date": 2015, "value": 22},
+      {"date": 2016, "value": 17},
+      {"date": 2017, "value": 23},
+      {"date": 2018, "value": 1
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "New Jersey",
-    "year": 2015,
-    "incidents": 1059,
-    "deaths": 247,
-    "injuries": 490
-  },
+    "values": [
+      {"date": 2014, "value": 272},
+      {"date": 2015, "value": 247},
+      {"date": 2016, "value": 262},
+      {"date": 2017, "value": 265},
+      {"date": 2018, "value": 50
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "New Mexico",
-    "year": 2015,
-    "incidents": 392,
-    "deaths": 116,
-    "injuries": 159
-  },
+    "values": [
+      {"date": 2014, "value": 90},
+      {"date": 2015, "value": 116},
+      {"date": 2016, "value": 110},
+      {"date": 2017, "value": 119},
+      {"date": 2018, "value": 36
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "New York",
-    "year": 2015,
-    "incidents": 2891,
-    "deaths": 459,
-    "injuries": 1517
-  },
+    "values": [
+      {"date": 2014, "value": 396},
+      {"date": 2015, "value": 459},
+      {"date": 2016, "value": 383},
+      {"date": 2017, "value": 339},
+      {"date": 2018, "value": 61
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "North Carolina",
-    "year": 2015,
-    "incidents": 1848,
-    "deaths": 490,
-    "injuries": 1091
-  },
+    "values": [
+      {"date": 2014, "value": 485},
+      {"date": 2015, "value": 490},
+      {"date": 2016, "value": 490},
+      {"date": 2017, "value": 540},
+      {"date": 2018, "value": 100
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "North Dakota",
-    "year": 2015,
-    "incidents": 149,
-    "deaths": 18,
-    "injuries": 33
-  },
+    "values": [
+      {"date": 2014, "value": 15},
+      {"date": 2015, "value": 18},
+      {"date": 2016, "value": 14},
+      {"date": 2017, "value": 15},
+      {"date": 2018, "value": 2
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Ohio",
-    "year": 2015,
-    "incidents": 2089,
-    "deaths": 510,
-    "injuries": 1293
-  },
+    "values": [
+      {"date": 2014, "value": 489},
+      {"date": 2015, "value": 510},
+      {"date": 2016, "value": 513},
+      {"date": 2017, "value": 678},
+      {"date": 2018, "value": 126
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Oklahoma",
-    "year": 2015,
-    "incidents": 832,
-    "deaths": 216,
-    "injuries": 407
-  },
+    "values": [
+      {"date": 2014, "value": 171},
+      {"date": 2015, "value": 216},
+      {"date": 2016, "value": 198},
+      {"date": 2017, "value": 244},
+      {"date": 2018, "value": 42
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Oregon",
-    "year": 2015,
-    "incidents": 681,
-    "deaths": 122,
-    "injuries": 190
-  },
+    "values": [
+      {"date": 2014, "value": 96},
+      {"date": 2015, "value": 122},
+      {"date": 2016, "value": 76},
+      {"date": 2017, "value": 96},
+      {"date": 2018, "value": 29
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Pennsylvania",
-    "year": 2015,
-    "incidents": 1757,
-    "deaths": 488,
-    "injuries": 1057
-  },
+    "values": [
+      {"date": 2014, "value": 540},
+      {"date": 2015, "value": 488},
+      {"date": 2016, "value": 478},
+      {"date": 2017, "value": 615},
+      {"date": 2018, "value": 121
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Rhode Island",
-    "year": 2015,
-    "incidents": 225,
-    "deaths": 14,
-    "injuries": 87
-  },
+    "values": [
+      {"date": 2014, "value": 17},
+      {"date": 2015, "value": 14},
+      {"date": 2016, "value": 9},
+      {"date": 2017, "value": 10},
+      {"date": 2018, "value": 5
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "South Carolina",
-    "year": 2015,
-    "incidents": 1688,
-    "deaths": 382,
-    "injuries": 737
-  },
+    "values": [
+      {"date": 2014, "value": 342},
+      {"date": 2015, "value": 382},
+      {"date": 2016, "value": 328},
+      {"date": 2017, "value": 382},
+      {"date": 2018, "value": 73
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "South Dakota",
-    "year": 2015,
-    "incidents": 101,
-    "deaths": 25,
-    "injuries": 28
-  },
+    "values": [
+      {"date": 2014, "value": 15},
+      {"date": 2015, "value": 25},
+      {"date": 2016, "value": 18},
+      {"date": 2017, "value": 18},
+      {"date": 2018, "value": 6
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Tennessee",
-    "year": 2015,
-    "incidents": 1752,
-    "deaths": 388,
-    "injuries": 1015
-  },
+    "values": [
+      {"date": 2014, "value": 349},
+      {"date": 2015, "value": 388},
+      {"date": 2016, "value": 384},
+      {"date": 2017, "value": 489},
+      {"date": 2018, "value": 92
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Texas",
-    "year": 2015,
-    "incidents": 3217,
-    "deaths": 1091,
-    "injuries": 1335
-  },
+    "values": [
+      {"date": 2014, "value": 1078},
+      {"date": 2015, "value": 1091},
+      {"date": 2016, "value": 1100},
+      {"date": 2017, "value": 1131},
+      {"date": 2018, "value": 291
+    }
+  ]},
   {
+    "measure": "deaths",
+    "state": "USA",
+    "values": [
+      {"date": 2014, "value": 244},
+      {"date": 2015, "value": 259},
+      {"date": 2016, "value": 253},
+      {"date": 2017, "value": 295},
+      {"date": 2018, "value": 62
+    }
+  ]},
+  {
+    "measure": "deaths",
     "state": "Utah",
-    "year": 2015,
-    "incidents": 317,
-    "deaths": 63,
-    "injuries": 99
-  },
+    "values": [
+      {"date": 2014, "value": 60},
+      {"date": 2015, "value": 63},
+      {"date": 2016, "value": 56},
+      {"date": 2017, "value": 68},
+      {"date": 2018, "value": 8
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Vermont",
-    "year": 2015,
-    "incidents": 116,
-    "deaths": 13,
-    "injuries": 19
-  },
+    "values": [
+      {"date": 2014, "value": 18},
+      {"date": 2015, "value": 13},
+      {"date": 2016, "value": 9},
+      {"date": 2017, "value": 9},
+      {"date": 2018, "value": 4
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Virginia",
-    "year": 2015,
-    "incidents": 1319,
-    "deaths": 312,
-    "injuries": 780
-  },
+    "values": [
+      {"date": 2014, "value": 282},
+      {"date": 2015, "value": 312},
+      {"date": 2016, "value": 311},
+      {"date": 2017, "value": 381},
+      {"date": 2018, "value": 66
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Washington",
-    "year": 2015,
-    "incidents": 911,
-    "deaths": 186,
-    "injuries": 300
-  },
+    "values": [
+      {"date": 2014, "value": 179},
+      {"date": 2015, "value": 186},
+      {"date": 2016, "value": 146},
+      {"date": 2017, "value": 223},
+      {"date": 2018, "value": 48
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "West Virginia",
-    "year": 2015,
-    "incidents": 336,
-    "deaths": 56,
-    "injuries": 154
-  },
+    "values": [
+      {"date": 2014, "value": 70},
+      {"date": 2015, "value": 56},
+      {"date": 2016, "value": 82},
+      {"date": 2017, "value": 77},
+      {"date": 2018, "value": 22
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Wisconsin",
-    "year": 2015,
-    "incidents": 1113,
-    "deaths": 219,
-    "injuries": 562
-  },
+    "values": [
+      {"date": 2014, "value": 163},
+      {"date": 2015, "value": 219},
+      {"date": 2016, "value": 194},
+      {"date": 2017, "value": 199},
+      {"date": 2018, "value": 40
+    }
+  ]},
   {
+    "measure": "deaths",
     "state": "Wyoming",
-    "year": 2015,
-    "incidents": 197,
-    "deaths": 20,
-    "injuries": 15
-  },
+    "values": [
+      {"date": 2014, "value": 15},
+      {"date": 2015, "value": 20},
+      {"date": 2016, "value": 17},
+      {"date": 2017, "value": 9},
+      {"date": 2018, "value": 10
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Alabama",
-    "year": 2016,
-    "incidents": 1247,
-    "deaths": 442,
-    "injuries": 730
-  },
+    "values": [
+      {"date": 2014, "value": 590},
+      {"date": 2015, "value": 561},
+      {"date": 2016, "value": 730},
+      {"date": 2017, "value": 856},
+      {"date": 2018, "value": 206
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Alaska",
-    "year": 2016,
-    "incidents": 418,
-    "deaths": 77,
-    "injuries": 95
-  },
+    "values": [
+      {"date": 2014, "value": 49},
+      {"date": 2015, "value": 84},
+      {"date": 2016, "value": 95},
+      {"date": 2017, "value": 66},
+      {"date": 2018, "value": 13
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Arizona",
-    "year": 2016,
-    "incidents": 524,
-    "deaths": 261,
-    "injuries": 270
-  },
+    "values": [
+      {"date": 2014, "value": 222},
+      {"date": 2015, "value": 192},
+      {"date": 2016, "value": 270},
+      {"date": 2017, "value": 294},
+      {"date": 2018, "value": 66
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Arkansas",
-    "year": 2016,
-    "incidents": 664,
-    "deaths": 159,
-    "injuries": 316
-  },
+    "values": [
+      {"date": 2014, "value": 231},
+      {"date": 2015, "value": 245},
+      {"date": 2016, "value": 316},
+      {"date": 2017, "value": 430},
+      {"date": 2018, "value": 80
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "California",
-    "year": 2016,
-    "incidents": 3523,
-    "deaths": 1197,
-    "injuries": 1854
-  },
+    "values": [
+      {"date": 2014, "value": 1603},
+      {"date": 2015, "value": 1607},
+      {"date": 2016, "value": 1854},
+      {"date": 2017, "value": 1911},
+      {"date": 2018, "value": 392
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Colorado",
-    "year": 2016,
-    "incidents": 742,
-    "deaths": 169,
-    "injuries": 268
-  },
+    "values": [
+      {"date": 2014, "value": 162},
+      {"date": 2015, "value": 280},
+      {"date": 2016, "value": 268},
+      {"date": 2017, "value": 296},
+      {"date": 2018, "value": 73
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Connecticut",
-    "year": 2016,
-    "incidents": 772,
-    "deaths": 59,
-    "injuries": 341
-  },
+    "values": [
+      {"date": 2014, "value": 204},
+      {"date": 2015, "value": 331},
+      {"date": 2016, "value": 341},
+      {"date": 2017, "value": 280},
+      {"date": 2018, "value": 52
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Delaware",
-    "year": 2016,
-    "incidents": 316,
-    "deaths": 39,
-    "injuries": 182
-  },
+    "values": [
+      {"date": 2014, "value": 181},
+      {"date": 2015, "value": 206},
+      {"date": 2016, "value": 182},
+      {"date": 2017, "value": 234},
+      {"date": 2018, "value": 25
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "District of Columbia",
-    "year": 2016,
-    "incidents": 464,
-    "deaths": 90,
-    "injuries": 320
-  },
+    "values": [
+      {"date": 2014, "value": 298},
+      {"date": 2015, "value": 345},
+      {"date": 2016, "value": 320},
+      {"date": 2017, "value": 333},
+      {"date": 2018, "value": 49
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Florida",
-    "year": 2016,
-    "incidents": 3983,
-    "deaths": 893,
-    "injuries": 1716
-  },
+    "values": [
+      {"date": 2014, "value": 1462},
+      {"date": 2015, "value": 1543},
+      {"date": 2016, "value": 1716},
+      {"date": 2017, "value": 1749},
+      {"date": 2018, "value": 352
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Georgia",
-    "year": 2016,
-    "incidents": 1585,
-    "deaths": 471,
-    "injuries": 801
-  },
+    "values": [
+      {"date": 2014, "value": 817},
+      {"date": 2015, "value": 1096},
+      {"date": 2016, "value": 801},
+      {"date": 2017, "value": 1042},
+      {"date": 2018, "value": 182
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Hawaii",
-    "year": 2016,
-    "incidents": 76,
-    "deaths": 30,
-    "injuries": 17
-  },
+    "values": [
+      {"date": 2014, "value": 13},
+      {"date": 2015, "value": 27},
+      {"date": 2016, "value": 17},
+      {"date": 2017, "value": 18},
+      {"date": 2018, "value": 6
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Idaho",
-    "year": 2016,
-    "incidents": 140,
-    "deaths": 30,
-    "injuries": 35
-  },
+    "values": [
+      {"date": 2014, "value": 26},
+      {"date": 2015, "value": 34},
+      {"date": 2016, "value": 35},
+      {"date": 2017, "value": 32},
+      {"date": 2018, "value": 8
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Illinois",
-    "year": 2016,
-    "incidents": 4725,
-    "deaths": 755,
-    "injuries": 3966
-  },
+    "values": [
+      {"date": 2014, "value": 2266},
+      {"date": 2015, "value": 2810},
+      {"date": 2016, "value": 3966},
+      {"date": 2017, "value": 3503},
+      {"date": 2018, "value": 484
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Indiana",
-    "year": 2016,
-    "incidents": 1356,
-    "deaths": 340,
-    "injuries": 687
-  },
+    "values": [
+      {"date": 2014, "value": 595},
+      {"date": 2015, "value": 694},
+      {"date": 2016, "value": 687},
+      {"date": 2017, "value": 710},
+      {"date": 2018, "value": 113
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Iowa",
-    "year": 2016,
-    "incidents": 621,
-    "deaths": 54,
-    "injuries": 183
-  },
+    "values": [
+      {"date": 2014, "value": 168},
+      {"date": 2015, "value": 192},
+      {"date": 2016, "value": 183},
+      {"date": 2017, "value": 223},
+      {"date": 2018, "value": 35
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Kansas",
-    "year": 2016,
-    "incidents": 529,
-    "deaths": 103,
-    "injuries": 236
-  },
+    "values": [
+      {"date": 2014, "value": 158},
+      {"date": 2015, "value": 187},
+      {"date": 2016, "value": 236},
+      {"date": 2017, "value": 254},
+      {"date": 2018, "value": 53
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Kentucky",
-    "year": 2016,
-    "incidents": 900,
-    "deaths": 252,
-    "injuries": 430
-  },
+    "values": [
+      {"date": 2014, "value": 318},
+      {"date": 2015, "value": 424},
+      {"date": 2016, "value": 430},
+      {"date": 2017, "value": 512},
+      {"date": 2018, "value": 125
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Louisiana",
-    "year": 2016,
-    "incidents": 1865,
-    "deaths": 431,
-    "injuries": 998
-  },
+    "values": [
+      {"date": 2014, "value": 915},
+      {"date": 2015, "value": 890},
+      {"date": 2016, "value": 998},
+      {"date": 2017, "value": 1161},
+      {"date": 2018, "value": 209
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Maine",
-    "year": 2016,
-    "incidents": 231,
-    "deaths": 18,
-    "injuries": 37
-  },
+    "values": [
+      {"date": 2014, "value": 25},
+      {"date": 2015, "value": 31},
+      {"date": 2016, "value": 37},
+      {"date": 2017, "value": 36},
+      {"date": 2018, "value": 3
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Maryland",
-    "year": 2016,
-    "incidents": 1236,
-    "deaths": 385,
-    "injuries": 722
-  },
+    "values": [
+      {"date": 2014, "value": 601},
+      {"date": 2015, "value": 783},
+      {"date": 2016, "value": 722},
+      {"date": 2017, "value": 834},
+      {"date": 2018, "value": 131
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Massachusetts",
-    "year": 2016,
-    "incidents": 1438,
-    "deaths": 85,
-    "injuries": 425
-  },
+    "values": [
+      {"date": 2014, "value": 314},
+      {"date": 2015, "value": 382},
+      {"date": 2016, "value": 425},
+      {"date": 2017, "value": 441},
+      {"date": 2018, "value": 73
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Michigan",
-    "year": 2016,
-    "incidents": 1185,
-    "deaths": 328,
-    "injuries": 629
-  },
+    "values": [
+      {"date": 2014, "value": 629},
+      {"date": 2015, "value": 626},
+      {"date": 2016, "value": 629},
+      {"date": 2017, "value": 761},
+      {"date": 2018, "value": 150
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Minnesota",
-    "year": 2016,
-    "incidents": 414,
-    "deaths": 79,
-    "injuries": 196
-  },
+    "values": [
+      {"date": 2014, "value": 193},
+      {"date": 2015, "value": 153},
+      {"date": 2016, "value": 196},
+      {"date": 2017, "value": 273},
+      {"date": 2018, "value": 58
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Mississippi",
-    "year": 2016,
-    "incidents": 813,
-    "deaths": 267,
-    "injuries": 472
-  },
+    "values": [
+      {"date": 2014, "value": 317},
+      {"date": 2015, "value": 334},
+      {"date": 2016, "value": 472},
+      {"date": 2017, "value": 577},
+      {"date": 2018, "value": 121
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Missouri",
-    "year": 2016,
-    "incidents": 1462,
-    "deaths": 470,
-    "injuries": 791
-  },
+    "values": [
+      {"date": 2014, "value": 647},
+      {"date": 2015, "value": 921},
+      {"date": 2016, "value": 791},
+      {"date": 2017, "value": 914},
+      {"date": 2018, "value": 173
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Montana",
-    "year": 2016,
-    "incidents": 154,
-    "deaths": 38,
-    "injuries": 21
-  },
+    "values": [
+      {"date": 2014, "value": 30},
+      {"date": 2015, "value": 35},
+      {"date": 2016, "value": 21},
+      {"date": 2017, "value": 33},
+      {"date": 2018, "value": 11
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Nebraska",
-    "year": 2016,
-    "incidents": 361,
-    "deaths": 51,
-    "injuries": 153
-  },
+    "values": [
+      {"date": 2014, "value": 148},
+      {"date": 2015, "value": 176},
+      {"date": 2016, "value": 153},
+      {"date": 2017, "value": 145},
+      {"date": 2018, "value": 28
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Nevada",
-    "year": 2016,
-    "incidents": 488,
-    "deaths": 173,
-    "injuries": 264
-  },
+    "values": [
+      {"date": 2014, "value": 152},
+      {"date": 2015, "value": 234},
+      {"date": 2016, "value": 264},
+      {"date": 2017, "value": 212},
+      {"date": 2018, "value": 53
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "New Hampshire",
-    "year": 2016,
-    "incidents": 252,
-    "deaths": 17,
-    "injuries": 36
-  },
+    "values": [
+      {"date": 2014, "value": 38},
+      {"date": 2015, "value": 26},
+      {"date": 2016, "value": 36},
+      {"date": 2017, "value": 27},
+      {"date": 2018, "value": 10
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "New Jersey",
-    "year": 2016,
-    "incidents": 1151,
-    "deaths": 262,
-    "injuries": 619
-  },
+    "values": [
+      {"date": 2014, "value": 627},
+      {"date": 2015, "value": 490},
+      {"date": 2016, "value": 619},
+      {"date": 2017, "value": 646},
+      {"date": 2018, "value": 61
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "New Mexico",
-    "year": 2016,
-    "incidents": 373,
-    "deaths": 110,
-    "injuries": 122
-  },
+    "values": [
+      {"date": 2014, "value": 82},
+      {"date": 2015, "value": 159},
+      {"date": 2016, "value": 122},
+      {"date": 2017, "value": 137},
+      {"date": 2018, "value": 24
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "New York",
-    "year": 2016,
-    "incidents": 2418,
-    "deaths": 383,
-    "injuries": 1208
-  },
+    "values": [
+      {"date": 2014, "value": 962},
+      {"date": 2015, "value": 1517},
+      {"date": 2016, "value": 1208},
+      {"date": 2017, "value": 1072},
+      {"date": 2018, "value": 127
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "North Carolina",
-    "year": 2016,
-    "incidents": 1931,
-    "deaths": 490,
-    "injuries": 1114
-  },
+    "values": [
+      {"date": 2014, "value": 883},
+      {"date": 2015, "value": 1091},
+      {"date": 2016, "value": 1114},
+      {"date": 2017, "value": 1126},
+      {"date": 2018, "value": 228
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "North Dakota",
-    "year": 2016,
-    "incidents": 137,
-    "deaths": 14,
-    "injuries": 30
-  },
+    "values": [
+      {"date": 2014, "value": 24},
+      {"date": 2015, "value": 33},
+      {"date": 2016, "value": 30},
+      {"date": 2017, "value": 33},
+      {"date": 2018, "value": 6
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Ohio",
-    "year": 2016,
-    "incidents": 2224,
-    "deaths": 513,
-    "injuries": 1320
-  },
+    "values": [
+      {"date": 2014, "value": 1120},
+      {"date": 2015, "value": 1293},
+      {"date": 2016, "value": 1320},
+      {"date": 2017, "value": 1470},
+      {"date": 2018, "value": 242
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Oklahoma",
-    "year": 2016,
-    "incidents": 827,
-    "deaths": 198,
-    "injuries": 383
-  },
+    "values": [
+      {"date": 2014, "value": 238},
+      {"date": 2015, "value": 407},
+      {"date": 2016, "value": 383},
+      {"date": 2017, "value": 364},
+      {"date": 2018, "value": 81
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Oregon",
-    "year": 2016,
-    "incidents": 517,
-    "deaths": 76,
-    "injuries": 156
-  },
+    "values": [
+      {"date": 2014, "value": 126},
+      {"date": 2015, "value": 190},
+      {"date": 2016, "value": 156},
+      {"date": 2017, "value": 165},
+      {"date": 2018, "value": 36
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Pennsylvania",
-    "year": 2016,
-    "incidents": 2000,
-    "deaths": 478,
-    "injuries": 1115
-  },
+    "values": [
+      {"date": 2014, "value": 1284},
+      {"date": 2015, "value": 1057},
+      {"date": 2016, "value": 1115},
+      {"date": 2017, "value": 1154},
+      {"date": 2018, "value": 214
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Rhode Island",
-    "year": 2016,
-    "incidents": 222,
-    "deaths": 9,
-    "injuries": 78
-  },
+    "values": [
+      {"date": 2014, "value": 75},
+      {"date": 2015, "value": 87},
+      {"date": 2016, "value": 78},
+      {"date": 2017, "value": 78},
+      {"date": 2018, "value": 13
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "South Carolina",
-    "year": 2016,
-    "incidents": 1400,
-    "deaths": 328,
-    "injuries": 681
-  },
+    "values": [
+      {"date": 2014, "value": 626},
+      {"date": 2015, "value": 737},
+      {"date": 2016, "value": 681},
+      {"date": 2017, "value": 782},
+      {"date": 2018, "value": 172
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "South Dakota",
-    "year": 2016,
-    "incidents": 130,
-    "deaths": 18,
-    "injuries": 28
-  },
+    "values": [
+      {"date": 2014, "value": 20},
+      {"date": 2015, "value": 28},
+      {"date": 2016, "value": 28},
+      {"date": 2017, "value": 21},
+      {"date": 2018, "value": 10
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Tennessee",
-    "year": 2016,
-    "incidents": 1819,
-    "deaths": 384,
-    "injuries": 1043
-  },
+    "values": [
+      {"date": 2014, "value": 853},
+      {"date": 2015, "value": 1015},
+      {"date": 2016, "value": 1043},
+      {"date": 2017, "value": 1183},
+      {"date": 2018, "value": 201
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Texas",
-    "year": 2016,
-    "incidents": 3250,
-    "deaths": 1100,
-    "injuries": 1401
-  },
+    "values": [
+      {"date": 2014, "value": 1153},
+      {"date": 2015, "value": 1335},
+      {"date": 2016, "value": 1401},
+      {"date": 2017, "value": 1524},
+      {"date": 2018, "value": 339
+    }
+  ]},
   {
+    "measure": "injuries",
+    "state": "USA",
+    "values": [
+      {"date": 2014, "value": 449},
+      {"date": 2015, "value": 525},
+      {"date": 2016, "value": 555},
+      {"date": 2017, "value": 587},
+      {"date": 2018, "value": 108
+    }
+  ]},
+  {
+    "measure": "injuries",
     "state": "Utah",
-    "year": 2016,
-    "incidents": 222,
-    "deaths": 56,
-    "injuries": 69
-  },
+    "values": [
+      {"date": 2014, "value": 69},
+      {"date": 2015, "value": 99},
+      {"date": 2016, "value": 69},
+      {"date": 2017, "value": 106},
+      {"date": 2018, "value": 31
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Vermont",
-    "year": 2016,
-    "incidents": 85,
-    "deaths": 9,
-    "injuries": 8
-  },
+    "values": [
+      {"date": 2014, "value": 28},
+      {"date": 2015, "value": 19},
+      {"date": 2016, "value": 8},
+      {"date": 2017, "value": 10},
+      {"date": 2018, "value": 2
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Virginia",
-    "year": 2016,
-    "incidents": 1362,
-    "deaths": 311,
-    "injuries": 892
-  },
+    "values": [
+      {"date": 2014, "value": 578},
+      {"date": 2015, "value": 780},
+      {"date": 2016, "value": 892},
+      {"date": 2017, "value": 913},
+      {"date": 2018, "value": 179
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Washington",
-    "year": 2016,
-    "incidents": 701,
-    "deaths": 146,
-    "injuries": 274
-  },
+    "values": [
+      {"date": 2014, "value": 235},
+      {"date": 2015, "value": 300},
+      {"date": 2016, "value": 274},
+      {"date": 2017, "value": 341},
+      {"date": 2018, "value": 78
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "West Virginia",
-    "year": 2016,
-    "incidents": 348,
-    "deaths": 82,
-    "injuries": 148
-  },
+    "values": [
+      {"date": 2014, "value": 119},
+      {"date": 2015, "value": 154},
+      {"date": 2016, "value": 148},
+      {"date": 2017, "value": 152},
+      {"date": 2018, "value": 30
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Wisconsin",
-    "year": 2016,
-    "incidents": 807,
-    "deaths": 194,
-    "injuries": 423
-  },
+    "values": [
+      {"date": 2014, "value": 461},
+      {"date": 2015, "value": 562},
+      {"date": 2016, "value": 423},
+      {"date": 2017, "value": 511},
+      {"date": 2018, "value": 111
+    }
+  ]},
   {
+    "measure": "injuries",
     "state": "Wyoming",
-    "year": 2016,
-    "incidents": 124,
-    "deaths": 17,
-    "injuries": 12
-  },
-  {
-    "state": "Alabama",
-    "year": 2017,
-    "incidents": 1460,
-    "deaths": 543,
-    "injuries": 856
-  },
-  {
-    "state": "Alaska",
-    "year": 2017,
-    "incidents": 303,
-    "deaths": 68,
-    "injuries": 66
-  },
-  {
-    "state": "Arizona",
-    "year": 2017,
-    "incidents": 573,
-    "deaths": 280,
-    "injuries": 294
-  },
-  {
-    "state": "Arkansas",
-    "year": 2017,
-    "incidents": 801,
-    "deaths": 214,
-    "injuries": 430
-  },
-  {
-    "state": "California",
-    "year": 2017,
-    "incidents": 4502,
-    "deaths": 1383,
-    "injuries": 1911
-  },
-  {
-    "state": "Colorado",
-    "year": 2017,
-    "incidents": 786,
-    "deaths": 195,
-    "injuries": 296
-  },
-  {
-    "state": "Connecticut",
-    "year": 2017,
-    "incidents": 753,
-    "deaths": 89,
-    "injuries": 280
-  },
-  {
-    "state": "Delaware",
-    "year": 2017,
-    "incidents": 374,
-    "deaths": 54,
-    "injuries": 234
-  },
-  {
-    "state": "District of Columbia",
-    "year": 2017,
-    "incidents": 1122,
-    "deaths": 99,
-    "injuries": 333
-  },
-  {
-    "state": "Florida",
-    "year": 2017,
-    "incidents": 4055,
-    "deaths": 923,
-    "injuries": 1749
-  },
-  {
-    "state": "Georgia",
-    "year": 2017,
-    "incidents": 1952,
-    "deaths": 637,
-    "injuries": 1042
-  },
-  {
-    "state": "Hawaii",
-    "year": 2017,
-    "incidents": 65,
-    "deaths": 8,
-    "injuries": 18
-  },
-  {
-    "state": "Idaho",
-    "year": 2017,
-    "incidents": 156,
-    "deaths": 45,
-    "injuries": 32
-  },
-  {
-    "state": "Illinois",
-    "year": 2017,
-    "incidents": 4903,
-    "deaths": 914,
-    "injuries": 3503
-  },
-  {
-    "state": "Indiana",
-    "year": 2017,
-    "incidents": 1429,
-    "deaths": 391,
-    "injuries": 710
-  },
-  {
-    "state": "Iowa",
-    "year": 2017,
-    "incidents": 567,
-    "deaths": 67,
-    "injuries": 223
-  },
-  {
-    "state": "Kansas",
-    "year": 2017,
-    "incidents": 560,
-    "deaths": 146,
-    "injuries": 254
-  },
-  {
-    "state": "Kentucky",
-    "year": 2017,
-    "incidents": 1017,
-    "deaths": 270,
-    "injuries": 512
-  },
-  {
-    "state": "Louisiana",
-    "year": 2017,
-    "incidents": 1933,
-    "deaths": 527,
-    "injuries": 1161
-  },
-  {
-    "state": "Maine",
-    "year": 2017,
-    "incidents": 201,
-    "deaths": 33,
-    "injuries": 36
-  },
-  {
-    "state": "Maryland",
-    "year": 2017,
-    "incidents": 1545,
-    "deaths": 472,
-    "injuries": 834
-  },
-  {
-    "state": "Massachusetts",
-    "year": 2017,
-    "incidents": 1720,
-    "deaths": 125,
-    "injuries": 441
-  },
-  {
-    "state": "Michigan",
-    "year": 2017,
-    "incidents": 1333,
-    "deaths": 358,
-    "injuries": 761
-  },
-  {
-    "state": "Minnesota",
-    "year": 2017,
-    "incidents": 744,
-    "deaths": 112,
-    "injuries": 273
-  },
-  {
-    "state": "Mississippi",
-    "year": 2017,
-    "incidents": 1000,
-    "deaths": 316,
-    "injuries": 577
-  },
-  {
-    "state": "Missouri",
-    "year": 2017,
-    "incidents": 1698,
-    "deaths": 592,
-    "injuries": 914
-  },
-  {
-    "state": "Montana",
-    "year": 2017,
-    "incidents": 163,
-    "deaths": 41,
-    "injuries": 33
-  },
-  {
-    "state": "Nebraska",
-    "year": 2017,
-    "incidents": 428,
-    "deaths": 46,
-    "injuries": 145
-  },
-  {
-    "state": "Nevada",
-    "year": 2017,
-    "incidents": 427,
-    "deaths": 196,
-    "injuries": 212
-  },
-  {
-    "state": "New Hampshire",
-    "year": 2017,
-    "incidents": 199,
-    "deaths": 23,
-    "injuries": 27
-  },
-  {
-    "state": "New Jersey",
-    "year": 2017,
-    "incidents": 1303,
-    "deaths": 265,
-    "injuries": 646
-  },
-  {
-    "state": "New Mexico",
-    "year": 2017,
-    "incidents": 436,
-    "deaths": 119,
-    "injuries": 137
-  },
-  {
-    "state": "New York",
-    "year": 2017,
-    "incidents": 1981,
-    "deaths": 339,
-    "injuries": 1072
-  },
-  {
-    "state": "North Carolina",
-    "year": 2017,
-    "incidents": 2083,
-    "deaths": 540,
-    "injuries": 1126
-  },
-  {
-    "state": "North Dakota",
-    "year": 2017,
-    "incidents": 132,
-    "deaths": 15,
-    "injuries": 33
-  },
-  {
-    "state": "Ohio",
-    "year": 2017,
-    "incidents": 2632,
-    "deaths": 678,
-    "injuries": 1470
-  },
-  {
-    "state": "Oklahoma",
-    "year": 2017,
-    "incidents": 833,
-    "deaths": 244,
-    "injuries": 364
-  },
-  {
-    "state": "Oregon",
-    "year": 2017,
-    "incidents": 496,
-    "deaths": 96,
-    "injuries": 165
-  },
-  {
-    "state": "Pennsylvania",
-    "year": 2017,
-    "incidents": 2101,
-    "deaths": 615,
-    "injuries": 1154
-  },
-  {
-    "state": "Rhode Island",
-    "year": 2017,
-    "incidents": 189,
-    "deaths": 10,
-    "injuries": 78
-  },
-  {
-    "state": "South Carolina",
-    "year": 2017,
-    "incidents": 1679,
-    "deaths": 382,
-    "injuries": 782
-  },
-  {
-    "state": "South Dakota",
-    "year": 2017,
-    "incidents": 195,
-    "deaths": 18,
-    "injuries": 21
-  },
-  {
-    "state": "Tennessee",
-    "year": 2017,
-    "incidents": 1846,
-    "deaths": 489,
-    "injuries": 1183
-  },
-  {
-    "state": "Texas",
-    "year": 2017,
-    "incidents": 2804,
-    "deaths": 1131,
-    "injuries": 1524
-  },
-  {
-    "state": "Utah",
-    "year": 2017,
-    "incidents": 218,
-    "deaths": 68,
-    "injuries": 106
-  },
-  {
-    "state": "Vermont",
-    "year": 2017,
-    "incidents": 68,
-    "deaths": 9,
-    "injuries": 10
-  },
-  {
-    "state": "Virginia",
-    "year": 2017,
-    "incidents": 1448,
-    "deaths": 381,
-    "injuries": 913
-  },
-  {
-    "state": "Washington",
-    "year": 2017,
-    "incidents": 857,
-    "deaths": 223,
-    "injuries": 341
-  },
-  {
-    "state": "West Virginia",
-    "year": 2017,
-    "incidents": 379,
-    "deaths": 77,
-    "injuries": 152
-  },
-  {
-    "state": "Wisconsin",
-    "year": 2017,
-    "incidents": 1341,
-    "deaths": 199,
-    "injuries": 511
-  },
-  {
-    "state": "Wyoming",
-    "year": 2017,
-    "incidents": 91,
-    "deaths": 9,
-    "injuries": 13
-  },
-  {
-    "state": "Alabama",
-    "year": 2018,
-    "incidents": 316,
-    "deaths": 124,
-    "injuries": 206
-  },
-  {
-    "state": "Alaska",
-    "year": 2018,
-    "incidents": 48,
-    "deaths": 8,
-    "injuries": 13
-  },
-  {
-    "state": "Arizona",
-    "year": 2018,
-    "incidents": 135,
-    "deaths": 80,
-    "injuries": 66
-  },
-  {
-    "state": "Arkansas",
-    "year": 2018,
-    "incidents": 181,
-    "deaths": 41,
-    "injuries": 80
-  },
-  {
-    "state": "California",
-    "year": 2018,
-    "incidents": 997,
-    "deaths": 282,
-    "injuries": 392
-  },
-  {
-    "state": "Colorado",
-    "year": 2018,
-    "incidents": 203,
-    "deaths": 54,
-    "injuries": 73
-  },
-  {
-    "state": "Connecticut",
-    "year": 2018,
-    "incidents": 148,
-    "deaths": 17,
-    "injuries": 52
-  },
-  {
-    "state": "Delaware",
-    "year": 2018,
-    "incidents": 93,
-    "deaths": 8,
-    "injuries": 25
-  },
-  {
-    "state": "District of Columbia",
-    "year": 2018,
-    "incidents": 128,
-    "deaths": 14,
-    "injuries": 49
-  },
-  {
-    "state": "Florida",
-    "year": 2018,
-    "incidents": 744,
-    "deaths": 241,
-    "injuries": 352
-  },
-  {
-    "state": "Georgia",
-    "year": 2018,
-    "incidents": 379,
-    "deaths": 119,
-    "injuries": 182
-  },
-  {
-    "state": "Hawaii",
-    "year": 2018,
-    "incidents": 14,
-    "deaths": 0,
-    "injuries": 6
-  },
-  {
-    "state": "Idaho",
-    "year": 2018,
-    "incidents": 50,
-    "deaths": 14,
-    "injuries": 8
-  },
-  {
-    "state": "Illinois",
-    "year": 2018,
-    "incidents": 719,
-    "deaths": 146,
-    "injuries": 484
-  },
-  {
-    "state": "Indiana",
-    "year": 2018,
-    "incidents": 288,
-    "deaths": 88,
-    "injuries": 113
-  },
-  {
-    "state": "Iowa",
-    "year": 2018,
-    "incidents": 106,
-    "deaths": 9,
-    "injuries": 35
-  },
-  {
-    "state": "Kansas",
-    "year": 2018,
-    "incidents": 143,
-    "deaths": 37,
-    "injuries": 53
-  },
-  {
-    "state": "Kentucky",
-    "year": 2018,
-    "incidents": 205,
-    "deaths": 69,
-    "injuries": 125
-  },
-  {
-    "state": "Louisiana",
-    "year": 2018,
-    "incidents": 374,
-    "deaths": 110,
-    "injuries": 209
-  },
-  {
-    "state": "Maine",
-    "year": 2018,
-    "incidents": 45,
-    "deaths": 7,
-    "injuries": 3
-  },
-  {
-    "state": "Maryland",
-    "year": 2018,
-    "incidents": 320,
-    "deaths": 69,
-    "injuries": 131
-  },
-  {
-    "state": "Massachusetts",
-    "year": 2018,
-    "incidents": 337,
-    "deaths": 22,
-    "injuries": 73
-  },
-  {
-    "state": "Michigan",
-    "year": 2018,
-    "incidents": 562,
-    "deaths": 104,
-    "injuries": 150
-  },
-  {
-    "state": "Minnesota",
-    "year": 2018,
-    "incidents": 263,
-    "deaths": 19,
-    "injuries": 58
-  },
-  {
-    "state": "Mississippi",
-    "year": 2018,
-    "incidents": 237,
-    "deaths": 94,
-    "injuries": 121
-  },
-  {
-    "state": "Missouri",
-    "year": 2018,
-    "incidents": 307,
-    "deaths": 111,
-    "injuries": 173
-  },
-  {
-    "state": "Montana",
-    "year": 2018,
-    "incidents": 39,
-    "deaths": 5,
-    "injuries": 11
-  },
-  {
-    "state": "Nebraska",
-    "year": 2018,
-    "incidents": 89,
-    "deaths": 9,
-    "injuries": 28
-  },
-  {
-    "state": "Nevada",
-    "year": 2018,
-    "incidents": 102,
-    "deaths": 58,
-    "injuries": 53
-  },
-  {
-    "state": "New Hampshire",
-    "year": 2018,
-    "incidents": 46,
-    "deaths": 1,
-    "injuries": 10
-  },
-  {
-    "state": "New Jersey",
-    "year": 2018,
-    "incidents": 188,
-    "deaths": 50,
-    "injuries": 61
-  },
-  {
-    "state": "New Mexico",
-    "year": 2018,
-    "incidents": 77,
-    "deaths": 36,
-    "injuries": 24
-  },
-  {
-    "state": "New York",
-    "year": 2018,
-    "incidents": 293,
-    "deaths": 61,
-    "injuries": 127
-  },
-  {
-    "state": "North Carolina",
-    "year": 2018,
-    "incidents": 430,
-    "deaths": 100,
-    "injuries": 228
-  },
-  {
-    "state": "North Dakota",
-    "year": 2018,
-    "incidents": 25,
-    "deaths": 2,
-    "injuries": 6
-  },
-  {
-    "state": "Ohio",
-    "year": 2018,
-    "incidents": 518,
-    "deaths": 126,
-    "injuries": 242
-  },
-  {
-    "state": "Oklahoma",
-    "year": 2018,
-    "incidents": 183,
-    "deaths": 42,
-    "injuries": 81
-  },
-  {
-    "state": "Oregon",
-    "year": 2018,
-    "incidents": 125,
-    "deaths": 29,
-    "injuries": 36
-  },
-  {
-    "state": "Pennsylvania",
-    "year": 2018,
-    "incidents": 437,
-    "deaths": 121,
-    "injuries": 214
-  },
-  {
-    "state": "Rhode Island",
-    "year": 2018,
-    "incidents": 49,
-    "deaths": 5,
-    "injuries": 13
-  },
-  {
-    "state": "South Carolina",
-    "year": 2018,
-    "incidents": 319,
-    "deaths": 73,
-    "injuries": 172
-  },
-  {
-    "state": "South Dakota",
-    "year": 2018,
-    "incidents": 24,
-    "deaths": 6,
-    "injuries": 10
-  },
-  {
-    "state": "Tennessee",
-    "year": 2018,
-    "incidents": 357,
-    "deaths": 92,
-    "injuries": 201
-  },
-  {
-    "state": "Texas",
-    "year": 2018,
-    "incidents": 621,
-    "deaths": 291,
-    "injuries": 339
-  },
-  {
-    "state": "Utah",
-    "year": 2018,
-    "incidents": 51,
-    "deaths": 8,
-    "injuries": 31
-  },
-  {
-    "state": "Vermont",
-    "year": 2018,
-    "incidents": 19,
-    "deaths": 4,
-    "injuries": 2
-  },
-  {
-    "state": "Virginia",
-    "year": 2018,
-    "incidents": 273,
-    "deaths": 66,
-    "injuries": 179
-  },
-  {
-    "state": "Washington",
-    "year": 2018,
-    "incidents": 184,
-    "deaths": 48,
-    "injuries": 78
-  },
-  {
-    "state": "West Virginia",
-    "year": 2018,
-    "incidents": 72,
-    "deaths": 22,
-    "injuries": 30
-  },
-  {
-    "state": "Wisconsin",
-    "year": 2018,
-    "incidents": 344,
-    "deaths": 40,
-    "injuries": 111
-  },
-  {
-    "state": "Wyoming",
-    "year": 2018,
-    "incidents": 14,
-    "deaths": 10,
-    "injuries": 0
-  },
-  {
-    "state": "USA",
-    "year": 2014,
-    "incidents": 1013,
-    "deaths": 244,
-    "injuries": 449
-  },
-  {
-    "state": "USA",
-    "year": 2015,
-    "incidents": 1042,
-    "deaths": 259,
-    "injuries": 525
-  },
-  {
-    "state": "USA",
-    "year": 2016,
-    "incidents": 1069,
-    "deaths": 253,
-    "injuries": 555
-  },
-  {
-    "state": "USA",
-    "year": 2017,
-    "incidents": 1174,
-    "deaths": 295,
-    "injuries": 587
-  },
-  {
-    "state": "USA",
-    "year": 2018,
-    "incidents": 239,
-    "deaths": 62,
-    "injuries": 108
+    "values": [
+      {"date": 2014, "value": 12},
+      {"date": 2015, "value": 15},
+      {"date": 2016, "value": 12},
+      {"date": 2017, "value": 13},
+      {"date": 2018, "value": 0
+    }]
   }
 ]

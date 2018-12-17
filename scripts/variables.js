@@ -13,6 +13,7 @@ function changeMeasure(e) {
     currMeasure = e.getAttribute('measure');
     makeChronopleth();
     makeRadarChart();
+    makeLineChart();
 }
 
 function changeYear(e) {
@@ -33,13 +34,16 @@ function changeYear(e) {
             else options[i].classList.remove('option-menu-option-selected');
         }
     }
-    reloadCharts();
-}
-
-function reloadCharts() {
     makeChronopleth();
     makeBarChart()
     makeDonutChart();
     makeRadarChart();
+}
+
+function reloadCharts() {
+    makeChronopleth();
     makeLineChart();
+    makeBarChart()
+    makeDonutChart();
+    makeRadarChart();
 }

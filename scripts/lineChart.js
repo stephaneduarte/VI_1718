@@ -1,69 +1,197 @@
 function makeLineChart() {
-    // 2. Use the margin convention practice 
-    var margin = {top: 50, right: 50, bottom: 50, left: 50}
-    , width = 600 - margin.left - margin.right // Use the window's width 
-    , height = 250 - margin.top - margin.bottom; // Use the window's height
+    d3.json('dataset/line.json').then(function(data) {
+        var finaldata = [];
+        for (i in data) {
+            if (data[i].measure == currMeasure && selectedStates.indexOf(data[i].state) > -1){
+                finaldata.push(data[i]);
+            }
+            if (data[i].measure == currMeasure && data[i].state == "USA"){
+                finaldata.push(data[i]);
+            }
+        }
+        data = finaldata;
+        
+        var width = 650;
+        var height = 220;
+        var margin = 30;
+        var marginy = 100;
+        var duration = 250;
+        
+        var lineOpacity = "0.25";
+        var lineOpacityHover = "0.85";
+        var otherLinesOpacityHover = "0.25";
+        var lineStroke = "3px";
+        var lineStrokeHover = "4px";
+        
+        var circleOpacity = '0.85';
+        var circleOpacityOnLineHover = "0.25"
+        var circleRadius = 3;
+        var circleRadiusHover = 6;
+        
+        
+        /* Format Data */
+        var parseDate = d3.timeParse("%Y");
+        data.forEach(function(d) { 
+            d.values.forEach(function(d) {
+            d.date = parseDate(d.date);
+            d.value = +d.value;    
+            });
+        });
+        /* Scale */
+        var xScale = d3.scaleTime()
+            .domain(d3.extent(data[0].values, d => d.date))
+            .range([0, width-marginy]);
+        
+        var max = 0;
+        for (i in data) {
+            for (e in data[i].values){
+                if (data[i].values[e].value > max) max = data[i].values[e].value;
+            }
+        }
+        var yScale = d3.scaleLinear()
+            .domain([0, max])
+            .range([height-margin, 0]);
+        
+        var color = d3.scaleOrdinal(d3.schemeCategory10);
 
-    // The number of datapoints
-    var n = 5;
-
-    // 5. X scale will use the index of our data
-    var xScale = d3.scaleLinear()
-    .domain([0, n-1]) // input
-    .range([0, width]); // output
-
-    // 6. Y scale will use the randomly generate number 
-    var yScale = d3.scaleLinear()
-    .domain([0, 1]) // input 
-    .range([height, 0]); // output 
-
-    // 7. d3's line generator
-    var line = d3.line()
-    .x(function(d, i) { return xScale(i); }) // set the x values for the line generator
-    .y(function(d) { return yScale(d.y); }) // set the y values for the line generator 
-    .curve(d3.curveMonotoneX) // apply smoothing to the line
-
-    // 8. An array of objects of length N. Each object has key -> value pair, the key being "y" and the value is a random number
-    var dataset = d3.range(n).map(function(d) { return {"y": d3.randomUniform(1)() } })
-
-    var this_chart = d3.select('#lineChart');
+        var this_chart = d3.select('#lineChart');
         this_chart.selectAll('*').remove();
+        
+        /* Add SVG */
+        var svg = d3.select("#lineChart").append("svg")
+            .attr("width", (width+marginy)+"px")
+            .attr("height", (height+margin)+"px")
+            .append('g')
+            .attr("transform", `translate(${marginy}, ${margin})`);
+        
+        
+        /* Add line into SVG */
+        var line = d3.line()
+            .x(d => xScale(d.date))
+            .y(d => yScale(d.value));
+        
+        let lines = svg.append('g')
+            .attr('class', 'lines');
 
-    // 1. Add the SVG to the page and employ #2
-    var svg = d3.select("#lineChart").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        function tooltipHtml(arg1, arg2){	/* function to create html content string in tooltip div. */
+            if (arg2) return "<table>"+
+            "<tr><td>"+currMeasure.charAt(0).toUpperCase() + currMeasure.slice(1)+"</td><td>"+arg2+"</td></tr>"+
+            "</table>";
+            return "<h4>"+arg1+"</h4>"
+        }
 
-    // 3. Call the x axis in a group tag
-    svg.append("g")
-    .attr("class", "x axis")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(xScale)); // Create an axis component with d3.axisBottom
-
-    // 4. Call the y axis in a group tag
-    svg.append("g")
-    .attr("class", "y axis")
-    .call(d3.axisLeft(yScale)); // Create an axis component with d3.axisLeft
-
-    // 9. Append the path, bind the data, and call the line generator 
-    svg.append("path")
-    .datum(dataset) // 10. Binds data to the line 
-    .attr("class", "line") // Assign a class for styling 
-    .attr("d", line); // 11. Calls the line generator 
-
-    // 12. Appends a circle for each datapoint 
-    svg.selectAll(".dot")
-    .data(dataset)
-    .enter().append("circle") // Uses the enter().append() method
-    .attr("class", "dot") // Assign a class for styling
-    .attr("cx", function(d, i) { return xScale(i) })
-    .attr("cy", function(d) { return yScale(d.y) })
-    .attr("r", 5)
-        .on("mouseover", function(a, b, c) { 
-                console.log(a) 
-        this.attr('class', 'focus')
-        })
-        .on("mouseout", function() {  })
+        lines.selectAll('.line-group')
+            .data(data).enter()
+            .append('g')
+            .attr('class', 'line-group')  
+            .on("mouseover", function(d, i) {
+                /*svg.append("text")
+                .attr("class", "title-text")
+                .style("fill", color(i))        
+                .text(d.state)
+                .attr("text-anchor", "middle")
+                .attr("x", (width-marginy)/2)
+                .attr("y", 5);*/
+                d3.select("#linechartTooltip").transition().duration(200).style("opacity", .9);
+                d3.select("#linechartTooltip").html(tooltipHtml(d.state, null))  
+                    .style("left", (d3.event.pageX) + "px")     
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+            .on("mouseout", function(d) {
+                d3.select("#linechartTooltip").transition().duration(500).style("opacity", 0); 
+                //svg.select(".title-text").remove();
+            })
+            .append('path')
+            .attr('class', 'line')  
+            .attr('d', d => line(d.values))
+            .style('stroke', (d, i) => color(i))
+            .style('opacity', lineOpacity)
+            .on("mouseover", function(d) {
+                d3.selectAll('.line')
+                            .style('opacity', otherLinesOpacityHover);
+                d3.selectAll('.circle')
+                            .style('opacity', circleOpacityOnLineHover);
+                d3.select(this)
+                .style('opacity', lineOpacityHover)
+                .style("stroke-width", lineStrokeHover)
+                .style("cursor", "default");
+            })
+            .on("mouseout", function(d) {
+                d3.selectAll(".line")
+                            .style('opacity', lineOpacity);
+                d3.selectAll('.circle')
+                            .style('opacity', circleOpacity);
+                d3.select(this)
+                .style("stroke-width", lineStroke)
+                .style("cursor", "none");
+            });
+        
+        
+        /* Add circles in the line */
+        lines.selectAll("circle-group")
+            .data(data).enter()
+            .append("g")
+            .style("fill", (d, i) => color(i))
+            .selectAll("circle")
+            .data(d => d.values).enter()
+            .append("g")
+            .attr("class", "circle")  
+            .on("mouseover", function(d) {
+                d3.select(this)     
+                .style("cursor", "default");
+                /*.append("text")
+                .attr("class", "text")
+                .text(`${d.value}`)
+                .attr("x", d => xScale(d.date) + 5)
+                .attr("y", d => yScale(d.value) - 10);*/
+                d3.select("#linechartTooltip").transition().duration(200).style("opacity", .9);
+                d3.select("#linechartTooltip").html(tooltipHtml(d.state, d.value))  
+                    .style("left", (d3.event.pageX) + "px")     
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+            .on("mouseout", function(d) {
+                d3.select(this)
+                .style("cursor", "none"); 
+                /*.transition()
+                .duration(duration)
+                .selectAll(".text").remove();*/
+                d3.select("#linechartTooltip").transition().duration(500).style("opacity", 0); 
+            })
+            .append("circle")
+            .attr("cx", d => xScale(d.date))
+            .attr("cy", d => yScale(d.value))
+            .attr("r", circleRadius)
+            .style('opacity', circleOpacity)
+            .on("mouseover", function(d) {
+                d3.select(this)
+                    .transition()
+                    .duration(duration)
+                    .attr("r", circleRadiusHover);
+                })
+            .on("mouseout", function(d) {
+                d3.select(this) 
+                    .transition()
+                    .duration(duration)
+                    .attr("r", circleRadius);  
+                });
+        
+        
+        /* Add Axis into SVG */
+        var xAxis = d3.axisBottom(xScale).ticks(5);
+        var yAxis = d3.axisLeft(yScale).ticks(5);
+        
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", `translate(0, ${height-margin})`)
+            .call(xAxis);
+        
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis)
+            .append('text')
+            .attr("y", 15)
+            .attr("transform", "rotate(-90)")
+            .attr("fill", "#000")
+            .text("Total values");
+    });
 }

@@ -15,7 +15,7 @@ function RadarChart(id, data, options) {
 	 maxValue: 0, 				//What is the value that the biggest circle will represent
 	 labelFactor: 1.25, 			//How much farther than the radius of the outer circle should the labels be placed
 	 wrapWidth: 60, 			//The number of pixels after which a label needs to be given a new line
-	 opacityArea: 0.35, 		//The opacity of the area of the blob
+	 opacityArea: 0.25, 		//The opacity of the area of the blob
 	 dotRadius: 4, 				//The size of the colored circles of each blog
 	 opacityCircles: 0.1, 			//The opacity of the circles of each blob
 	 strokeWidth: 2, 			//The width of the stroke around each blob
@@ -160,7 +160,15 @@ function RadarChart(id, data, options) {
 		.data(auxData)
 		.enter().append("g")
 		.attr("class", "radarWrapper");
-			
+	
+	function findState(month, value) {
+		for (i in data) {
+			for (e in data[i].values){
+				if (month == data[i].values[e].axis && value == data[i].values[e].value) return data[i].key;
+			}
+		}
+	}
+	
 	//Append the backgrounds	
 	blobWrapper
 		.append("path")
@@ -229,13 +237,14 @@ function RadarChart(id, data, options) {
             d3.select("#radarChartTooltip").transition().duration(200).style("opacity", .9);
             d3.select("#radarChartTooltip").html(tooltipHtml(d.axis, d.value))  
                 .style("left", (d3.event.pageX) + "px")     
-                .style("top", (d3.event.pageY - 28) + "px");
+                .style("top", (d3.event.pageY - 100) + "px");
 		})
 		.on("mouseout", function(){
             d3.select("#radarChartTooltip").transition().duration(500).style("opacity", 0);  
         });
 
-    function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
+	function tooltipHtml(n, d){	/* function to create html content string in tooltip div. */
+		var state = findState(n,d);
         var month;
         if (n == "JAN") month = "January";
         else if (n == "FEB") month = "February";
@@ -249,8 +258,10 @@ function RadarChart(id, data, options) {
         else if (n == "OCT") month = "October";
         else if (n == "NOV") month = "November";
         else if (n == "DEC") month = "December";
-        return "<h4>"+month+" "+currYear+"</h4><table>"+
-            "<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+Math.round( d * 100 ) / 100+"%</td></tr>"+
+		return "<h4>"+state+"</h4><table>"+
+			"<tr><td>Month</td><td>"+month+"</td></tr>"+
+			"<tr><td>Year</td><td>"+currYear+"</td></tr>"+
+            "<tr><td>"+currMeasure.charAt(0).toUpperCase()+currMeasure.slice(1)+"</td><td>"+Math.round( d * 100 )+"%</td></tr>"+
             "</table>";
     }
 		
@@ -305,8 +316,8 @@ function makeRadarChart() {
     //////////////////// Draw the Chart ////////////////////////// 
     ////////////////////////////////////////////////////////////// 
 
-    var color = d3.scaleOrdinal()
-        .range(['#a8dba8', '#79bd9a', '#3b8686', '#0b486b']);
+    /*var color = d3.scaleOrdinal()
+        .range(['#a8dba8', '#79bd9a', '#3b8686', '#0b486b']);*/
         
     var radarChartOptions = {
         w: width,
@@ -314,8 +325,8 @@ function makeRadarChart() {
         margin: margin,
         maxValue: 0,
         levels: 5,
-        roundStrokes: true,
-        color: color
+        roundStrokes: true
+        //color: color
     };
 
     //Load the data and Call function to draw the Radar chart

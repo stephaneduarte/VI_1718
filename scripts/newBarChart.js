@@ -81,11 +81,11 @@ function makeBarChart() {
                     .attr("x", function(d) { return xScale(d[0]); })
                     .attr("height", yScale.bandwidth())
                     .attr("width", function(d) { return xScale(d[1]) - xScale(d[0]) })
-                    .on("mouseover", function(d,i) {
+                    .on("mouseover", function(d) {
                         d3.select("#barChartTooltip").transition().duration(200).style("opacity", .9);
                         d3.select("#barChartTooltip").html(tooltipHtml(d))  
                             .style("left", (d3.event.pageX) + "px")     
-                            .style("top", (d3.event.pageY - 28) + "px");
+                            .style("top", (d3.event.pageY - 100) + "px");
                     })
                     .on("mouseout", function(){
                         d3.select("#barChartTooltip").transition().duration(500).style("opacity", 0);  

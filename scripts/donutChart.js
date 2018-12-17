@@ -6,7 +6,7 @@ function donutChart() {
         variable, // value in data that will dictate proportions on chart
         category, // compare data by
         padAngle, // effectively dictates the gap between slices
-        floatFormat = d3.format('.1r'),
+        floatFormat = d3.format('.4r'),
         cornerRadius, // sets how rounded the corners are on each slice
         percentFormat = d3.format(',.2%');
 

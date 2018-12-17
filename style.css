@@ -188,11 +188,11 @@ table {
 
 /* BAR CHART */
 
-.axis text {
+#stacked-bar .axis text {
     font: 12px;
 }
 
-.axis .domain {
+#stacked-bar .axis .domain {
     visibility: hidden;
 }
 
@@ -225,25 +225,19 @@ polyline{
 }
 
 /* Line Chart */
-/* Style the lines by removing the fill and applying a stroke */
 .line {
-    fill: none;
-    stroke: #ffab00;
-    stroke-width: 3;
-}
-  
-.overlay {
+  stroke-width: 3;
   fill: none;
-  pointer-events: all;
 }
 
-/* Style the dots by assigning a fill and stroke */
-.dot {
-    fill: #ffab00;
-    stroke: #fff;
+.axis path {
+  stroke: black;
 }
-  
-  .focus circle {
-  fill: none;
-  stroke: steelblue;
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
 }
